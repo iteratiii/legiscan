@@ -129,3 +129,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 azcentral-text-reuse-model-legislation/notebooks/config.py
+azcentral-text-reuse-model-legislation/notebooks/billtxts/.DS_Store
