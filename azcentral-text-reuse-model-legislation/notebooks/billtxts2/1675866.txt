@@ -1,0 +1,194 @@
+FIRST REGULAR SESSION
+HOUSE BILL NO. 916 102ND GENERAL ASSEMBLY
+INTRODUCED BY REPRESENTATIVE BUCHHEIT-COURTWAY.
+DANA RADEMAN MILLER, Chief Clerk
+AN ACT
+    2 3
+2
+2 3 4 5 6 7 8 9
+10 11 12 13 14
+To amend chapter 191, RSMo, by adding thereto seven new sections relating to gender transition procedures, with a delayed effective date.
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+Section A. Chapter 191, RSMo, is amended by adding thereto seven new sections, to be known as sections 191.1720, 191.1725, 191.1730, 191.1735, 191.1740, 191.1742, and 191.1745, to read as follows:
+191.1720. Sections 191.1720 to 191.1745 shall be known and may be cited as the "Missouri Child and Adolescent Protection (MCAP) Act".
+191.1725. For purposes of this section, the following terms mean:
+(1) "Biological sex", the biological indication of male or female in the context of reproductive potential or capacity, such as sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth, without regard to an individual's psychological, chosen, or subjective experience of gender;
+(2) "Cross-sex hormones":
+(a) Testosterone or other androgens given to biological sex females in amounts that are larger or more potent than would normally occur naturally in healthy biological sex females; and
+(b) Estrogen given to biological sex males in amounts that are larger or more potent than would normally occur naturally in healthy biological sex males;
+(3) "Gender", the psychological, behavioral, social, and cultural aspects of being male or female;
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+HB 916 2
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+(4) "Gender reassignment surgery", any medical or surgical service that seeks to surgically alter or remove physical or anatomical characteristics or features that are typical for the individual's biological sex in order to instill or create physiological or anatomical characteristics that resemble a sex different from the individual's biological sex including, but not limited to, genital or nongenital gender reassignment surgery performed for the purpose of assisting an individual with a gender transition;
+(5) "Gender transition", the process in which an individual transitions from identifying with and living as a gender that corresponds to his or her biological sex to identifying with and living as a gender different from his or her biological sex and may involve social, legal, or physical changes;
+(6) "Gender transition procedure":
+(a) Any medical or surgical service, including, but not limited to, physician's services, inpatient and outpatient hospital services, or prescribed drugs, related to gender transition that seeks to:
+a. Alter or remove physical or anatomical characteristics or features that are typical for the individual's biological sex; or
+b. Instill or create physiological or anatomical characteristics that resemble a sex different from the individual's biological sex including, but not limited to:
+(i) Medical services that provide puberty-blocking drugs, cross-sex hormones, or other mechanisms to promote the development of features commonly associated with members of the opposite sex; or
+(ii) Genital or nongenital gender reassignment surgery performed for the purpose of assisting an individual with a gender transition;
+(b) The term "gender transition procedure" shall not include:
+a. Services to individuals born with a medically verifiable disorder of sex development including, but not limited to, an individual with external biological sex characteristics that are irresolvably ambiguous, such as those born with 46,XX chromosomes with virilization, 46,XY chromosomes with undervirilization, or having both ovarian and testicular tissue;
+b. Services provided when a physician has otherwise diagnosed an individual with a disorder of sexual development and determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action;
+c. The treatment of any infection, injury, disease, or disorder that has been caused by or exacerbated by the performance of gender transition procedures regardless of whether the gender transition procedure was performed in accordance with state and federal law; or
+
+HB 916 3
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+d. Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of a major bodily function unless surgery is performed;
+(7) "Genital gender reassignment surgery", a medical procedure performed for the purpose of assisting an individual with a gender transition including, but not limited to:
+(a) Surgical procedures such as penectomy, orchiectomy, vaginoplasty, clitoroplasty, or vulvoplasty for biologically male patients or hysterectomy or ovariectomy for biologically female patients;
+(b) Reconstruction of the fixed part of the urethra with or without a metoidioplasty; or
+(c) Phalloplasty, vaginectomy, scrotoplasty, or implantation of erection or testicular prostheses for biologically female patients;
+(8) "Health care provider", an individual who is licensed, certified, or otherwise authorized by the laws of this state to administer health care in the ordinary course of the practice of his or her profession, including mental health care providers;
+(9) "Nongenital gender reassignment surgery", a medical procedure performed for the purpose of assisting an individual with a gender transition including, but not limited to:
+(a) Surgical procedures for biologically male patients, such as augmentation mammoplasty, facial feminization surgery, liposuction, lipofilling, voice surgery, thyroid cartilage reduction, gluteal augmentation, hair reconstruction, or various aesthetic procedures; or
+(b) Surgical procedures for biologically female patients, such as subcutaneous mastectomy, voice surgery, liposuction, lipofilling, pectoral implants, or various aesthetic procedures;
+(10) "Physician", an individual who is licensed as a physician under chapter 334;
+(11) "Puberty-blocking drugs", gonadotropin-releasing hormone analogues or other synthetic drugs used in biological sex males to stop luteinizing hormone secretion and therefore testosterone secretion, or synthetic drugs used in biological sex females that stop the production of estrogens and progesterone, when used to delay or suppress pubertal development in children for the purpose of assisting an individual with a gender transition;
+(12) "Public funds", state, county, or local government moneys, including any such moneys deposited with or derived from any department, agency, or instrumentality authorized or appropriated under state law.
+
+HB 916 4
+191.1730. A physician or other health care provider shall not knowingly provide
+2 gender transition procedures to any individual under eighteen years of age and shall not
+3 refer any individual under eighteen years of age to any health care provider for gender
+4 transition procedures.
+191.1735. 1. Public funds shall not be directly or indirectly used, granted, paid,
+2 or distributed to any individual, entity, or organization that provides gender transition
+3 procedures to an individual under eighteen years of age.
+4 2. The MO HealthNet program shall not reimburse or provide coverage for
+5 gender transition procedures to an individual under eighteen years of age.
+6 3. The provisions of this section shall not apply to any speech protected by the
+7 First Amendment of the United States Constitution.
+191.1740. Any referral for or provision of gender transition procedures to an
+2 individual under eighteen years of age shall be considered unprofessional conduct and
+3 any health care provider doing so may be subject to discipline by the appropriate
+4 licensing entity or disciplinary review board with competent jurisdiction in this state.
+191.1742. Sections 191.1720 to 191.1745 shall not apply to the provision of cross-
+2 sex hormones to any individual under eighteen years of age who was prescribed cross-
+3 sex hormones before January 1, 2024, to treat an inconsistency between the individual's
+4 biological sex and the individual's perceived gender or perceived sex.
+191.1745. 1. The provision of a gender transition procedure to an individual
+2 under eighteen years of age in violation of sections 191.1720 to 191.1745 shall be
+3 considered grounds for a cause of action against the physician or health care provider.
+4 2. The provisions of chapter 538 shall not apply to any action brought under this
+5 section.
+6 3. (1) An individual under eighteen years of age may bring an action under this
+7 section throughout the individual's minority through a parent or next friend and may
+8 bring an action under this section in the individual's own name upon reaching the age of
+9 majority at any time from that point until twenty years after reaching the age of
+10 majority or four years from the time of discovery by the injured party of both the injury
+11 and the causal relationship between the treatment and the injury, whichever date is
+12 later.
+13 (2) If at the time the individual abused attains eighteen years of age he or she is
+14 under other legal disability, the limitation period under subdivision (1) of this subsection
+15 shall not begin to run until the removal of the disability.
+16 (3) The limitation period in subdivision (1) of this subsection shall not run
+17 during a time period when the individual is subject to threats, intimidation,
+18 manipulation, fraudulent concealment, or fraud perpetrated by the physician or other
+
+HB 916 5
+19 health care professional who prescribed or otherwise provided gender transition
+20 procedures or by any person acting in the interest of the physician or other health care
+21 professional.
+22 4. (1) An individual may assert an actual or threatened violation of sections
+23 191.1720 to 191.1745 as a claim or defense in a judicial proceeding.
+24 (2) The following damages may be awarded to a claimant described in
+25 subdivision (1) of this subsection:
+26 (a) Compensatory damages including, but not limited to:
+27 a. Pain and suffering;
+28 b. Loss of reputation;
+29 c. Loss of income; and
+30 d. Loss of consortium including, but not limited to, the loss of expectation of
+31 sharing parenthood;
+32 (b) Injunctive relief;
+33 (c) Declaratory judgment;
+34 (d) Punitive damages; and
+35 (e) Any other appropriate relief.
+36 (3) A prevailing party who establishes a violation of sections 191.1720 to
+37 191.1745 shall recover reasonable attorney's fees.
+38 5. Notwithstanding any other provision of law, an action under this section may
+39 be commenced, and relief may be granted, in a judicial proceeding without regard to
+40 whether the individual commencing the action has sought or exhausted available
+41 administrative remedies.
+42 6. The attorney general may bring an action to enforce compliance with sections
+43 191.1720 to 191.1745.
+44 7. Sections 191.1720 to 191.1745 do not deny, impair, or otherwise affect any
+45 right or authority of the attorney general, the state, or any agency, officer, or employee
+46 of the state, acting under any law other than sections 191.1720 to 191.1745, to institute
+47 or intervene in any proceeding.
+Section B. The enactment of sections 191.1720 to 191.1745 of this act shall become
+2 effective on January 1, 2024.
+✔
