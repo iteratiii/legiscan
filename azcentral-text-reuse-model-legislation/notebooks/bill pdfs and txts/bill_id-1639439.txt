@@ -1,0 +1,431 @@
+S.B. 16LEGISLATIVE GENERAL  COUNSEL
+6  Approved for F iling: C. W illiams  6
+6    12-16-22 2:09 PM    6S.B. 1 6
+1 SEX CHARACTERI STIC SURGI CAL PROCEDURES
+2 2023 GENERAL  SESSI ON
+3 STATE OF  UTAH
+4 Chief Spo nsor:  Mi chael S. Kennedy
+5 House Sponsor:  ____________
+6  
+7 LONG  TITLE
+8 Com mittee Note:
+9 The Health and Human Services I nterim Committee recommended this bill.
+10 Legislative Vote: 12 voting  for 5 voting  against 1 absent
+11 General Description:
+12  This bill enacts provisions reg arding  sex characteristic surg ical procedures.
+13 Highlighted P rovisions:
+14 This bill:
+15 <defines terms;
+16 <prohibits performing  sex characteristic surg ical procedures on a minor for the
+17 purpose of effectuating  a sex  chang e; and
+18 <makes technical chang es.
+19 Money Appropriated in this Bill:
+20 None
+21 Other Special Clauses:
+22 None
+23 Utah Code Sections Af fected:
+24 AMENDS:
+25 58-67-102 , as last amended by  Laws of Utah 2022, Chapter 233
+26 58-67-502 , as last amended by  Laws of Utah 2021, Chapter 337
+27 58-68-102 , as last amended by  Laws of Utah 2022, Chapter 233
+*SB0016*S.B. 1 6 12-16-22 2:09 PM
+- 2 -28 58-68-502 , as last amended by  Laws of Utah 2021, Chapter 337
+29  
+30 Be it enacted by the Legislature of the state of Utah:
+31 Section 1.  Section 58-67-102  is amended to read:
+32 58-67-102.    Definitions.
+33 In addition to the definitions in Section 58-1-102 , as used in this chapter:
+34 (1) (a)  " Ablative procedure"  means a procedure that is ex pected to ex cise, vaporiz e,
+35 disinteg rate, or remove living  tissue, including  the use of carbon diox ide lasers and erbium:
+36 YAG lasers.
+37 (b)  " Ablative procedure"  does not include hair removal.
+38 (2)  " ACGME"  means the Accreditation Council for Graduate Medical Education of the
+39 American Medical Association.
+40 (3)  " Administrative penalty " means a monetary  fine or citation imposed by  the division
+41 for acts or omissions determined to constitute unprofessional or unlawful conduct, in
+42 accordance with a fine schedule established by  the division in collaboration with the board, as a
+43 result of an adjudicative proceeding  conducted in accordance with Title 63G, Chapter 4,
+44 Administrative Procedures Act.
+45 (4)  " Associate phy sician"  means an individual licensed under Section 58-67-302.8 .
+46 (5)  " Attempted sex  chang e" means an attempt or effort to chang e an individual' s body
+47 to present that individual as being  of a sex  or gender that is different from the individual' s
+48 biolog ical sex  at birth.
+49 (6)  " Biolog ical sex  at birth"  means an individual' s sex , as being  male or female,
+50 according  to distinct reproductive roles as manifested by :
+51 (a)  sex  and reproductive org an anatomy ;
+52 (b)  chromosomal makeup; and
+53 (c)  endog enous hormone profiles.
+54 [(5)] (7)  "Board"  means the Phy sicians L icensing  Board created in Section 58-67-201 .
+55 [(6)] (8)  "Collaborating  physician"  means an individual licensed under Section
+56 58-67-302  who enters into a collaborative practice arrang ement with an associate phy sician.
+57 [(7)] (9)  "Collaborative practice arrang ement"  means the arrang ement described in
+58 Section 58-67-807 .12-16-22 2:09 PM S.B. 1 6
+- 3 -59 [(8)] (10) (a)  " Cosmetic medical device"  means tissue altering  energ y based devices
+60 that have the potential for altering  living  tissue and that are used to perform ablative or
+61 nonablative procedures, such as American National Standards I nstitute (ANSI ) desig nated
+62 Class I IIb and Class I V lasers, intense pulsed lig ht, radio frequency  devices, and lipoly tic
+63 devices, and ex cludes ANSI  desig nated Class I IIa and lower powered devices.
+64 (b)  Notwithstanding  Subsection [ (8)(a)]  (10)(a), if an ANSI  desig nated Class I IIa and
+65 lower powered device is being  used to perform an ablative procedure, the device is included in
+66 the definition of cosmetic medical device under Subsection [ (8)(a)]  (10)(a).
+67 [(9)] (11)  " Cosmetic medical procedure" :
+68 (a)  includes the use of cosmetic medical devices to perform ablative or nonablative
+69 procedures; and
+70 (b)  does not include a treatment of the ocular g lobe such as refractive surg ery.
+71 [(10)]  (12)  " Diag nose"  means:
+72 (a)  to ex amine in any  manner another person, parts of a person' s body , substances,
+73 fluids, or materials ex creted, taken, or removed from a person' s body , or produced by  a person' s
+74 body , to determine the source, nature, kind, or ex tent of a disease or other phy sical or mental
+75 condition;
+76 (b)  to attempt to conduct an ex amination or determination described under Subsection
+77 [(10)(a);]  (12)(a);
+78 (c)  to hold oneself out as making  or to represent that one is making  an ex amination or
+79 determination as described in Subsection [ (10)(a);]  (12)(a); or
+80 (d)  to make an ex amination or determination as described in Subsection [ (10)(a)]
+81 (12)(a) upon or from information supplied directly  or indirectly  by another person, whether or
+82 not in the presence of the person making  or attempting  the diag nosis or ex amination.
+83 [(11)]  (13)  " LCME"  means the L iaison Committee on Medical Education of the
+84 American Medical Association.
+85 [(12)]  (14)  " Medical assistant"  means an unlicensed individual who may  perform tasks
+86 as described in Subsection 58-67-305 (6).
+87 [(13)]  (15)  " Medically  underserved area"  means a g eographic area in which there is a
+88 shortag e of primary  care health services for residents, as determined by  the Department of
+89 Health and Human Services.S.B. 1 6 12-16-22 2:09 PM
+- 4 -90 [(14)]  (16)  " Medically  underserved population"  means a specified g roup of people
+91 living  in a defined g eographic area with a shortag e of primary  care health services, as
+92 determined by  the Department of Health and Human Services.
+93 [(15)]  (17) (a) (i)  " Nonablative procedure"  means a procedure that is ex pected or
+94 intended to alter living  tissue, but is not intended or ex pected to ex cise, vaporiz e, disinteg rate,
+95 or remove living  tissue.
+96 (ii)  Notwithstanding  Subsection [ (15)(a)(i),]  (17)(a)(i) nonablative procedure includes
+97 hair removal.
+98 (b)  " Nonablative procedure"  does not include:
+99 (i)  a superficial procedure as defined in Section 58-1-102 ;
+100 (ii)  the application of permanent make-up; or
+101 (iii)  the use of photo therapy  and lasers for neuromusculoskeletal treatments that are
+102 performed by  an individual licensed under this title who is acting  within the individual' s scope
+103 of practice.
+104 [(16)]  (18)  " Physician"  means both phy sicians and surg eons licensed under Section
+105 58-67-301 , Utah Medical Practice Act, and osteopathic phy sicians and surg eons licensed under
+106 Section 58-68-301 , Utah Osteopathic Medical Practice Act.
+107 [(17)]  (19) (a)  " Practice of medicine"  means:
+108 (i)  to diag nose, treat, correct, administer anesthesia, or prescribe for any  human
+109 disease, ailment, injury , infirmity , deformity , pain or other condition, phy sical or mental, real
+110 or imag inary , including  to perform cosmetic medical procedures, or to attempt to do so, by  any
+111 means or instrumentality , and by  an individual in Utah or outside the state upon or for any
+112 human within the state;
+113 (ii)  when a person not licensed as a phy sician directs a licensee under this chapter to
+114 withhold or alter the health care services that the licensee has ordered;
+115 (iii)  to maintain an office or place of business for the purpose of doing  any of the acts
+116 described in Subsection [ (17)(a)]  (19)(a)(i) or (ii) whether or not for compensation; or
+117 (iv)  to use, in the conduct of any  occupation or profession pertaining  to the diag nosis or
+118 treatment of human diseases or conditions in any  printed material, stationery , letterhead,
+119 envelopes, sig ns, or advertisements, the desig nation " doctor,"  "doctor of medicine,"
+120 "physician,"  "surgeon,"  "physician and surg eon,"  "Dr.,"  "M.D.,"  or any  combination of these12-16-22 2:09 PM S.B. 1 6
+- 5 -121 desig nations in any  manner which mig ht cause a reasonable person to believe the individual
+122 using  the desig nation is a licensed phy sician and surg eon, and if the party  using  the desig nation
+123 is not a licensed phy sician and surg eon, the desig nation must additionally  contain the
+124 description of the branch of the healing  arts for which the person has a license, provided that an
+125 individual who has received an earned deg ree of doctor of medicine deg ree but is not a licensed
+126 physician and surg eon in Utah may  use the desig nation " M.D."  if it is followed by  "Not
+127 Licensed"  or "Not Licensed in Utah"  in the same siz e and sty le of lettering .
+128 (b)  The practice of medicine does not include:
+129 (i)  ex cept for an ablative medical procedure as provided in Subsection [ (17)(b)(ii),]
+130 (19)(b)(ii) the conduct described in Subsection [ (17)(a)(i)]  (19)(a)(i) that is performed in
+131 accordance with a license issued under another chapter of this title;
+132 (ii)  an ablative cosmetic medical procedure if the scope of practice for the person
+133 performing  the ablative cosmetic medical procedure includes the authority  to operate or
+134 perform a surg ical procedure; or
+135 (iii)  conduct under Subsection 58-67-501 (2).
+136 [(18)]  (20)  " Prescription device"  means an instrument, apparatus, implement, machine,
+137 contrivance, implant, in vitro reag ent, or other similar or related article, and any  component
+138 part or accessory , which is required under federal or state law to be prescribed by  a practitioner
+139 and dispensed by  or throug h a person or entity  licensed under this chapter or ex empt from
+140 licensure under this chapter.
+141 [(19)]  (21)  " Prescription drug " means a drug  that is required by  federal or state law or
+142 rule to be dispensed only  by prescription or is restricted to administration only  by practitioners.
+143 (22) (a)  " Primary  sex characteristic surg ical procedure"  means any  of the following  if
+144 done for the purpose of effectuating  or facilitating  an individual' s attempted sex  chang e:
+145 (i)  for an individual whose biolog ical sex  at birth is male, castration, orchiectomy ,
+146 penectomy , vag inoplasty , or vulvoplasty ;
+147 (ii)  for an individual whose biolog ical sex  at birth is female, hy sterectomy ,
+148 oophorectomy , metoidioplasty , or phalloplasty ; or
+149 (iii)  any  surg ical procedure that is related to or necessary  for a procedure described in
+150 Subsection (22)(a)(i) or (ii), that would result in the steriliz ation of an individual who is not
+151 sterile.S.B. 1 6 12-16-22 2:09 PM
+- 6 -152 (b)  " Primary  sex characteristic surg ical procedure"  does not include:
+153 (i)  surg ery or other procedures or treatments performed on an individual who:
+154 (A)  is born with ex ternal biolog ical sex  characteristics that are irresolvably  ambig uous;
+155 (B)  is born with 46, XX chromosomes with viriliz ation;
+156 (C)  is born with 46, XY chromosomes with underviriliz ation;
+157 (D)  has both ovarian and testicular tissue; or
+158 (E)  has been diag nosed by  a phy sician, based on g enetic or biochemical testing , with a
+159 sex development disorder characteriz ed by  abnormal sex  chromosome structure, sex  steroid
+160 hormone production, or sex  steroid hormone action for a male or female; or
+161 (ii)  removing  a body  part:
+162 (A)  because the body  part is cancerous or diseased; or
+163 (B)  for a reason that is medically  necessary , other than to effectuate or facilitate an
+164 individual' s attempted sex  chang e.
+165 (23) (a)  " Secondary  sex characteristic surg ical procedure"  means any  of the following
+166 if done for the purpose of effectuating  or facilitating  an individual' s attempted sex  chang e:
+167 (i)  for an individual whose biolog ical sex  at birth is male, breast aug mentation surg ery,
+168 chest feminiz ation surg ery, or facial feminiz ation surg ery; or
+169 (ii)  for an individual whose biolog ical sex  at birth is female, mastectomy , breast
+170 reduction surg ery, chest masculiniz ation surg ery, or facial masculiniz ation surg ery.
+171 (b)  " Secondary  sex characteristic surg ical procedure"  does not include:
+172 (i)  surg ery or other procedures or treatments performed on an individual who:
+173 (A)  is born with ex ternal biolog ical sex  characteristics that are irresolvably  ambig uous;
+174 (B)  is born with 46, XX chromosomes with viriliz ation;
+175 (C)  is born with 46, XY chromosomes with underviriliz ation;
+176 (D)  has both ovarian and testicular tissue; or
+177 (E)  has been diag nosed by  a phy sician, based on g enetic or biochemical testing , with a
+178 sex development disorder characteriz ed by  abnormal sex  chromosome structure, sex  steroid
+179 hormone production, or sex  steroid hormone action for a male or female; or
+180 (ii)  removing  a body  part:
+181 (A)  because the body  part is cancerous or diseased; or
+182 (B)  for a reason that is medically  necessary , other than to effectuate or facilitate an12-16-22 2:09 PM S.B. 1 6
+- 7 -183 individual' s attempted sex  chang e.
+184 [(20)]  (24)  " SPEX"  means the Special Purpose Ex amination of the F ederation of State
+185 Medical B oards.
+186 [(21)]  (25)  " Unlawful conduct"  means the same as that term is defined in Sections
+187 58-1-501  and 58-67-501 .
+188 [(22)]  (26)  " Unprofessional conduct"  means the same as that term is defined in
+189 Sections 58-1-501  and 58-67-502 , and as may  be further defined by  division rule.
+190 Section 2.  Section 58-67-502  is amended to read:
+191 58-67-502.    Unprof essional conduct.
+192 (1)  " Unprofessional conduct"  includes, in addition to the definition in Section
+193 58-1-501 :
+194 (a)  using  or employ ing the services of any  individual to assist a licensee in any  manner
+195 not in accordance with the g enerally  recog nized practices, standards, or ethics of the
+196 profession, state law, or division rule;
+197 (b)  making  a material misrepresentation reg arding  the qualifications for licensure under
+198 Section 58-67-302.7  or [Section]  58-67-302.8 ;
+199 (c)  violating  the dispensing  requirements of Chapter 17b, Part 8, Dispensing  Medical
+200 Practitioner and Dispensing  Medical Practitioner Clinic Pharmacy , if applicable;
+201 (d)  violating  the requirements of Title 26, Chapter 61a, Utah Medical Cannabis Act;
+202 [or]
+203 (e)  falsely  making  an entry  in, or altering , a medical record with the intent to conceal:
+204 (i)  a wrong ful or neg ligent act or omission of an individual licensed under this chapter
+205 or an individual under the direction or control of an individual licensed under this chapter; or
+206 (ii)  conduct described in Subsections (1)(a) throug h (d) or Subsection 58-1-501 (1)[.];
+207 or
+208 (f)  performing , or causing  to be performed, upon an individual who is less than 18
+209 years old:
+210 (i)  a primary  sex characteristic surg ical procedure; or
+211 (ii)  a secondary  sex characteristic surg ical procedure.
+212 (2)  " Unprofessional conduct"  does not include:
+213 (a)  in compliance with Section 58-85-103 :S.B. 1 6 12-16-22 2:09 PM
+- 8 -214 (i)  obtaining  an investig ational drug  or investig ational device;
+215 (ii)  administering  the investig ational drug  to an elig ible patient; or
+216 (iii)  treating  an elig ible patient with the investig ational drug  or investig ational device;
+217 or
+218 (b)  in accordance with Title 26, Chapter 61a, Utah Medical Cannabis Act:
+219 (i)  when reg istered as a qualified medical provider or acting  as a limited medical
+220 provider, as those terms are defined in Section 26-61a-102 , recommending  the use of medical
+221 cannabis;
+222 (ii)  when reg istered as a pharmacy  medical provider, as that term is defined in Section
+223 26-61a-102 , providing  pharmacy  medical provider services in a medical cannabis pharmacy ; or
+224 (iii)  when reg istered as a state central patient portal medical provider, as that term is
+225 defined in Section 26-61a-102 , providing  state central patient portal medical provider services.
+226 (3)  Notwithstanding  Subsection (2)(b), the division, in consultation with the board and
+227 in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking  Act, shall define
+228 unprofessional conduct for a phy sician described in Subsection (2)(b).
+229 Section 3.  Section 58-68-102  is amended to read:
+230 58-68-102.    Definitions.
+231 In addition to the definitions in Section 58-1-102 , as used in this chapter:
+232 (1) (a)  " Ablative procedure"  means a procedure that is ex pected to ex cise, vaporiz e,
+233 disinteg rate, or remove living  tissue, including  the use of carbon diox ide lasers and erbium:
+234 YAG lasers.
+235 (b)  " Ablative procedure"  does not include hair removal.
+236 (2)  " ACGME"  means the Accreditation Council for Graduate Medical Education of the
+237 American Medical Association.
+238 (3)  " Administrative penalty " means a monetary  fine imposed by  the division for acts or
+239 omissions determined to constitute unprofessional or unlawful conduct, as a result of an
+240 adjudicative proceeding  conducted in accordance with Title 63G, Chapter 4, Administrative
+241 Procedures Act.
+242 (4)  " AOA"  means the American Osteopathic Association.
+243 (5)  " Associate phy sician"  means an individual licensed under Section 58-68-302.5 .
+244 (6)  " Attempted sex  chang e" means an attempt or effort to chang e an individual' s body12-16-22 2:09 PM S.B. 1 6
+- 9 -245 to present that individual as being  of a sex  or gender that is different from the individual' s
+246 biolog ical sex  at birth.
+247 (7)  " Biolog ical sex  at birth"  means an individual' s sex , as being  male or female,
+248 according  to distinct reproductive roles as manifested by :
+249 (a)  sex  and reproductive org an anatomy ;
+250 (b)  chromosomal makeup; and
+251 (c)  endog enous hormone profiles.
+252 [(6)] (8)  "Board"  means the Osteopathic Phy sician and Surg eon's Licensing  Board
+253 created in Section 58-68-201 .
+254 [(7)] (9)  "Collaborating  physician"  means an individual licensed under Section
+255 58-68-302  who enters into a collaborative practice arrang ement with an associate phy sician.
+256 [(8)] (10)  " Collaborative practice arrang ement"  means the arrang ement described in
+257 Section 58-68-807 .
+258 [(9)] (11) (a)  " Cosmetic medical device"  means tissue altering  energ y based devices
+259 that have the potential for altering  living  tissue and that are used to perform ablative or
+260 nonablative procedures, such as American National Standards I nstitute (ANSI ) desig nated
+261 Class I IIb and Class I V lasers, intense pulsed lig ht, radio frequency  devices, and lipoly tic
+262 devices and ex cludes ANSI  desig nated Class I IIa and lower powered devices.
+263 (b)  Notwithstanding  Subsection [ (9)(a)]  (11)(a), if an ANSI  desig nated Class I IIa and
+264 lower powered device is being  used to perform an ablative procedure, the device is included in
+265 the definition of cosmetic medical device under Subsection [ (9)(a)]  (11)(a).
+266 [(10)]  (12)  " Cosmetic medical procedure" :
+267 (a)  includes the use of cosmetic medical devices to perform ablative or nonablative
+268 procedures; and
+269 (b)  does not include a treatment of the ocular g lobe such as refractive surg ery.
+270 [(11)]  (13)  " Diag nose"  means:
+271 (a)  to ex amine in any  manner another person, parts of a person' s body , substances,
+272 fluids, or materials ex creted, taken, or removed from a person' s body , or produced by  a person' s
+273 body , to determine the source, nature, kind, or ex tent of a disease or other phy sical or mental
+274 condition;
+275 (b)  to attempt to conduct an ex amination or determination described under SubsectionS.B. 1 6 12-16-22 2:09 PM
+- 10 -276 [(11)(a)]  (13)(a);
+277 (c)  to hold oneself out as making  or to represent that one is making  an ex amination or
+278 determination as described in Subsection [ (11)(a)]  (13)(a); or
+279 (d)  to make an ex amination or determination as described in Subsection [ (11)(a)]
+280 (13)(a) upon or from information supplied directly  or indirectly  by another person, whether or
+281 not in the presence of the person making  or attempting  the diag nosis or ex amination.
+282 [(12)]  (14)  " Medical assistant"  means an unlicensed individual who may  perform tasks
+283 as described in Subsection 58-68-305 (6).
+284 [(13)]  (15)  " Medically  underserved area"  means a g eographic area in which there is a
+285 shortag e of primary  care health services for residents, as determined by  the Department of
+286 Health and Human Services.
+287 [(14)]  (16)  " Medically  underserved population"  means a specified g roup of people
+288 living  in a defined g eographic area with a shortag e of primary  care health services, as
+289 determined by  the Department of Health and Human Services.
+290 [(15)]  (17) (a) (i)  " Nonablative procedure"  means a procedure that is ex pected or
+291 intended to alter living  tissue, but is not ex pected or intended to ex cise, vaporiz e, disinteg rate,
+292 or remove living  tissue.
+293 (ii)  Notwithstanding  Subsection [ (15)(a)(i)]  (17)(a)(i), nonablative procedure includes
+294 hair removal.
+295 (b)  " Nonablative procedure"  does not include:
+296 (i)  a superficial procedure as defined in Section 58-1-102 ;
+297 (ii)  the application of permanent make-up; or
+298 (iii)  the use of photo therapy  lasers for neuromusculoskeletal treatments that are
+299 [preformed]  performed by  an individual licensed under this title who is acting  within the
+300 individual' s scope of practice.
+301 [(16)]  (18)  " Physician"  means both phy sicians and surg eons licensed under Section
+302 58-67-301 , Utah Medical Practice Act, and osteopathic phy sicians and surg eons licensed under
+303 Section 58-68-301 , Utah Osteopathic Medical Practice Act.
+304 [(17)]  (19) (a)  " Practice of osteopathic medicine"  means:
+305 (i)  to diag nose, treat, correct, administer anesthesia, or prescribe for any  human
+306 disease, ailment, injury , infirmity , deformity , pain, or other condition, phy sical or mental, real12-16-22 2:09 PM S.B. 1 6
+- 11 -307 or imag inary , or to attempt to do so, by  any means or instrumentality , which in whole or in part
+308 is based upon emphasis of the importance of the musculoskeletal sy stem and manipulative
+309 therapy  in the maintenance and restoration of health, by  an individual in Utah or outside of the
+310 state upon or for any  human within the state;
+311 (ii)  when a person not licensed as a phy sician directs a licensee under this chapter to
+312 withhold or alter the health care services that the licensee has ordered;
+313 (iii)  to maintain an office or place of business for the purpose of doing  any of the acts
+314 described in Subsection [ (17)(a)]  (19)(a)(i) or (ii) whether or not for compensation; or
+315 (iv)  to use, in the conduct of any  occupation or profession pertaining  to the diag nosis or
+316 treatment of human diseases or conditions, in any  printed material, stationery , letterhead,
+317 envelopes, sig ns, or advertisements, the desig nation " doctor,"  "doctor of osteopathic medicine,"
+318 "osteopathic phy sician,"  "osteopathic surg eon," "osteopathic phy sician and surg eon," "Dr.,"
+319 "D.O.,"  or any  combination of these desig nations in any  manner which mig ht cause a
+320 reasonable person to believe the individual using  the desig nation is a licensed osteopathic
+321 physician, and if the party  using  the desig nation is not a licensed osteopathic phy sician, the
+322 desig nation must additionally  contain the description of the branch of the healing  arts for which
+323 the person has a license, provided that an individual who has received an earned deg ree of
+324 doctor of osteopathic medicine but is not a licensed osteopathic phy sician and surg eon in Utah
+325 may use the desig nation " D.O."  if it is followed by  "Not L icensed"  or "Not L icensed in Utah"
+326 in the same siz e and sty le of lettering .
+327 (b)  The practice of osteopathic medicine does not include:
+328 (i)  ex cept for an ablative medical procedure as provided in Subsection [ (17)(b)(ii)]
+329 (19)(b)(ii), the conduct described in Subsection [ (17)(a)(i)]  (19)(a)(i) that is performed in
+330 accordance with a license issued under another chapter of this title;
+331 (ii)  an ablative cosmetic medical procedure if the scope of practice for the person
+332 performing  the ablative cosmetic medical procedure includes the authority  to operate or
+333 perform a surg ical procedure; or
+334 (iii)  conduct under Subsection 58-68-501 (2).
+335 [(18)]  (20)  " Prescription device"  means an instrument, apparatus, implement, machine,
+336 contrivance, implant, in vitro reag ent, or other similar or related article, and any  component
+337 part or accessory , which is required under federal or state law to be prescribed by  a practitionerS.B. 1 6 12-16-22 2:09 PM
+- 12 -338 and dispensed by  or throug h a person or entity  licensed under this chapter or ex empt from
+339 licensure under this chapter.
+340 [(19)]  (21)  " Prescription drug " means a drug  that is required by  federal or state law or
+341 rule to be dispensed only  by prescription or is restricted to administration only  by practitioners.
+342 (22) (a)  " Primary  sex characteristic surg ical procedure"  means any  of the following  if
+343 done for the purpose of effectuating  or facilitating  an individual' s attempted sex  chang e:
+344 (i)  for an individual whose biolog ical sex  at birth is male, castration, orchiectomy ,
+345 penectomy , vag inoplasty , or vulvoplasty ;
+346 (ii)  for an individual whose biolog ical sex  at birth is female, hy sterectomy ,
+347 oophorectomy , metoidioplasty , or phalloplasty ; or
+348 (iii)  any  surg ical procedure that is related to or necessary  for a procedure described in
+349 Subsection (22)(a)(i) or (ii), that would result in the steriliz ation of an individual who is not
+350 sterile.
+351 (b)  " Primary  sex characteristic surg ical procedure"  does not include:
+352 (i)  surg ery or other procedures or treatments performed on an individual who:
+353 (A)  is born with ex ternal biolog ical sex  characteristics that are irresolvably  ambig uous;
+354 (B)  is born with 46, XX chromosomes with viriliz ation;
+355 (C)  is born with 46, XY chromosomes with underviriliz ation;
+356 (D)  has both ovarian and testicular tissue; or
+357 (E)  has been diag nosed by  a phy sician, based on g enetic or biochemical testing , with a
+358 sex development disorder characteriz ed by  abnormal sex  chromosome structure, sex  steroid
+359 hormone production, or sex  steroid hormone action for a male or female; or
+360 (ii)  removing  a body  part:
+361 (A)  because the body  part is cancerous or diseased; or
+362 (B)  for a reason that is medically  necessary , other than to effectuate or facilitate an
+363 individual' s attempted sex  chang e.
+364 (23) (a)  " Secondary  sex characteristic surg ical procedure"  means any  of the following
+365 if done for the purpose of effectuating  or facilitating  an individual' s attempted sex  chang e:
+366 (i)  for an individual whose biolog ical sex  at birth is male, breast aug mentation surg ery,
+367 chest feminiz ation surg ery, or facial feminiz ation surg ery; or
+368 (ii)  for an individual whose biolog ical sex  at birth is female, mastectomy , breast12-16-22 2:09 PM S.B. 1 6
+- 13 -369 reduction surg ery, chest masculiniz ation surg ery, or facial masculiniz ation surg ery.
+370 (b)  " Secondary  sex characteristic surg ical procedure"  does not include:
+371 (i)  surg ery or other procedures or treatments performed on an individual who:
+372 (A)  is born with ex ternal biolog ical sex  characteristics that are irresolvably  ambig uous;
+373 (B)  is born with 46, XX chromosomes with viriliz ation;
+374 (C)  is born with 46, XY chromosomes with underviriliz ation;
+375 (D)  has both ovarian and testicular tissue; or
+376 (E)  has been diag nosed by  a phy sician, based on g enetic or biochemical testing , with a
+377 sex development disorder characteriz ed by  abnormal sex  chromosome structure, sex  steroid
+378 hormone production, or sex  steroid hormone action for a male or female; or
+379 (ii)  removing  a body  part:
+380 (A)  because the body  part is cancerous or diseased; or
+381 (B)  for a reason that is medically  necessary , other than to effectuate or facilitate an
+382 individual' s attempted sex  chang e.
+383 [(20)]  (24)  " SPEX"  means the Special Purpose Ex amination of the F ederation of State
+384 Medical B oards.
+385 [(21)]  (25)  " Unlawful conduct"  means the same as that term is defined in Sections
+386 58-1-501  and 58-68-501 .
+387 [(22)]  (26)  " Unprofessional conduct"  means the same as that term is defined in
+388 Sections 58-1-501  and 58-68-502  and as may  be further defined by  division rule.
+389 Section 4.  Section 58-68-502  is amended to read:
+390 58-68-502.    Unprof essional conduct.
+391 (1)  " Unprofessional conduct"  includes, in addition to the definition in Section
+392 58-1-501 :
+393 (a)  using  or employ ing the services of any  individual to assist a licensee in any  manner
+394 not in accordance with the g enerally  recog nized practices, standards, or ethics of the
+395 profession, state law, or division rule;
+396 (b)  violating  the dispensing  requirements of Chapter 17b, Part 8, Dispensing  Medical
+397 Practitioner and Dispensing  Medical Practitioner Clinic Pharmacy , if applicable;
+398 (c)  making  a material misrepresentation reg arding  the qualifications for licensure under
+399 Section 58-68-302.5 ;S.B. 1 6 12-16-22 2:09 PM
+- 14 -400 (d)  violating  the requirements of Title 26, Chapter 61a, Utah Medical Cannabis Act;
+401 [or]
+402 (e)  falsely  making  an entry  in, or altering , a medical record with the intent to conceal:
+403 (i)  a wrong ful or neg ligent act or omission of an individual licensed under this chapter
+404 or an individual under the direction or control of an individual licensed under this chapter; or
+405 (ii)  conduct described in Subsections (1)(a) throug h (d) or Subsection 58-1-501 (1)[.];
+406 or
+407 (f)  performing , or causing  to be performed, upon an individual who is less than 18
+408 years old:
+409 (i)  a primary  sex characteristic surg ical procedure; or
+410 (ii)  a secondary  sex characteristic surg ical procedure.
+411 (2)  " Unprofessional conduct"  does not include:
+412 (a)  in compliance with Section 58-85-103 :
+413 (i)  obtaining  an investig ational drug  or investig ational device;
+414 (ii)  administering  the investig ational drug  to an elig ible patient; or
+415 (iii)  treating  an elig ible patient with the investig ational drug  or investig ational device;
+416 or
+417 (b)  in accordance with Title 26, Chapter 61a, Utah Medical Cannabis Act:
+418 (i)  when reg istered as a qualified medical provider or acting  as a limited medical
+419 provider, as those terms are defined in Section 26-61a-102 , recommending  the use of medical
+420 cannabis;
+421 (ii)  when reg istered as a pharmacy  medical provider, as that term is defined in Section
+422 26-61a-102 , providing  pharmacy  medical provider services in a medical cannabis pharmacy ; or
+423 (iii)  when reg istered as a state central patient portal medical provider, as that term is
+424 defined in Section 26-61a-102 , providing  state central patient portal medical provider services.
+425 (3)  Notwithstanding  Subsection (2)(b), the division, in consultation with the board and
+426 in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking  Act, shall define
+427 unprofessional conduct for a phy sician described in Subsection (2)(b).

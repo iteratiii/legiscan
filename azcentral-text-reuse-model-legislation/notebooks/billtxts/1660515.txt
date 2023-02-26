@@ -1,0 +1,243 @@
+ 
+Introduced Version
+HOUSE BILL No. 1407
+_____
+DIGEST OF  INTRODUCED B ILL
+Citations Affected:  IC 31-9-2-13; IC 31-10.5; IC 31-34.
+Synopsis:  Parental rights. Provides that the state of Indiana, a political
+subdivision or other governmental entity of the state of Indiana, a
+government official, or any other person acting under the color of law
+shall not infringe on the fundamental right of a parent to direct the
+upbringing, education, health care, and mental health of the parent's
+child without demonstrating that the infringement: (1) is required by a
+compelling governmental interest of the highest order as long
+recognized in the history and traditions of the state of Indiana; and (2)
+as applied to the child, is narrowly tailored and not otherwise served by
+a less restrictive means. Creates a right of action for violation of a
+parent's rights with respect to the upbringing, education, and health
+care of the parent's child. Provides that a child is not a child in need of
+services due to the child's parent, guardian, or custodian: (1) referring
+to and raising the child consistent with the child's biological sex; or (2)
+declining to consent to the child receiving: (A) specified medication;
+(B) a medical procedure the purpose of which is to alter the apparent
+gender or sex of the child or affirm the child's perception of the child's
+gender or sex in a manner inconsistent with the child's biological sex;
+or (C) counseling or other mental health services the purpose of which
+is to affirm the child's perception of the child's gender or sex if the
+child's perception is inconsistent with the child's biological sex.
+Provides that a juvenile court may not enter a dispositional decree
+ordering removal of a child from the home of the child's parent,
+guardian, or custodian if: (1) the juvenile court has found the child to
+be a child in need of services under a specified statutory definition of
+a child in need of services; and (2) the parent, guardian, or custodian
+of the child: (A) is a fit parent, guardian, or custodian of the child; and
+(B) does not consent to the child being removed from the child's home.
+Effective:  July 1, 2023.
+DeVon
+January 17, 2023, read first time and referred to Commi ttee on Family, Children and
+Human Affairs.
+2023 IN 1407—LS 7365/DI 119
+Introduced
+First Reg ular Sessio n of the 123rd General A ssem bly (2023)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this sty le type, and deletions will appear in this style type.
+  Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in  this  style  type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+  Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2022 Regular Session of the General Assembly.
+HOUSE BILL No. 1407
+A BILL FOR AN ACT to amend the Indiana Code concerning
+family law and juvenile law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 31-9-2-13, AS AMENDED BY P.L.243-2019,
+2 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2023]: Sec. 13. (a) "Child", for purposes of IC 31-15, IC 31-16
+4 (excluding IC 31-16-12.5), and IC 31-17, means a child or children of
+5 both parties to the marriage. The term includes the following:
+6 (1) Children born out of wedlock to the parties.
+7 (2) Children born or adopted during the marriage of the parties.
+8 (b) "Child", for purposes of the Uniform Interstate Family Support
+9 Act under IC 31-18.5, has the meaning set forth in IC 31-18.5-1-2.
+10 (c) "Child", for purposes of IC 31-19-5, includes an unborn child.
+11 (d) Except as otherwise provided in this section, "child", for
+12 purposes of the juvenile law and IC 31-27, means:
+13 (1) a person who is less than eighteen (18) years of age;
+14 (2) a person:
+15 (A) who is eighteen (18), nineteen (19), or twenty (20) years
+16 of age; and
+17 (B) who either:
+2023 IN 1407—LS 7365/DI 119
+2
+1 (i) is charged with a delinquent act committed before the
+2 person's eighteenth birthday; or
+3 (ii) has been adjudicated a child in need of services before
+4 the person's eighteenth birthday; or
+5 (3) a person:
+6 (A) who is alleged to have committed an act that would have
+7 been murder if committed by an adult;
+8 (B) who was less than eighteen (18) years of age at the time of
+9 the alleged act; and
+10 (C) who is less than twenty-one (21) years of age.
+11 (e) "Child", for purposes of IC 31-36-3 and IC 31-10.5, means a
+12 person who is less than eighteen (18) years of age.
+13 (f) "Child", for purposes of the Interstate Compact on Juveniles
+14 under IC 31-37-23-1, has the meaning set forth in IC 31-37-23-1.
+15 (g) "Child", for purposes of IC 31-16-12.5, means an individual to
+16 whom child support is owed under:
+17 (1) a child support order issued under IC 31-14-10 or IC 31-16-6;
+18 or
+19 (2) any other child support order that is enforceable under
+20 IC 31-16-12.5.
+21 (h) "Child", for purposes of IC 31-32-5, means an individual who is
+22 less than eighteen (18) years of age.
+23 (i) "Child", for purposes of the Uniform Child Custody Jurisdiction
+24 Act under IC 31-21, has the meaning set forth in IC 31-21-2-3.
+25 (j) "Child", for purposes of IC 31-35-2-4.5, means an individual who
+26 is:
+27 (1) less than eighteen (18) years of age; and
+28 (2) a delinquent child or a child in need of services.
+29 SECTION 2. IC 31-10.5 IS ADDED TO THE INDIANA CODE AS
+30 A NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+31 2023]:
+32 ARTICLE 10.5. PARENTAL RIGHTS AND
+33 RESPONSIBILITIES
+34 Chapter 1. Definitions
+35 Sec. 1. Except as otherwise provided, the definitions in this
+36 chapter apply throughout this article.
+37 Sec. 2. "Parent" means, with regard to a child:
+38 (1) a biological parent of the child;
+39 (2) an adoptive parent of the child; or
+40 (3) a legal guardian of the child.
+41 Chapter 2. Rights of Parents
+42 Sec. 1. (a) The state of Indiana, a political subdivision or other
+2023 IN 1407—LS 7365/DI 119
+3
+1 governmental entity of the state of Indiana, a government official,
+2 or any other person acting under the color of law shall not infringe
+3 on the fundamental right of a parent to direct the upbringing,
+4 education, health care, and mental health of the paren t's child
+5 without demonstrating that the infringement:
+6 (1) is required by a compelling governmental interest of the
+7 highest order as long recognized in the history and traditions
+8 of the state of Indiana; and
+9 (2) as applied to the parent and the child, is narrowly tailored
+10 and not otherwise served by a less restrictive means.
+11 (b) Unless those rights have been legally waived or legally
+12 terminated, parents have inalienable rights that are more
+13 comprehensive than those described in subsection (a). Subsection
+14 (a):
+15 (1) does not prescribe all rights of parents; and
+16 (2) does not preempt or foreclose claims or remedies in
+17 support of parental rights that are available under the
+18 Constitution of the United States, the Constitution of the State
+19 of Indiana, or the statutes and common law of the state of
+20 Indiana.
+21 Sec. 2. (a) A parent:
+22 (1) may bring an action for a violation of this chapter; and
+23 (2) may raise this chapter as a defense in any judicial or
+24 administrative proceeding regardless of whether the
+25 proceeding is brought by or in the name of the state of
+26 Indiana, a private person, or any other party.
+27 (b) Notwithstanding any other provision of law:
+28 (1) an action under this section may be commenced; and
+29 (2) a court may grant relief in an action commenced under
+30 this section;
+31 regardless of whether the person commencing the action has
+32 sought or exhausted administrative remedies available to the
+33 person.
+34 (c) A court may grant to a person who successfully asserts a
+35 claim or defense under this section:
+36 (1) declaratory relief;
+37 (2) injunctive relief;
+38 (3) compensatory damages;
+39 (4) reasonable attorney's fees and costs; and
+40 (5) any other relief the court considers appropriate.
+41 (d) Sovereign, governmental, and qualified immunity to suit and
+42 from liability are waived and abolished to the extent of liability
+2023 IN 1407—LS 7365/DI 119
+4
+1 created by this chapter.
+2 SECTION 3. IC 31-34-1-17 IS ADDED TO THE INDIANA CODE
+3 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+4 1, 2023]: Sec. 17. A child is not a child in need of services under any
+5 section of this chapter due to the child's parent, guardian, or
+6 custodian:
+7 (1) referring to and raising the child consistent with the
+8 child's biological sex;
+9 (2) declining to consent to the child receiving:
+10 (A) puberty blocking medication;
+11 (B) supraphysiologic doses of testosterone or estrogen; or
+12 (C) any surgical procedure the purpose of which is to:
+13 (i) alter the apparent gender or sex of the child in a
+14 manner inconsistent with the child's biological sex; or
+15 (ii) affirm the child's perception of the child's gender or
+16 sex, if the child's perception is inconsistent with the
+17 child's biological sex; or
+18 (3) declining to consent to the child receiving counseling or
+19 other mental health services for the purpose of affirming the
+20 child's perception of the child's gender or sex, if the child's
+21 perception is inconsistent with the child's biological sex.
+22 SECTION 4. IC 31-34-20-1, AS AMENDED BY P.L.172-2022,
+23 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+24 JULY 1, 2023]: Sec. 1. (a) Subject to this section and section 1.5 of this
+25 chapter, if a child is a child in need of services, the juvenile court may
+26 enter one (1) or more of the following dispositional decrees:
+27 (1) Order supervision of the child by the department.
+28 (2) Order the child to receive outpatient treatment:
+29 (A) at a social service agency or a psychological, a psychiatric,
+30 a medical, or an educational facility; or
+31 (B) from an individual practitioner.
+32 (3) Remove the child from the child's home and authorize the
+33 department to place the child in another home, shelter care
+34 facility, child caring institution, group home, or secure private
+35 facility. Placement under this subdivision includes authorization
+36 to control and discipline the child.
+37 (4) Award wardship of the child to the depa rtment for
+38 supervision, care, and placement.
+39 (5) Partially or completely emancipate the child under section 6
+40 of this chapter.
+41 (6) Order the child's parent, guardian, or custodian to complete
+42 services recommended by the department and approved by the
+2023 IN 1407—LS 7365/DI 119
+5
+1 court under IC 31-34-18 and IC 31-34-19, which may include
+2 services described in section 3(a) of this chapter.
+3 (7) Order a person who is a party to refrain from direct or indirect
+4 contact with the child.
+5 (8) Order a perpetrator of child abuse or neglect to refrain from
+6 returning to the child's residence.
+7 (b) A juvenile court may not place a child in a home or facility that
+8 is located outside Indiana unless:
+9 (1) the placement is recommended or approved by the director of
+10 the department or the director's designee; or
+11 (2) the juvenile court makes written findings based on clear and
+12 convincing evidence that:
+13 (A) the out-of-state placement is appropriate because there is
+14 not an equivalent facility with adequate services located in
+15 Indiana;
+16 (B) institutional care in the other jurisdiction is in the best
+17 interest of the child and will not produce undue hardship; or
+18 (C) the location of the home or facility is within a distance not
+19 greater than fifty (50) miles from the county of residence of
+20 the child.
+21 (c) A juvenile court may not enter a dispositional decree
+22 ordering removal of a child from the home of the child's parent,
+23 guardian, or custodian if:
+24 (1) the juvenile court has found the child to be a child in need
+25 of services under IC 31-34-1-6; and
+26 (2) the parent, guardian, or custodian of the child:
+27 (A) is a fit parent, guardian, or custodian of the child; and
+28 (B) does not consent to the child being removed from the
+29 child's home.
+30 (c) (d) If a dispositional decree under this section:
+31 (1) orders or approves removal of a child from the child's home or
+32 awards wardship of the child to the department; and
+33 (2) is the first juvenile court order in the child in need of services
+34 proceeding that authorizes or approves removal of the child from
+35 the child's parent, guardian, or custodian;
+36 the juvenile court shall include in the decree the appropriate findings
+37 and conclusions described in IC 31-34-5-3(b) and IC 31-34-5-3(c).
+2023 IN 1407—LS 7365/DI 119

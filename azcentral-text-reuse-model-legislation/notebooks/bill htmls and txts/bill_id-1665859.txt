@@ -1,0 +1,93 @@
+
+
+
+
+
+
+2023-2024 Bill 3730 Text of Previous Version (Jan. 18, 2023) - South Carolina Legislature Online
+ 
+
+South Carolina General Assembly125th Session, 2023-2024Bill 3730Indicates Matter StrickenIndicates New Matter(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)
+
+
+
+
+
+
+
+
+A bill
+
+TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE "MILLSTONE ACT OF 2023"; AND BY ADDING CHAPTER 141 TO TITLE 44 SO AS TO PROHIBIT HEALTH CARE PROFESSIONALS FROM MAKING REFERRALS FOR OR PROVIDING GENDER-TRANSITION PROCEDURES OR SERVICES TO ANYONE UNDER TWENTY-SIX YEARS OF AGE; TO PROHIBIT THE USE OF PUBLIC FUNDS FOR SUCH PROCEDURES; and TO CREATE A CRIMINAL PENALTY FOR VIOLATions, PROVIDE FOR PROFESSIONAL DISCIPLINE, ALLOW A PRIVATE RIGHT OF ACTION, AND AUTHORIZE THE ATTORNEY GENERAL TO ENFORCE THE CHAPTER.
+
+Be it enacted by the General Assembly of the State of South Carolina:
+
+SECTION 1.    This act may be cited as the "Millstone Act of 2023".
+
+SECTION 2.   Title 44 of the S.C. Code is amended by adding:
+
+   CHAPTER 141
+
+   Millstone Act of 2023
+
+   Section 44-141-10.   As used in this chapter:
+   (1) "Biological sex" means the biological indication of male and female in the context of reproductive potential or capacity, such as sex chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and external genitalia present at birth, without regard to an individual's psychological, chosen, or subjective experience of gender.
+   (2) "Cross-sex hormones" means: 
+      (a) testosterone or other androgens given to biological females in amounts that are larger or more potent than would normally occur naturally in healthy biological sex females; and 
+      (b) estrogen given to biological males in amounts that are larger or more potent than would normally occur naturally in healthy biological sex males.
+   (3) "Gender" means the psychological, behavioral, social, and cultural aspects of being male or female.
+   (4) "Gender-reassignment surgery" means any medical or surgical service that seeks to surgically alter or remove healthy physical or anatomical characteristics or features that are typical for the individual's biological sex, in order to instill or create physiological or anatomical characteristics that resemble a sex different from the individual's biological sex including, but not limited to, genital or nongenital gender-reassignment surgery.
+   (5) "Gender transition" means the process in which a person goes from identifying with and living as a gender that corresponds to his or her biological sex to identifying with and living as a gender different from his or her biological sex, and may involve social, legal, or physical changes.
+   (6)(a) "Gender-transition procedures" means any medical or surgical service including, but not limited to, physician's services, inpatient and outpatient hospital services, or prescribed drugs related to gender transition that seeks to: 
+      (i) alter or remove physical or anatomical characteristics or features that are typical for the individual's biological sex; or 
+      (ii) instill or create physiological or anatomical characteristics that resemble a sex different from the individual's biological sex including, but not limited to, medical services that provide puberty-blocking drugs, cross-sex hormones, or other mechanisms to promote the development of feminizing or masculinizing features in the opposite biological sex, or genital or nongenital gender-reassignment surgery performed for the purpose of assisting an individual with a gender transition. 
+   (b) Gender-transition procedures do not include: 
+      (i) services to persons born with a medically verifiable disorder of sex development, including a person with external biological sex characteristics that are irresolvably ambiguous, such as those born with 46 XX chromosomes with virilization, 46 XY chromosomes with undervirilization, or having both ovarian and testicular tissue;
+      (ii) services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action;
+      (iii) the treatment of any infection, injury, disease, or disorder that has been caused by or exacerbated by the performance of gender-transition procedures, whether or not the gender-transition procedure was performed in accordance with state and federal law; or
+      (iv) any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed.
+   (7) "Genital gender-reassignment surgery" means a medical procedure performed for the purpose of assisting an individual with a gender transition, including but not limited to: 
+      (a) surgical procedures such as penectomy, orchiectomy, vaginoplasty, clitoroplasty, or vulvoplasty for biologically male patients or hysterectomy or oophorectomy for biologically female patients; 
+      (b) reconstruction of the fixed part of the urethra with or without a metoidioplasty; or 
+      (c) phalloplasty, vaginectomy, scrotoplasty, or implantation of erection or testicular prostheses for biologically female patients.
+   (8) "Health care professional" means a person who is licensed, certified, or otherwise authorized by the laws of this State to administer health care in the ordinary course of the practice of the person's profession.
+   (9) "Nongenital gender-reassignment surgery" means medical procedures performed for the purpose of assisting an individual with a gender transition including, but not limited to: 
+      (a) surgical procedures for biologically male patients, such as augmentation mammoplasty, facial feminization surgery, liposuction, lipofilling, voice surgery, thyroid cartilage reduction, gluteal augmentation, hair reconstruction, or various aesthetic procedures; or 
+      (b) surgical procedures for biologically female patients, such as subcutaneous mastectomy, voice surgery, liposuction, lipofilling, pectoral implants, or various aesthetic procedures.
+   (10) "Physician" means a person who is licensed to practice medicine in this State.
+   (11) "Puberty-blocking drugs" means gonadotropin releasing hormone analogues or other synthetic drugs used in biological males to stop luteinizing hormone secretion and therefore testosterone secretion, or synthetic drugs used in biological females which stop the production of estrogen and progesterone, when used to delay or suppress pubertal development in children for the purpose of assisting an individual with a gender transition
+   (12) "Public funds" means state, county, or local governmental monies, in addition to any department, agency, or instrumentality authorized or appropriated under state law or derived from any fund authorized or appropriated under state law or derived from any fund in which such monies are deposited.
+
+   Section 44-141-20.   (A) A physician or other health care professional shall not provide gender-transition procedures to any individual under twenty-six years of age.
+   (B) A physician or other health care professional shall not refer any individual under twenty-six years of age to any health care professional for gender-transition procedures.
+   (C) A physician or other health care professional is not prohibited from providing any of the following procedures which are not gender-transition procedures to an individual under twenty-six years of age:
+      (1) services to persons born with a medically verifiable disorder of sex development, including a person with external biological sex characteristics that are irresolvably ambiguous, such as those born with 46 XX chromosomes with virilization, 46 XY chromosomes with undervirilization, or having both ovarian and testicular tissue;
+      (2) services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action;
+      (3) the treatment of any infection, injury, disease, or disorder that has been caused by or exacerbated by the performance of gender-transition procedures, whether or not the gender-transition procedure was performed in accordance with state and federal law or whether or not funding for the gender-transition procedure is permissible under Section 44-141-30; or
+      (4) any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed.
+
+   Section 44-141-30.   (A) Public funds shall not be directly or indirectly used, granted, paid, or distributed to any entity, organization, or individual that provides gender-transition procedures to an individual under twenty-six years of age. 
+   (B) Health care services furnished in the following situations shall not include gender-transition procedures to an individual under twenty-six years of age: 
+      (1) by or in a health care facility owned by the State or a county or local government; or 
+      (2) by a physician or other health care professional employed by the State or a county or local government. 
+   (C) The state Medicaid program shall not reimburse or provide coverage for gender-transition procedures to an individual under twenty-six years of age. 
+
+   Section 44-141-40.   (A)(1) A physician or other health care professional found to have knowingly referred for or provided gender-transition procedures to an individual under twenty-six years of age is guilty of a felony and, upon conviction, may be imprisoned not more than five years.
+      (2) Prosecution for a criminal violation of this subsection must be commenced within forty years after the commission of such offense.
+   (B)(1) Any referral for or provision of gender-transition procedures to an individual under twenty-six years of age is unprofessional conduct and shall, upon an adverse ruling by the appropriate licensing board, result in immediate revocation of the license or certificate of the physician or other health care professional.
+      (2) Disciplinary proceedings against the physician or other health care professional must be commenced within forty years after the commission of such offense. 
+   (C)(1) A person may assert an actual or threatened violation of this chapter as a claim or defense in a judicial or administrative proceeding and obtain compensatory damages, injunctive relief, declaratory relief, or any other appropriate relief. 
+      (2) A person shall bring a claim for a violation of this chapter no later than forty years after the day the cause of action accrues. 
+      (3) An individual under eighteen years of age may bring an action throughout their minority through a parent or next friend, and may bring an action in their own name upon reaching majority at any time from that point until forty years after reaching the age of majority. 
+      (4) Notwithstanding any other provision of law, an action under this subsection may be commenced, and relief may be granted, in a judicial proceeding without regard to whether the person commencing the action has sought or exhausted available administrative remedies. 
+      (5) In any action or proceeding to enforce a provision of this chapter, a prevailing party who establishes a violation of this chapter shall recover reasonable attorney fees.
+   (D)(1) The Attorney General may bring an action to enforce compliance with this chapter. 
+      (2) This chapter does not deny, impair, or otherwise affect any right or authority of the Attorney General, this State, or any agency, officer, or employee of the State, acting under any law other than this act, to institute or intervene in any proceeding.
+
+SECTION 3.   The repeal or amendment by this act of any law, whether temporary or permanent or civil or criminal, does not affect pending actions, rights, duties, or liabilities founded thereon, or alter, discharge, release or extinguish any penalty, forfeiture, or liability incurred under the repealed or amended law, unless the repealed or amended provision shall so expressly provide.  After the effective date of this act, all laws repealed or amended by this act must be taken and treated as remaining in full force and effect for the purpose of sustaining any pending or vested right, civil action, special proceeding, criminal prosecution, or appeal existing as of the effective date of this act, and for the enforcement of rights, duties, penalties, forfeitures, and liabilities as they stood under the repealed or amended laws.
+
+SECTION 4.   This act takes effect upon approval by the Governor.
+----XX----
+This web page was last updated on January 18, 2023 at 02:50 PM
+
+
