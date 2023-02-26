@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+azcentral-text-reuse-model-legislation/notebooks/config.py
