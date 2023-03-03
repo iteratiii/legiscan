@@ -1,0 +1,1772 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 1 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+STATE OF OKLAHOMA 
+
+ 
+
+1st Session of the 59th Legislature (2023) 
+
+ 
+
+SENATE BILL 887 By: Jett 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AS INTRODUCED 
+
+ 
+
+An Act relating to freedom of conscience; creating 
+
+the Medical Ethics Defense Act; providing short 
+
+title; defining terms; granting certain rights to 
+
+certain medical practitioners, healthcare 
+
+institutions, or healthcare payers; limiting exercise 
+
+of certain rights; granting certain immunities; 
+
+prohibiting certain discrimination; requiring opt-in 
+
+for abortion; providing certain construction; 
+
+prohibiting and requiring certain actions by 
+
+licensing board under certain conditions; authorizing 
+
+and prohibiting certain civil actions; prohibiting 
+
+certain defense; providing for recovery of damages 
+
+and other relief; providing severability; providing 
+
+for codification; and providing an effective date. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA: 
+
+SECTION 1.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728g of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+This act may be known and cited as the “Medical Ethics Defense 
+
+Act”. 
+
+SECTION 2.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728h of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 2 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+1.  “Conscience” means the ethical, moral, or religious beliefs 
+
+or principles held by any medical practitioner, healthcare 
+
+institution, or healthcare payer.  Conscience with respect to 
+
+institutional entities or corporate bodies, as opposed to individual 
+
+persons, is determined by reference to that entity or body’s 
+
+governing documents, including but not limited to any published 
+
+ethical, moral, or religious guidelines or directives; mission 
+
+statements; constitutions; articles of incorporation; bylaws; 
+
+policies; or regulations; 
+
+2.  “Disclosure” means a formal or informal communication or 
+
+transmission, but does not include a communication or transmission 
+
+concerning policy decisions that lawfully exercise discretionary 
+
+authority unless the medical practitioner providing the disclosure 
+
+or transmission reasonably believes that the disclosure or 
+
+transmission evinces: 
+
+a. any violation of any law, rule, or regulation, 
+
+b. any violation of any ethical guidelines for the 
+
+provision of any medical procedure or service, or 
+
+c. gross mismanagement, a gross waste of funds, an abuse 
+
+of authority, practices or methods of treatment that 
+
+may put patient health at risk, or a substantial and 
+
+specific danger to public health or safety; 
+
+3.  “Discrimination” means any adverse action taken against, or 
+
+any threat of adverse action communicated to, any medical 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 3 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+practitioner, healthcare institution, or healthcare payer as a 
+
+result of his, her, or its decision to decline to participate in a 
+
+medical procedure or service on the basis of conscience.  
+
+Discrimination includes, but is not limited to, termination of 
+
+employment; transfer from current position; demotion from current 
+
+position; adverse administrative action; reassignment to a different 
+
+shift or job title; increased administrative duties; refusal of 
+
+staff privileges; refusal of board certification; loss of career 
+
+specialty; reduction of wages, benefits, or privileges; refusal to 
+
+award a grant, contract, or other program; refusal to provide 
+
+residency training opportunities; denial, deprivation, or 
+
+disqualification of licensure; withholding or disqualifying from 
+
+financial aid and other assistance; impediments to creating any 
+
+healthcare institution or payer or expanding or improving such 
+
+healthcare institution or payer; impediments to acquiring, 
+
+associating with, or merging with any other healthcare institution 
+
+or payer; the threat thereof with regard to any of the preceding; or 
+
+any other penalty, disciplinary, or retaliatory action, whether 
+
+executed or threatened.  However, discrimination excludes the 
+
+negotiation or purchase of insurance by a non-government entity; 
+
+4.  “Medical procedure or service” means medical care provided 
+
+to any patient at any time over the entire course of treatment, or 
+
+medical research.  This includes, but is not limited to, testing; 
+
+diagnosis; referral; dispensing and/or administering any drug, 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 4 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+medication, or device; psychological therapy or counseling; 
+
+research; prognosis; therapy; record making procedures; notes 
+
+related to treatment; set up or performance of a surgery or 
+
+procedure; or any other care or service performed or provided by any 
+
+medical practitioner including, but not limited to, physicians, 
+
+nurses, allied health professionals, paraprofessionals, contractors, 
+
+or employees of healthcare institutions; 
+
+5.  “Healthcare institution” means any organization, 
+
+corporation, partnership, association, agency, network, sole 
+
+proprietorship, joint venture, or other entity that provides medical 
+
+procedures or services.  The term includes, but is not limited to, 
+
+any public or private hospital, clinic, medical center, physician 
+
+organization, professional association, ambulatory surgical center, 
+
+private physician’s office, pharmacy, nursing home, medical school, 
+
+nursing school, medical training facility, or any other entity or 
+
+location in which medical procedures or services are performed; 
+
+6.  “Healthcare payer” means any employer, health plan, health 
+
+maintenance organization, insurance company, management services 
+
+organization, or any other entity that pays for—or arranges for the 
+
+payment of—any medical procedure or service provided to any patient, 
+
+whether that payment is made in whole or in part; 
+
+7.  “Medical practitioner” means any person or individual who 
+
+may be or is asked to participate in any way in any medical 
+
+procedure or service.  This includes, but is not limited to, 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 5 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+doctors, nurse practitioners, physician’s assistants, nurses, 
+
+nurses’ aides, allied health professionals, medical assistants, 
+
+hospital employees, clinic employees, nursing home employees, 
+
+pharmacists, pharmacy technicians and employees, medical school 
+
+faculty and students, nursing school faculty and students, 
+
+psychology and counseling faculty and students, medical researchers, 
+
+laboratory technicians, psychologists, psychiatrists, counselors, 
+
+mental health professionals, social workers, or any other person who 
+
+facilitates or participates in the provision of a medical procedure 
+
+or service; 
+
+8.  “Participate” in a medical procedure or service means to 
+
+provide, perform, assist with, facilitate, refer for, counsel for, 
+
+advise with regard to, admit for the purposes of providing, or take 
+
+part in any way in providing any medical procedure or service, or 
+
+any form of such service; 
+
+9.  “Pay” or “payment” means to pay for, contract for, arrange 
+
+for the payment of (whether in whole or in part), reimburse, or 
+
+remunerate; 
+
+SECTION 3.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728i of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+A.  Freedom of Conscience.  A medical practitioner, healthcare 
+
+institution, or healthcare payer has the right not to participate in 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 6 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+or pay for any medical procedure or service which violates his, her, 
+
+or its conscience. 
+
+B.  Limitations.  The exercise of the right of conscience is 
+
+limited to conscience-based objections to a particular medical 
+
+procedure or service.  This section may not be construed to waive or 
+
+modify any duty a health care practitioner, health care institution, 
+
+or health care payer may have to provide other medical procedures or 
+
+services that do not violate the practitioner’s, institution’s, or 
+
+payer’s conscience. 
+
+C.  Immunity from Liability.  No medical practitioner, 
+
+healthcare institution, or healthcare payer shall be civilly, 
+
+criminally, or administratively liable for exercising his, her, or 
+
+its right of conscience not to participate in or pay for a medical 
+
+procedure or service.  No healthcare institution shall be civilly, 
+
+criminally, or administratively liable for the exercise of 
+
+conscience rights not to participate in a medical procedure or 
+
+service by a medical practitioner employed, contracted, or granted 
+
+admitting privileges by the healthcare institution. 
+
+D.  Discrimination.  No medical practitioner, healthcare 
+
+institution, or healthcare payer shall be discriminated against in 
+
+any manner as a result of his, her, or its decision to decline to 
+
+participate in or pay for a medical procedure or service on the 
+
+basis of conscience. 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 7 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+E.  Exception.  Notwithstanding any other provision of this Act 
+
+to the contrary, a religious medical practitioner, healthcare 
+
+institution, or healthcare payer that holds itself out to the public 
+
+as religious, states in its governing documents that it has a 
+
+religious purpose or mission, and has internal operating policies or 
+
+procedures that implement its religious beliefs, shall have the 
+
+right to make employment, staffing, contracting, and admitting 
+
+privilege decisions consistent with its religious beliefs. 
+
+F.  Opt-In Required.  A health care practitioner may not be 
+
+scheduled for, assigned, or requested to directly or indirectly 
+
+perform, facilitate, refer for, or participate in an abortion unless 
+
+the practitioner first affirmatively consents in writing to perform, 
+
+facilitate, refer for, or participate in the abortion.  This 
+
+subsection does not establish a right to participate in an abortion 
+
+otherwise prohibited by law. 
+
+G.  Emergency Medical Treatments.  Nothing herein shall be 
+
+construed to override the requirement to provide emergency medical 
+
+treatment to all patients set forth in 42 U.S.C. Section 1395dd.  
+
+Medical emergencies shall be subject to the definitions and 
+
+requirements of Section 1-731.4 of Title 63 of the Oklahoma 
+
+Statutes. 
+
+SECTION 4.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728j of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 8 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+A.  No medical practitioner shall be discriminated against in 
+
+any manner because the medical practitioner: 
+
+1.  Provided, caused to be provided, or is about to provide or 
+
+cause to be provided to his or her employer, the Attorney General, 
+
+any state agency charged with protecting health care rights of 
+
+conscience, the U.S. Department of Health and Human Services, Office 
+
+of Civil Rights, or any other federal agency charged with protecting 
+
+health care rights of conscience information relating to any 
+
+violation of, or any act or omission the medical practitioner 
+
+reasonably believes to be a violation of, any provision of this act; 
+
+2.  Testified or is about to testify in a proceeding concerning 
+
+such violation; or 
+
+3.  Assisted or participated, or is about to assist or 
+
+participate, in such a proceeding. 
+
+B.  Unless the disclosure is specifically prohibited by law, no 
+
+medical practitioner shall be discriminated against in any manner 
+
+because the medical practitioner disclosed any information that the 
+
+medical practitioner reasonably believes evinces: 
+
+1.  Any violation of any law, rule, or regulation; 
+
+2.  Any violation of any ethical guidelines for the provision of 
+
+any medical procedure or service; or 
+
+3.  Gross mismanagement, a gross waste of funds, an abuse of 
+
+authority, practices or methods of treatment that may put patient 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 9 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+health at risk, or a substantial and specific danger to public 
+
+health or safety. 
+
+C.  A licensing board may not reprimand, sanction, or revoke or 
+
+threaten to revoke a license, certificate, or registration of a 
+
+health care practitioner for engaging in speech or expressive 
+
+activity protected under the First Amendment to the U.S. 
+
+Constitution, unless the licensing board demonstrates beyond a 
+
+reasonable doubt that the practitioner’s speech was the direct cause 
+
+of physical harm to a person with whom the health care practitioner 
+
+had a practitioner-patient relationship within the three (3) years 
+
+immediately preceding the incident of physical harm. 
+
+1.  The licensing board must provide a medical practitioner with 
+
+any complaints it has received which may result in the revocation of 
+
+the medical practitioner’s license, certification, or registration, 
+
+within seven (7) days after receipt of the complaint. 
+
+2.  The licensing board must pay the medical practitioner an 
+
+administrative penalty of $500 for each day the complaint is not 
+
+provided to the medical practitioner after the specified seven (7) 
+
+days. 
+
+SECTION 5.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728k of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+A.  Civil Action for Violation of Right of Conscience.  A civil 
+
+action for damages or injunctive relief—or both—may be brought by 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 10 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+any medical practitioner, healthcare institution, or healthcare 
+
+payer for any violation of any provision of this act.  Any 
+
+additional burden or expense on another medical practitioner, 
+
+healthcare institution, or healthcare payer arising from the 
+
+exercise of the right of conscience shall not be a defense to any 
+
+violation of this act.  However, no civil action may be brought 
+
+against an individual who declines to use or purchase medical 
+
+procedure or services from a specific medical practitioner, 
+
+healthcare institution, or healthcare payer for exercising the 
+
+rights granted in subsection A of Section 3 of this act. 
+
+B.  Other Remedies.  Any party aggrieved by any violation of 
+
+this act may commence a civil action and shall be entitled—upon the 
+
+finding of a violation—to recover threefold his, her, or its actual 
+
+damages sustained, along with the costs of the action and reasonable 
+
+attorney fees.  Such damages shall be cumulative and in no way 
+
+limited by any other remedies which may be available under any other 
+
+federal, state, or municipal law.  A court considering such civil 
+
+action may also award injunctive relief, which may include, but is 
+
+not limited to, reinstatement of a medical practitioner to his or 
+
+her previous position, reinstatement of board certification, and re-
+
+licensure of a healthcare institution or healthcare payer. 
+
+SECTION 6.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1-728l of Title 63, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 1458 Page 11 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+Any provision of this act held to be invalid or unenforceable by 
+
+its terms, or as applied to any person or circumstance, shall be 
+
+construed so as to give it the maximum effect permitted by law, 
+
+unless such holding shall be one of utter invalidity or 
+
+unenforceability, in which event such provision shall be deemed 
+
+severable herefrom and shall not affect the remainder hereof or the 
+
+application of such provision to other persons not similarly 
+
+situated or to other, dissimilar circumstances. 
+
+SECTION 7.  This act shall become effective November 1, 2023. 
+
+ 
+
+59-1-1458 DC 1/19/2023 10:13:01 AM 
+
+

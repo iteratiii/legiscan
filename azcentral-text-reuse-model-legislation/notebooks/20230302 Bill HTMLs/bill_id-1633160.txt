@@ -1,0 +1,1078 @@
+
+
+
+ 
+88R1170 SRA-D
+
+
+ 
+
+
+ 
+
+		By: Oliverson
+H.B. No. 319
+
+
+
+
+ 
+
+
+ 
+
+
+
+ 		
+			
+
+A BILL TO BE ENTITLED
+
+
+
+
+ 
+			
+
+AN ACT
+
+
+
+
+ 
+			
+relating to protection of persons from participation in a health 
+
+
+
+ 
+			
+care service for reasons of conscience; providing a civil remedy; 
+
+
+
+ 
+			
+authorizing disciplinary action.
+
+
+
+ 
+			
+       BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+
+
+
+ 
+			
+       SECTION 1.  The legislature finds that:
+
+
+
+ 
+			
+             (1)  the public policy of this state is to respect the 
+
+
+
+ 
+			
+conscience of all health care providers and the right of each health 
+
+
+
+ 
+			
+care provider to hold their own belief about whether certain health 
+
+
+
+ 
+			
+care services are morally acceptable;
+
+
+
+ 
+			
+             (2)  without comprehensive protections, the conscience 
+
+
+
+ 
+			
+of health care providers may be violated; and
+
+
+
+ 
+			
+             (3)  each health care provider must be protected from 
+
+
+
+ 
+			
+required participation in a health care service in which the 
+
+
+
+ 
+			
+provider has declined participation for reasons of conscience and 
+
+
+
+ 
+			
+from discriminatory adverse action resulting from the 
+
+
+
+ 
+			
+nonparticipation.
+
+
+
+ 
+			
+       SECTION 2.  Chapter 161, Health and Safety Code, is amended 
+
+
+
+ 
+			
+by adding Subchapter X to read as follows:
+
+
+
+ 
+			
+SUBCHAPTER X.  TEXAS HEALTH CARE CONSCIENCE PROTECTION ACT
+
+
+
+ 
+			
+       Sec. 161.701.  DEFINITIONS.  In this subchapter:
+
+
+
+ 
+			
+             (1)  "Conscience" means a sincerely held set of moral 
+
+
+
+ 
+			
+convictions arising from:
+
+
+
+ 
+			
+                   (A)  a belief in and relation to God;
+
+
+
+ 
+			
+                   (B)  a religious faith or spiritual practice; or
+
+
+
+ 
+			
+                   (C)  a moral philosophy or ethical position, 
+
+
+
+ 
+			
+without regard to whether the philosophy or position is related to a 
+
+
+
+ 
+			
+religious faith.
+
+
+
+ 
+			
+             (2)  "Emergency care" means bona fide emergency 
+
+
+
+ 
+			
+services provided after a sudden onset of a medical or traumatic 
+
+
+
+ 
+			
+condition manifested by acute symptoms of sufficient severity, 
+
+
+
+ 
+			
+including severe pain, such that the absence of immediate medical 
+
+
+
+ 
+			
+attention could reasonably be expected to:
+
+
+
+ 
+			
+                   (A)  place the patient's health in serious 
+
+
+
+ 
+			
+jeopardy;
+
+
+
+ 
+			
+                   (B)  result in serious impairment to the patient's 
+
+
+
+ 
+			
+bodily functions; or
+
+
+
+ 
+			
+                   (C)  result in serious dysfunction of any bodily 
+
+
+
+ 
+			
+organ or body part of the patient.
+
+
+
+ 
+			
+             (3)  "Health care facility" means a public or private 
+
+
+
+ 
+			
+organization, corporation, partnership, sole proprietorship, 
+
+
+
+ 
+			
+association, agency, network, joint venture, or other entity that 
+
+
+
+ 
+			
+provides health care services to patients. The term includes a 
+
+
+
+ 
+			
+hospital, clinic, medical center, ambulatory surgical center, 
+
+
+
+ 
+			
+private physician's office, pharmacy, nursing home, laboratory or 
+
+
+
+ 
+			
+diagnostic facility, infirmary, dispensary, medical school, 
+
+
+
+ 
+			
+nursing school, pharmacy school, or medical training facility.
+
+
+
+ 
+			
+             (4)  "Health care provider" means a nurse, nurse aide, 
+
+
+
+ 
+			
+medical assistant, hospital employee, allied health professional, 
+
+
+
+ 
+			
+laboratory technician, clinic employee, nursing home employee, 
+
+
+
+ 
+			
+pharmacist, pharmacy employee, researcher, medical, pharmacy, or 
+
+
+
+ 
+			
+nursing school student, professional, paraprofessional, or, 
+
+
+
+ 
+			
+without regard to whether the person holds a license, any other 
+
+
+
+ 
+			
+person who furnishes or assists in the furnishing of a health care 
+
+
+
+ 
+			
+service.
+
+
+
+ 
+			
+             (5)  "Health care service" means any phase of patient 
+
+
+
+ 
+			
+health care or treatment.  The term includes:
+
+
+
+ 
+			
+                   (A)  examination, testing, diagnosis, referral, 
+
+
+
+ 
+			
+prognosis, dispensing or administering a drug or device, ancillary 
+
+
+
+ 
+			
+research, instruction, therapy, treatment, and preparing for or 
+
+
+
+ 
+			
+performing a surgery or procedure;
+
+
+
+ 
+			
+                   (B)  family planning, counseling, and referrals, 
+
+
+
+ 
+			
+and any other advice in connection with the use or procurement of 
+
+
+
+ 
+			
+contraceptives, sterilization, or abortion; and
+
+
+
+ 
+			
+                   (C)  record-making procedures, preparation of 
+
+
+
+ 
+			
+treatment notes, and any other care or treatment rendered by a 
+
+
+
+ 
+			
+health care facility, physician, or health care provider.
+
+
+
+ 
+			
+             (6)  "Physician" means an individual licensed to 
+
+
+
+ 
+			
+practice medicine in this state.
+
+
+
+ 
+			
+       Sec. 161.702.  RIGHT TO DECLINE PARTICIPATION IN HEALTH CARE 
+
+
+
+ 
+			
+SERVICE FOR REASONS OF CONSCIENCE; CONSTRUCTION OF SUBCHAPTER.  (a)  
+
+
+
+ 
+			
+Except as provided by Subsection (b), a person may decline to 
+
+
+
+ 
+			
+participate in a health care service for reasons of conscience.
+
+
+
+ 
+			
+       (b)  A person may not decline to participate in the following 
+
+
+
+ 
+			
+services: 
+
+
+
+ 
+			
+             (1)  emergency care; or
+
+
+
+ 
+			
+             (2)  except as provided by Chapter 166, life-sustaining 
+
+
+
+ 
+			
+treatment.
+
+
+
+ 
+			
+       (c)  Nothing in this subchapter may be construed to:
+
+
+
+ 
+			
+             (1)  supersede Chapter 166 governing the provision, 
+
+
+
+ 
+			
+withholding, or withdrawing of life-sustaining treatment; or
+
+
+
+ 
+			
+             (2)  apply to emergency care, life-sustaining 
+
+
+
+ 
+			
+treatment, or cardiopulmonary resuscitation.
+
+
+
+ 
+			
+       (d)  An exercise of the right of conscience under this 
+
+
+
+ 
+			
+section is limited to a person's right to refuse to participate in a 
+
+
+
+ 
+			
+specific health care service.
+
+
+
+ 
+			
+       Sec. 161.703.  IMMUNITY OF PHYSICIANS AND HEALTH CARE 
+
+
+
+ 
+			
+PROVIDERS.  A physician or health care provider may not be held 
+
+
+
+ 
+			
+civilly or criminally liable because the physician or health care 
+
+
+
+ 
+			
+provider declines to participate in a health care service wholly or 
+
+
+
+ 
+			
+partly for reasons of conscience.
+
+
+
+ 
+			
+       Sec. 161.704.  ADVERSE ACTION.  A person, including a public 
+
+
+
+ 
+			
+official and a medical school or other institution that conducts 
+
+
+
+ 
+			
+education or training programs for physicians or health care 
+
+
+
+ 
+			
+providers, violates this subchapter by taking an adverse action 
+
+
+
+ 
+			
+against another person because the other person declines to 
+
+
+
+ 
+			
+participate in a health care service for reasons of conscience. 
+
+
+
+ 
+			
+Violations include discrimination against or taking an adverse 
+
+
+
+ 
+			
+action with regard to: 
+
+
+
+ 
+			
+             (1)  licensure;
+
+
+
+ 
+			
+             (2)  certification; 
+
+
+
+ 
+			
+             (3)  employment terms, benefits, seniority status, 
+
+
+
+ 
+			
+promotion, or transfer;
+
+
+
+ 
+			
+             (4)  staff appointments or other privileges;
+
+
+
+ 
+			
+             (5)  denial of employment, admission, or participation 
+
+
+
+ 
+			
+in a program for which the other person is eligible;
+
+
+
+ 
+			
+             (6)  reference to reasons of conscience in an 
+
+
+
+ 
+			
+application form;
+
+
+
+ 
+			
+             (7)  questions regarding an applicant's participation 
+
+
+
+ 
+			
+in providing a health care service for reasons of conscience;
+
+
+
+ 
+			
+             (8)  imposition of a burden in the terms or conditions 
+
+
+
+ 
+			
+of employment;
+
+
+
+ 
+			
+             (9)  denial of aid, assistance, or benefits;
+
+
+
+ 
+			
+             (10)  conditional receipt of the aid, assistance, or 
+
+
+
+ 
+			
+benefits; or
+
+
+
+ 
+			
+             (11)  coercion or disqualification of the other person 
+
+
+
+ 
+			
+receiving aid, assistance, or benefits.
+
+
+
+ 
+			
+       Sec. 161.705.  PROTOCOL FOR DECLINING PARTICIPATION IN 
+
+
+
+ 
+			
+PROVISION OF HEALTH CARE SERVICE.  (a)  A health care facility shall 
+
+
+
+ 
+			
+develop a written protocol for circumstances in which a person 
+
+
+
+ 
+			
+declines to participate in providing a health care service, other 
+
+
+
+ 
+			
+than emergency care or life-sustaining treatment, for reasons of 
+
+
+
+ 
+			
+conscience. The protocol must:
+
+
+
+ 
+			
+             (1)  describe a patient's access to health care 
+
+
+
+ 
+			
+services and information to ensure the patient is not permanently 
+
+
+
+ 
+			
+or substantially prevented from obtaining the services; and
+
+
+
+ 
+			
+             (2)  explain the process the facility will implement to 
+
+
+
+ 
+			
+facilitate in a timely manner the patient's access to the services.
+
+
+
+ 
+			
+       (b)  A person who declines to participate in providing a 
+
+
+
+ 
+			
+health care service for reasons of conscience shall: 
+
+
+
+ 
+			
+             (1)  notify the health care facility of the 
+
+
+
+ 
+			
+declination; and
+
+
+
+ 
+			
+             (2)  comply with the applicable protocol developed 
+
+
+
+ 
+			
+under this section.
+
+
+
+ 
+			
+       (c)  This section does not permit a protocol developed under 
+
+
+
+ 
+			
+this section to require a health care facility, physician, or 
+
+
+
+ 
+			
+health care provider to counsel a patient or refer the patient to 
+
+
+
+ 
+			
+another physician or facility regarding a health care service that 
+
+
+
+ 
+			
+is contrary to the conscience of the physician or health care 
+
+
+
+ 
+			
+provider.
+
+
+
+ 
+			
+       Sec. 161.706.  DISCIPLINARY ACTION; COMPLAINT.  (a)  A 
+
+
+
+ 
+			
+health care facility, physician, or health care provider that holds 
+
+
+
+ 
+			
+a license issued by a licensing agency in this state is subject to 
+
+
+
+ 
+			
+review and disciplinary action by the licensing agency for a 
+
+
+
+ 
+			
+violation of this subchapter as if the facility, physician, or 
+
+
+
+ 
+			
+provider violated the applicable licensing law.
+
+
+
+ 
+			
+       (b)  A person who is injured by a violation of this 
+
+
+
+ 
+			
+subchapter may file a complaint with the licensing agency that 
+
+
+
+ 
+			
+issued a license to the health care facility, physician, or health 
+
+
+
+ 
+			
+care provider that allegedly violated this subchapter.
+
+
+
+ 
+			
+       (c)  A physician or health care provider may not file a 
+
+
+
+ 
+			
+complaint with the appropriate licensing agency under this section  
+
+
+
+ 
+			
+unless the physician or health care provider complies with the 
+
+
+
+ 
+			
+health care facility's protocol developed under Section 161.705.
+
+
+
+ 
+			
+       Sec. 161.707.  CIVIL REMEDIES.  A person who is injured by a 
+
+
+
+ 
+			
+violation of this subchapter may bring a civil action against a 
+
+
+
+ 
+			
+person who violates this subchapter. A person who brings an action 
+
+
+
+ 
+			
+under this section may obtain:
+
+
+
+ 
+			
+             (1)  injunctive relief;
+
+
+
+ 
+			
+             (2)  damages incurred by the person, including:
+
+
+
+ 
+			
+                   (A)  actual damages for all psychological, 
+
+
+
+ 
+			
+emotional, and physical injuries resulting from the violation of 
+
+
+
+ 
+			
+this subchapter;
+
+
+
+ 
+			
+                   (B)  court costs; and
+
+
+
+ 
+			
+                   (C)  reasonable attorney's fees; or
+
+
+
+ 
+			
+             (3)  both injunctive relief and damages.
+
+
+
+ 
+			
+       SECTION 3.  Not later than December 1, 2023, a health care 
+
+
+
+ 
+			
+facility, as that term is defined by Section 161.701, Health and 
+
+
+
+ 
+			
+Safety Code, as added by this Act, shall adopt protocols required by 
+
+
+
+ 
+			
+Section 161.705, Health and Safety Code, as added by this Act.
+
+
+
+ 
+			
+       SECTION 4.  Section 161.703, Health and Safety Code, as 
+
+
+
+ 
+			
+added by this Act, applies only to a cause of action that accrues on 
+
+
+
+ 
+			
+or after the effective date of this Act.
+
+
+
+ 
+			
+       SECTION 5.  This Act takes effect September 1, 2023.
+
+

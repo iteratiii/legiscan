@@ -1,0 +1,1058 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 1 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+AN ACT relating to children's health. 1 
+
+Be it enacted by the General Assembly of the Commonwealth of Kentucky: 2 
+
+SECTION 1.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 3 
+
+READ AS FOLLOWS: 4 
+
+As used in Sections 1 to 6 of this Act: 5 
+
+(1) "Biological sex" means the biological indication of male and female in the 6 
+
+context of reproductive potential or capacity, such as sex chromosomes, naturally 7 
+
+occurring sex hormones, gonads, and nonambiguous internal and external 8 
+
+genitalia present at birth, without regard to a person’s psychological, chosen, or 9 
+
+subjective experience of gender; 10 
+
+(2) "Cross-sex hormones" means: 11 
+
+(a) Testosterone or other androgens given to biological females in amounts that 12 
+
+are larger or more potent than would normally occur naturally in healthy 13 
+
+biological females; and 14 
+
+(b) Estrogen given to biological males in amounts that are larger or more 15 
+
+potent than would normally occur naturally in healthy biological males; 16 
+
+(3) "Gender" means the psychological, behavioral, social, and cultural aspects of 17 
+
+being male or female; 18 
+
+(4) "Gender reassignment surgery" means any medical or surgical service that seeks 19 
+
+to surgically alter or remove healthy physical or anatomical characteristics or 20 
+
+features that are typical for the person’s biological sex in order to instill or create 21 
+
+physiological or anatomical characteristics that resemble a sex different from the 22 
+
+person’s biological sex, including but not limited to genital or nongenital gender 23 
+
+reassignment surgery performed for the purpose of assisting a person with a 24 
+
+gender transition; 25 
+
+(5) "Gender transition" means the process in which a person goes from identifying 26 
+
+with and living as a gender that corresponds to his or her biological sex to 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 2 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+identifying with and living as a gender different from his or her biological sex, 1 
+
+and may involve social, legal, or physical changes; 2 
+
+(6) (a) "Gender transition procedures" means any medical or surgical service 3 
+
+provided or performed for the purpose of assisting a person with a physical 4 
+
+gender transition. Gender transition procedures include but are not limited 5 
+
+to physician’s services, inpatient and outpatient hospital services, puberty-6 
+
+blocking drugs, cross-sex hormones, or genital or nongenital gender 7 
+
+reassignment surgery. 8 
+
+(b) Gender transition procedures do not include: 9 
+
+1. Services to persons born with a medically verifiable disorder of sex 10 
+
+development, including a person with unresolvable, ambiguous 11 
+
+external biological sex characteristics, such as those born with forty-12 
+
+six (46) XX chromosomes with virilization, forty-six (46) XY 13 
+
+chromosomes with undervirilization, or having both ovarian and 14 
+
+testicular tissue; 15 
+
+2. Services provided when a physician has otherwise diagnosed a 16 
+
+disorder of sexual development that the physician has determined 17 
+
+through genetic or biochemical testing indicates that a person does not 18 
+
+have normal sex chromosome structure, sex steroid production, or sex 19 
+
+steroid hormone action; 20 
+
+3. The acute and chronic treatment of any infection, injury, disease, or 21 
+
+disorder that has been caused by or exacerbated by the performance of 22 
+
+gender transition procedures, whether or not the gender transition 23 
+
+procedure was performed in accordance with state and federal law or 24 
+
+whether or not funding for the gender transition procedure is 25 
+
+permissible under Sections 1 to 6 of this Act; or 26 
+
+4. Any procedure undertaken because a person suffers from a physical 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 3 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+disorder, physical injury, or physical illness that would, as certified by 1 
+
+a physician, place the person in imminent danger of death or 2 
+
+impairment of major bodily function unless surgery is performed; 3 
+
+(7) "Health care provider" has the same meaning as in KRS 304.17A-005; 4 
+
+(8) "Nongenital gender reassignment surgery" means medical procedures performed 5 
+
+for the purpose of assisting a person with a physical gender transition, including 6 
+
+but not limited to: 7 
+
+(a) Surgical procedures for biologically male patients, such as augmentation 8 
+
+mammoplasty, facial feminization surgery, liposuction, lipofilling, voice 9 
+
+feminization surgery, thyroid cartilage reduction, gluteal augmentation, 10 
+
+hair reconstruction, or various aesthetic procedures; or 11 
+
+(b) Surgical procedures for biologically female patients, such as subcutaneous 12 
+
+mastectomy, voice masculinization surgery, liposuction, lipofilling, pectoral 13 
+
+implants, or various aesthetic procedures; 14 
+
+(9) "Physician" has the same meaning as in KRS 311.550; 15 
+
+(10) "Puberty-blocking drugs" means gonadotropin-releasing hormone analogues or 16 
+
+other synthetic drugs used in biological males to stop luteinizing hormone 17 
+
+secretion and therefore testosterone secretion, or synthetic drugs used in 18 
+
+biological females which stop the production of estrogen and progesterone, when 19 
+
+used to delay or suppress pubertal development in children for the purpose of 20 
+
+assisting a child with a gender transition; and 21 
+
+(11) "Public funds" has the same meaning as in KRS 446.010. 22 
+
+SECTION 2.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 23 
+
+READ AS FOLLOWS: 24 
+
+(1) A physician or other health care provider shall not provide gender transition 25 
+
+procedures to any child under the age of eighteen (18) years. 26 
+
+(2) A physician or other health care provider shall not refer any child under the age 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 4 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+of eighteen (18) years to any health care provider for gender transition 1 
+
+procedures. 2 
+
+(3) Any referral for or provision of gender transition procedures to a child under the 3 
+
+age of eighteen (18) years by a health care provider shall be considered 4 
+
+unprofessional conduct and be subject to disciplinary action by the appropriate 5 
+
+licensing or certifying entity. 6 
+
+SECTION 3.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 7 
+
+READ AS FOLLOWS: 8 
+
+(1) Any violation of Section 2 of this Act shall be deemed as acting recklessly as 9 
+
+defined in KRS 501.020 for purposes of tort claims. 10 
+
+(2) Notwithstanding any other provision of the law to the contrary, for any violation 11 
+
+of Section 2 of this Act, the action may be brought by the child's parent or 12 
+
+guardian before the child attains age eighteen (18) years and may be brought by 13 
+
+the child within thirty (30) years after the child attains the age of eighteen (18) 14 
+
+years except: 15 
+
+(a) If at the time the child attains the age of eighteen (18) years he or she is 16 
+
+under other legal disability, the limitation period shall not begin to run until 17 
+
+the removal of the disability; or 18 
+
+(b) If during any period of time the person is subject to threats, intimidation, 19 
+
+manipulation, fraudulent concealment, or fraud perpetrated by the 20 
+
+physician or health care provider who prescribed or otherwise provided 21 
+
+gender transition procedures or by any person acting in the interest of the 22 
+
+physician or other health care provider, the limitation period shall not run 23 
+
+during this time period. 24 
+
+(3) A person may assert an actual or threatened violation of Section 2 of this Act as a 25 
+
+claim or defense in a judicial or administrative proceeding. 26 
+
+(4) In an action brought under this section: 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 5 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+(a) If the plaintiff prevails, he or she shall be entitled to reasonable costs and 1 
+
+attorney's fees; 2 
+
+(b) Punitive damages as well as compensatory damages shall be awardable, 3 
+
+including but not limited to: 4 
+
+1. Pain and suffering; 5 
+
+2. Loss of reputation; 6 
+
+3. Loss of income; and 7 
+
+4. Loss of consortium, including the loss of expectation of sharing 8 
+
+parenthood; and 9 
+
+(c) Injunctive, declaratory, and any other appropriate relief may be awarded. 10 
+
+(5) Notwithstanding any other provision of law to the contrary, an action under this 11 
+
+section may be commenced, and relief may be granted, in a judicial proceeding 12 
+
+without regard to whether the person commencing the action has sought or 13 
+
+exhausted available administrative remedies. 14 
+
+SECTION 4.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 15 
+
+READ AS FOLLOWS: 16 
+
+(1) Public funds shall not be directly or indirectly used, granted, paid, or distributed 17 
+
+to any entity, organization, or person that provides gender transition procedures 18 
+
+to a child under the age of eighteen (18) years. 19 
+
+(2) Any amount paid by a person or an entity for the provision of gender transition 20 
+
+procedures or as premiums for health care coverage that includes coverage for 21 
+
+gender transition procedures shall not be exempt from taxation. 22 
+
+(3) Health care services provided to a child under the age of eighteen (18) years shall 23 
+
+not include gender transition procedures if provided: 24 
+
+(a) In a facility owned by the state or a county or local government; or 25 
+
+(b) By a physician or other health care provider employed by the state or a 26 
+
+county or local government. 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 6 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+SECTION 5.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 1 
+
+READ AS FOLLOWS: 2 
+
+(1) A person or entity shall not knowingly engage in conduct that aids or abets the 3 
+
+performance or inducement of gender transition procedures to any child under 4 
+
+the age of eighteen (18) years, including employees of other state governments, 5 
+
+the federal government, or foreign governments. 6 
+
+(2) Subsection (1) of this section shall not apply to any freedom of speech protected 7 
+
+under the First Amendment to the Constitution of the United States. 8 
+
+(3) No parent of a child under the age of eighteen (18) years upon whom gender 9 
+
+transition procedures have been performed or induced may be held liable under 10 
+
+this section. 11 
+
+SECTION 6.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 12 
+
+READ AS FOLLOWS: 13 
+
+(1) The Attorney General may bring an action to enforce compliance with Sections 1 14 
+
+to 6 of this Act. 15 
+
+(2) Nothing in Sections 1 to 6 of this Act shall deny, impair, or otherwise affect any 16 
+
+right or authority of the Attorney General, the Commonwealth of Kentucky, or 17 
+
+any agency, officer, or employee of the state, acting under any other law, to 18 
+
+institute or intervene in any proceeding. 19 
+
+(3) The General Assembly of the Commonwealth of Kentucky, by resolution, may 20 
+
+appoint one (1) or more of its members who sponsored or cosponsored this Act in 21 
+
+his or her official capacity to intervene as a matter of right in any case to which 22 
+
+the constitutionality or enforceability of Sections 1 to 6 of this Act is challenged. 23 
+
+SECTION 7.   A NEW SECTION OF KRS CHAPTER 205 IS CREATED TO 24 
+
+READ AS FOLLOWS: 25 
+
+The Department for Medicaid Services and any managed care organization contracted 26 
+
+to provide Medicaid benefits pursuant to this chapter shall not reimburse or provide 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 7 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+coverage for gender transition procedures as defined in Section 1 of this Act to a child 1 
+
+under the age of eighteen (18) years. 2 
+
+SECTION 8.   A NEW SECTION OF SUBTITLE 17A OF KRS CHAPTER 304 3 
+
+IS CREATED TO READ AS FOLLOWS: 4 
+
+(1) As used in this section: 5 
+
+(a) "Gender transition procedures" has the same meaning as in Section 1 of 6 
+
+this Act; and 7 
+
+(b) "Health benefit plan" has the same meaning as in KRS 304.17A-005 except 8 
+
+that for the purposes of this section it includes any federal governmental 9 
+
+health benefit plan such as TRICARE or any health benefit plan obtained 10 
+
+through the United States Department of Veterans Affairs. 11 
+
+(2) Health benefit plans shall not be required to provide coverage for gender 12 
+
+transition procedures. 13 
+
+(3) If a health benefit plan elects to provide coverage for gender transition 14 
+
+procedures, the plan shall not include coverage for gender transition procedures 15 
+
+for a child under the age of eighteen (18) years. 16 
+
+Section 9.   KRS 141.019 is amended to read as follows: 17 
+
+In the case of taxpayers other than corporations: 18 
+
+(1) Adjusted gross income shall be calculated by subtracting from the gross income of 19 
+
+those taxpayers the deductions allowed individuals by Section 62 of the Internal 20 
+
+Revenue Code and adjusting as follows: 21 
+
+(a) Exclude income that is exempt from state taxation by the Kentucky 22 
+
+Constitution and the Constitution and statutory laws of the United States; 23 
+
+(b) Exclude income from supplemental annuities provided by the Railroad 24 
+
+Retirement Act of 1937 as amended and which are subject to federal income 25 
+
+tax by Pub. L. No. 89-699; 26 
+
+(c) Include interest income derived from obligations of sister states and political 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 8 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+subdivisions thereof; 1 
+
+(d) Exclude employee pension contributions picked up as provided for in KRS 2 
+
+6.505, 16.545, 21.360, 61.523, 61.560, 65.155, 67A.320, 67A.510, 78.610, 3 
+
+and 161.540 upon a ruling by the Internal Revenue Service or the federal 4 
+
+courts that these contributions shall not be included as gross income until such 5 
+
+time as the contributions are distributed or made available to the employee; 6 
+
+(e) Exclude Social Security and railroad retirement benefits subject to federal 7 
+
+income tax; 8 
+
+(f) Exclude any money received because of a settlement or judgment in a lawsuit 9 
+
+brought against a manufacturer or distributor of "Agent Orange" for damages 10 
+
+resulting from exposure to Agent Orange by a member or veteran of the 11 
+
+Armed Forces of the United States or any dependent of such person who 12 
+
+served in Vietnam; 13 
+
+(g) 1. a. For taxable years beginning after December 31, 2005, but before 14 
+
+January 1, 2018, exclude up to forty-one thousand one hundred ten 15 
+
+dollars ($41,110) of total distributions from pension plans, annuity 16 
+
+contracts, profit-sharing plans, retirement plans, or employee 17 
+
+savings plans; and 18 
+
+b. For taxable years beginning on or after January 1, 2018, exclude 19 
+
+up to thirty-one thousand one hundred ten dollars ($31,110) of 20 
+
+total distributions from pension plans, annuity contracts, profit-21 
+
+sharing plans, retirement plans, or employee savings plans. 22 
+
+2. As used in this paragraph: 23 
+
+a. "Annuity contract" has the same meaning as set forth in Section 24 
+
+1035 of the Internal Revenue Code; 25 
+
+b. "Distributions" includes but is not limited to any lump-sum 26 
+
+distribution from pension or profit-sharing plans qualifying for the 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 9 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+income tax averaging provisions of Section 402 of the Internal 1 
+
+Revenue Code; any distribution from an individual retirement 2 
+
+account as defined in Section 408 of the Internal Revenue Code; 3 
+
+and any disability pension distribution; and 4 
+
+c. "Pension plans, profit-sharing plans, retirement plans, or employee 5 
+
+savings plans" means any trust or other entity created or organized 6 
+
+under a written retirement plan and forming part of a stock bonus, 7 
+
+pension, or profit-sharing plan of a public or private employer for 8 
+
+the exclusive benefit of employees or their beneficiaries and 9 
+
+includes plans qualified or unqualified under Section 401 of the 10 
+
+Internal Revenue Code and individual retirement accounts as 11 
+
+defined in Section 408 of the Internal Revenue Code; 12 
+
+(h) 1. a. Exclude the portion of the distributive share of a shareholder's net 13 
+
+income from an S corporation subject to the franchise tax imposed 14 
+
+under KRS 136.505 or the capital stock tax imposed under KRS 15 
+
+136.300; and 16 
+
+b. Exclude the portion of the distributive share of a shareholder's net 17 
+
+income from an S corporation related to a qualified subchapter S 18 
+
+subsidiary subject to the franchise tax imposed under KRS 19 
+
+136.505 or the capital stock tax imposed under KRS 136.300. 20 
+
+2. The shareholder's basis of stock held in an S corporation where the S 21 
+
+corporation or its qualified subchapter S subsidiary is subject to the 22 
+
+franchise tax imposed under KRS 136.505 or the capital stock tax 23 
+
+imposed under KRS 136.300 shall be the same as the basis for federal 24 
+
+income tax purposes; 25 
+
+(i) Exclude income received for services performed as a precinct worker for 26 
+
+election training or for working at election booths in state, county, and local 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 10 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+primaries or regular or special elections; 1 
+
+(j) Exclude any capital gains income attributable to property taken by eminent 2 
+
+domain; 3 
+
+(k) 1. Exclude all income from all sources for members of the Armed Forces 4 
+
+who are on active duty and who are killed in the line of duty, for the 5 
+
+year during which the death occurred and the year prior to the year 6 
+
+during which the death occurred. 7 
+
+2. For the purposes of this paragraph, "all income from all sources" shall 8 
+
+include all federal and state death benefits payable to the estate or any 9 
+
+beneficiaries; 10 
+
+(l) Exclude all military pay received by members of the Armed Forces while on 11 
+
+active duty; 12 
+
+(m) 1. Include the amount deducted for depreciation under 26 U.S.C. sec. 167 13 
+
+or 168; and 14 
+
+2. Exclude the amounts allowed by KRS 141.0101 for depreciation; 15 
+
+(n) Include the amount deducted under 26 U.S.C. sec. 199A; 16 
+
+(o) Ignore any change in the cost basis of the surviving spouse's share of property 17 
+
+owned by a Kentucky community property trust occurring for federal income 18 
+
+tax purposes as a result of the death of the predeceasing spouse;[ and] 19 
+
+(p) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and 20 
+
+278, related to the tax treatment of forgiven covered loans, deductions 21 
+
+attributable to those loans, and tax attributes associated with those loans for 22 
+
+taxable years ending on or after March 27, 2020, but before January 1, 2022; 23 
+
+and 24 
+
+(q) For taxable years beginning on or after January 1, 2023, include any 25 
+
+amount paid for the provision of gender transition procedures or as 26 
+
+premiums for health care coverage that includes coverage for gender 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 11 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+transition procedures. In this paragraph, "gender transition procedures" 1 
+
+has the same meaning as in Section 1 of this Act; and 2 
+
+(2) Net income shall be calculated by subtracting from adjusted gross income all the 3 
+
+deductions allowed individuals by Chapter 1 of the Internal Revenue Code, as 4 
+
+modified by KRS 141.0101, except: 5 
+
+(a) Any deduction allowed by 26 U.S.C. sec. 164 for taxes; 6 
+
+(b) Any deduction allowed by 26 U.S.C. sec. 165 for losses, except wagering 7 
+
+losses allowed under Section 165(d) of the Internal Revenue Code; 8 
+
+(c) Any deduction allowed by 26 U.S.C. sec. 213 for medical care expenses; 9 
+
+(d) Any deduction allowed by 26 U.S.C. sec. 217 for moving expenses; 10 
+
+(e) Any deduction allowed by 26 U.S.C. sec. 67 for any other miscellaneous 11 
+
+deduction; 12 
+
+(f) Any deduction allowed by the Internal Revenue Code for amounts allowable 13 
+
+under KRS 140.090(1)(h) in calculating the value of the distributive shares of 14 
+
+the estate of a decedent, unless there is filed with the income return a 15 
+
+statement that the deduction has not been claimed under KRS 140.090(1)(h); 16 
+
+(g) Any deduction allowed by 26 U.S.C. sec. 151 for personal exemptions and 17 
+
+any other deductions in lieu thereof; 18 
+
+(h) Any deduction allowed for amounts paid to any club, organization, or 19 
+
+establishment which has been determined by the courts or an agency 20 
+
+established by the General Assembly and charged with enforcing the civil 21 
+
+rights laws of the Commonwealth, not to afford full and equal membership 22 
+
+and full and equal enjoyment of its goods, services, facilities, privileges, 23 
+
+advantages, or accommodations to any person because of race, color, religion, 24 
+
+national origin, or sex, except nothing shall be construed to deny a deduction 25 
+
+for amounts paid to any religious or denominational club, group, or 26 
+
+establishment or any organization operated solely for charitable or educational 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 12 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+purposes which restricts membership to persons of the same religion or 1 
+
+denomination in order to promote the religious principles for which it is 2 
+
+established and maintained; and 3 
+
+(i) A taxpayer may elect to claim the standard deduction allowed by KRS 4 
+
+141.081 instead of itemized deductions allowed pursuant to 26 U.S.C. sec. 63 5 
+
+and as modified by this section. 6 
+
+Section 10.   KRS 141.039 is amended to read as follows: 7 
+
+In the case of corporations: 8 
+
+(1) Gross income shall be calculated by adjusting federal gross income as defined in 9 
+
+Section 61 of the Internal Revenue Code as follows: 10 
+
+(a) Exclude income that is exempt from state taxation by the Kentucky 11 
+
+Constitution and the Constitution and statutory laws of the United States; 12 
+
+(b) Exclude all dividend income; 13 
+
+(c) Include interest income derived from obligations of sister states and political 14 
+
+subdivisions thereof; 15 
+
+(d) Exclude fifty percent (50%) of gross income derived from any disposal of 16 
+
+coal covered by Section 631(c) of the Internal Revenue Code if the 17 
+
+corporation does not claim any deduction for percentage depletion, or for 18 
+
+expenditures attributable to the making and administering of the contract 19 
+
+under which such disposition occurs or to the preservation of the economic 20 
+
+interests retained under such contract; 21 
+
+(e) Include the amount calculated under KRS 141.205; 22 
+
+(f) Ignore the provisions of Section 281 of the Internal Revenue Code in 23 
+
+computing gross income; 24 
+
+(g) Include the amount of deprecation deduction calculated under 26 U.S.C. sec. 25 
+
+167 or 168;[ and] 26 
+
+(h) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 13 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+278, related to the tax treatment of forgiven covered loans, deductions 1 
+
+attributable to those loans, and tax attributes associated with those loans for 2 
+
+taxable years ending on or after March 27, 2020, but before January 1, 2022; 3 
+
+and 4 
+
+(i) For taxable years beginning on or after January 1, 2023, include any 5 
+
+amount paid for the provision of gender transition procedures or as 6 
+
+premiums for health care coverage that includes coverage for gender 7 
+
+transition procedures. In this paragraph, "gender transition procedures" 8 
+
+has the same meaning as in Section 1 of this Act; and 9 
+
+(2) Net income shall be calculated by subtracting from gross income: 10 
+
+(a) The deduction for depreciation allowed by KRS 141.0101; 11 
+
+(b) Any amount paid for vouchers or similar instruments that provide health 12 
+
+insurance coverage to employees or their families; 13 
+
+(c) All the deductions from gross income allowed corporations by Chapter 1 of 14 
+
+the Internal Revenue Code, as modified by KRS 141.0101, except: 15 
+
+1. Any deduction for a state tax which is computed, in whole or in part, by 16 
+
+reference to gross or net income and which is paid or accrued to any 17 
+
+state of the United States, the District of Columbia, the Commonwealth 18 
+
+of Puerto Rico, any territory or possession of the United States, or to any 19 
+
+foreign country or political subdivision thereof; 20 
+
+2. The deductions contained in Sections 243, 245, and 247 of the Internal 21 
+
+Revenue Code; 22 
+
+3. The provisions of Section 281 of the Internal Revenue Code shall be 23 
+
+ignored in computing net income; 24 
+
+4. Any deduction directly or indirectly allocable to income which is either 25 
+
+exempt from taxation or otherwise not taxed under the provisions of this 26 
+
+chapter, except for deductions allowed under Pub. L. No. 116-260, secs. 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 14 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+276 and 278, related to the tax treatment of forgiven covered loans and 1 
+
+deductions attributable to those loans for taxable years ending on or 2 
+
+after March 27, 2020, but before January 1, 2022, and nothing in this 3 
+
+chapter shall be construed to permit the same item to be deducted more 4 
+
+than once; 5 
+
+5. Any deduction for amounts paid to any club, organization, or 6 
+
+establishment which has been determined by the courts or an agency 7 
+
+established by the General Assembly and charged with enforcing the 8 
+
+civil rights laws of the Commonwealth, not to afford full and equal 9 
+
+membership and full and equal enjoyment of its goods, services, 10 
+
+facilities, privileges, advantages, or accommodations to any person 11 
+
+because of race, color, religion, national origin, or sex, except nothing 12 
+
+shall be construed to deny a deduction for amounts paid to any religious 13 
+
+or denominational club, group, or establishment or any organization 14 
+
+operated solely for charitable or educational purposes which restricts 15 
+
+membership to persons of the same religion or denomination in order to 16 
+
+promote the religious principles for which it is established and 17 
+
+maintained; 18 
+
+6. Any deduction prohibited by KRS 141.205; and 19 
+
+7. Any dividends-paid deduction of any captive real estate investment 20 
+
+trust; and 21 
+
+(d) 1. A deferred tax deduction in an amount computed in accordance with this 22 
+
+paragraph. 23 
+
+2. For purposes of this paragraph: 24 
+
+a. "Net deferred tax asset" means that deferred tax assets exceed the 25 
+
+deferred tax liabilities of the combined group, as computed in 26 
+
+accordance with accounting principles generally accepted in the 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 15 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+United States of America; and 1 
+
+b. "Net deferred tax liability" means deferred tax liabilities that 2 
+
+exceed the deferred tax assets of a combined group as defined in 3 
+
+KRS 141.202, as computed in accordance with accounting 4 
+
+principles generally accepted in the United States of America. 5 
+
+3. Only publicly traded companies, including affiliated corporations 6 
+
+participating in the filing of a publicly traded company's financial 7 
+
+statements prepared in accordance with accounting principles generally 8 
+
+accepted in the United States of America, as of January 1, 2019, shall be 9 
+
+eligible for this deduction. 10 
+
+4. If the provisions of KRS 141.202 result in an aggregate increase to the 11 
+
+member's net deferred tax liability, an aggregate decrease to the 12 
+
+member's net deferred tax asset, or an aggregate change from a net 13 
+
+deferred tax asset to a net deferred tax liability, the combined group 14 
+
+shall be entitled to a deduction, as determined in this paragraph. 15 
+
+5. For ten (10) years beginning with the combined group's first taxable 16 
+
+year beginning on or after January 1, 2024, a combined group shall be 17 
+
+entitled to a deduction from the combined group's entire net income 18 
+
+equal to one-tenth (1/10) of the amount necessary to offset the increase 19 
+
+in the net deferred tax liability, decrease in the net deferred tax asset, or 20 
+
+aggregate change from a net deferred tax asset to a net deferred tax 21 
+
+liability. The increase in the net deferred tax liability, decrease in the net 22 
+
+deferred tax asset, or the aggregate change from a net deferred tax asset 23 
+
+to a net deferred tax liability shall be computed based on the change that 24 
+
+would result from the imposition of the combined reporting requirement 25 
+
+under KRS 141.202, but for the deduction provided under this paragraph 26 
+
+as of June 27, 2019. 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 16 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+6. The deferred tax impact determined in subparagraph 5. of this paragraph 1 
+
+shall be converted to the annual deferred tax deduction amount, as 2 
+
+follows: 3 
+
+a. The deferred tax impact determined in subparagraph 5. of this 4 
+
+paragraph shall be divided by the tax rate determined under KRS 5 
+
+141.040; 6 
+
+b. The resulting amount shall be further divided by the 7 
+
+apportionment factor determined by KRS 141.120 or 141.121 that 8 
+
+was used by the combined group in the calculation of the deferred 9 
+
+tax assets and deferred tax liabilities as described in subparagraph 10 
+
+5. of this paragraph; and 11 
+
+c. The resulting amount represents the total net deferred tax 12 
+
+deduction available over the ten (10) year period as described in 13 
+
+subparagraph 5. of this paragraph. 14 
+
+7. The deduction calculated under this paragraph shall not be adjusted as a 15 
+
+result of any events happening subsequent to the calculation, including 16 
+
+but not limited to any disposition or abandonment of assets. The 17 
+
+deduction shall be calculated without regard to the federal tax effect and 18 
+
+shall not alter the tax basis of any asset. If the deduction under this 19 
+
+section is greater than the combined group's entire Kentucky net income, 20 
+
+any excess deduction shall be carried forward and applied as a deduction 21 
+
+to the combined group's entire net income in future taxable years until 22 
+
+fully utilized. 23 
+
+8. Any combined group intending to claim a deduction under this 24 
+
+paragraph shall file a statement with the department on or before July 1, 25 
+
+2019. The statement shall specify the total amount of the deduction 26 
+
+which the combined group claims on the form, including calculations 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 488 
+
+Page 17 of 17 
+XXXX   1/5/2023 3:29 PM  Jacketed 
+
+and other information supporting the total amounts of the deduction as 1 
+
+required by the department. No deduction shall be allowed under this 2 
+
+paragraph for any taxable year, except to the extent claimed on the 3 
+
+timely filed statement in accordance with this paragraph. 4 
+
+Section 11.   If any provision of this Act or the application thereof to any person 5 
+
+or circumstance is held invalid, the invalidity shall not affect the other provisions or 6 
+
+applications of the Act that can be given effect without the invalid provision or 7 
+
+application, and to this end the provisions of this Act are severable. 8 
+
+Section 12.   This Act may be cited as the Kentucky's Children Deserve Help Not 9 
+
+Harm Act. 10 
+
+Section 13.   This Act shall take effect January 1, 2024, so that children in this 11 
+
+state currently using puberty-blocking drugs or cross-sex hormones have time for 12 
+
+appropriate medication tapering and discontinuation under the care of their physician or 13 
+
+other health care provider. 14 
+
+

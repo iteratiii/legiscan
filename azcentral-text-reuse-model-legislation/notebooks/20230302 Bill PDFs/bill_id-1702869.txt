@@ -1,0 +1,467 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\pdf\214232.wpd
+
+
+23 LC 33 9320
+
+S. B. 141
+- 1 -
+
+Senate Bill 141
+
+By: Senators Dixon of the 45th, Gooch of the 51st, Harbin of the 16th, Robertson of the 29th,
+
+Still of the 48th and others 
+
+A BILL TO BE ENTITLED
+
+AN ACT
+
+To amend Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to1
+
+general provisions relative to professions and businesses, so as to prohibit health care2
+
+providers from performing specified practices on minors relating to altering a person's3
+
+appearance relating to gender; to prohibit health care providers from aiding or abetting such4
+
+practices for minors; to provide for definitions; to provide for exceptions; to provide for5
+
+enforcement; to amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of6
+
+Georgia Annotated, relating to student health, so as to prohibit school nurses and other7
+
+employees and officials from engaging in certain conduct relating to a minor's perception of8
+
+his or her gender; to provide for legislative findings; to provide for related matters; to provide9
+
+for an effective date; to repeal conflicting laws; and for other purposes.10
+
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:11
+
+SECTION 1.12
+
+The General Assembly finds and declares that:13
+
+(1)  This state has a compelling government interest in protecting the health and safety of14
+
+its citizens, especially vulnerable children;15
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 2 -
+
+(2)  Only a tiny percentage of the American population experiences distress at identifying16
+
+with their biological sex.  According to the American Psychiatric Association, prevalence17
+
+ranges from 0.005 to 0.014 percent for natal adult males and from 0.002 to 0.003 percent18
+
+for natal females;19
+
+(3)  Studies consistently demonstrate that the vast majority of children who are gender20
+
+nonconforming or experience distress at identifying with their biological sex come to21
+
+identify with their biological sex in adolescence or adulthood, thereby rendering most22
+
+medical health care interventions unnecessary;23
+
+(4)  Scientific studies show that individuals struggling with distress at identifying with their24
+
+biological sex often have already experienced psychopathology, which indicates these25
+
+individuals should be encouraged to seek mental health care services before undertaking26
+
+any hormonal or surgical intervention;27
+
+(5)  Suicide rates, psychiatric morbidities, and mortality rates remain markedly elevated28
+
+above the background population after inpatient gender reassignment procedures have been29
+
+performed;30
+
+(6)  Some health care providers are prescribing puberty-blocking drugs in order to delay31
+
+the onset or progression of normally timed puberty in children who experience distress at32
+
+identifying with their biological sex.  This is being done despite the lack of any long-term33
+
+longitudinal studies evaluating the risks and benefits of using these drugs for the treatment34
+
+of such distress or gender transition;35
+
+(7)  Health care providers are also prescribing cross-sex hormones for children who36
+
+experience distress at identifying with their biological sex, despite the fact that no37
+
+randomized clinical trials have been conducted on the efficacy or safety of the use of38
+
+cross-sex hormones in adults or children for the purpose of treating such distress or gender39
+
+transition;40
+
+(8)  The use of cross-sex hormones comes with the following serious known risks:41
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 3 -
+
+(A)  For biological females, erythrocytosis, severe liver dysfunction, coronary artery42
+
+disease, cerebrovascular disease, hypertension, increased risk of breast and uterine43
+
+cancers, and irreversible infertility; and44
+
+(B)  For biological males, thromboembolic disease, cholelithiasis, coronary artery45
+
+disease, macroprolactinoma, cerebrovascular disease, hypertriglyceridemia, breast cancer,46
+
+and irreversible infertility;47
+
+(9)  Genital and non-genital reassignment surgeries are generally not recommended for48
+
+children, although evidence indicates referrals for children to have such surgeries are49
+
+becoming more frequent;50
+
+(10)  Genital gender reassignment surgery includes several irreversible invasive procedures51
+
+for males and females and involves the following alterations of biologically normal and52
+
+functional body parts:53
+
+(A)  For biological males, surgery may involve genital reconstruction including54
+
+penectomy, orchiectomy, vaginoplasty, clitoroplasty, and vulvoplasty; and55
+
+(B)  For biological females, surgery may involve a hysterectomy or oophorectomy,56
+
+reconstruction of the urethra, genital reconstruction including metoidioplasty or57
+
+phalloplasty, vaginectomy, scrotoplasty, and implantation of erection or testicular58
+
+prostheses;59
+
+(11)  The complications, risks, and long-term care concerns associated with genital gender60
+
+reassignment surgery for both males and females are numerous and complex;61
+
+(12)  Non-genital gender reassignment surgery includes various invasive procedures for62
+
+males and females and also involves the alteration or removal of biologically normal and63
+
+functional body parts:64
+
+(A)  For biological males, procedures may include augmentation mammoplasty, facial65
+
+feminization surgery, liposuction, lipofilling, voice surgery, thyroid cartilage reduction,66
+
+gluteal augmentation, hair reconstruction, and other aesthetic procedures; and67
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 4 -
+
+(B)  For biological females, procedures may include subcutaneous mastectomy, voice68
+
+surgery, liposuction, lipofilling, pectoral implants, and other aesthetic procedures;69
+
+(13)  It is an accepted principle of economics and public policy that when a service or70
+
+product is subsidized or paid for, demand for that service or product increases.  Just71
+
+between 2015 and 2016, gender reassignment surgeries increased by 20 percent;72
+
+(14)  It is of grave concern that the medical community is allowing individuals who73
+
+experience distress at identifying with their biological sex to be subjects of irreversible and74
+
+drastic non-genital gender reassignment surgery and irreversible, permanently sterilizing75
+
+genital gender reassignment surgery, despite the lack of studies showing that the benefits76
+
+of such extreme interventions outweigh the risks; and77
+
+(15)  The risks of gender transition procedures far outweigh any benefit at this stage of78
+
+clinical study on these procedures.79
+
+SECTION 2.80
+
+Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to general81
+
+provisions relative to professions and businesses, is amending by adding a new Code section82
+
+to read as follows:83
+
+"43-1-36.84
+
+(a)  As used in this Code section, the term:85
+
+(1) 'Health care provider' means any person licensed under Chapter 9, 10A, 11, 11A, 26,86
+
+28, 30, 33, 34, 35, 39, or 44 of Title 43 or any hospital, nursing home, home health87
+
+agency, institution, or medical facility licensed or defined under Chapter 7 of Title 31.88
+
+Such term shall also include any corporation, professional corporation, partnership,89
+
+limited liability company, limited liability partnership, authority, or other entity90
+
+composed of such health care providers.91
+
+(2)  'Sex' means the biological indication of male and female, including sex92
+
+chromosomes, naturally occurring sex hormones, gonads, and nonambiguous internal and93
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 5 -
+
+external genitalia present at birth, without regard to an individual's psychological, chosen,94
+
+or subjective experience of gender.95
+
+(b)  Except as otherwise provided in subsection (d) of this Code section, no health care96
+
+provider in this state shall knowingly engage in or cause any of the following practices to97
+
+be performed upon any minor if the practice is performed for the purpose of attempting to98
+
+alter the appearance of or affirm the minor's perception of his or her gender or sex, if that99
+
+appearance or perception is inconsistent with the minor's sex:100
+
+(1)  Prescribing or administering gonadotropin-releasing hormone analogues or other101
+
+synthetic drugs used to stop luteinizing hormone and follicle-stimulating hormone102
+
+secretion, synthetic antiandrogen drugs used to block the androgen receptor, or any drug103
+
+to suppress or delay normal puberty;104
+
+(2)  Prescribing or administering testosterone, estrogen, or progesterone to a minor in an105
+
+amount greater than would normally be produced endogenously in a healthy individual106
+
+of that individual's age and sex;107
+
+(3)  Performing surgeries that sterilize, including castration, vasectomy, hysterectomy,108
+
+oophorectomy, orchiectomy, and penectomy;109
+
+(4)  Performing surgeries that artificially construct tissue with the appearance of genitalia110
+
+that differs from the individual's sex, including metoidioplasty, phalloplasty, and111
+
+vaginoplasty; or112
+
+(5)  Removing any healthy or nondiseased body part or tissue.113
+
+(c)  No health care provider shall knowingly engage in conduct that aids or abets the114
+
+practices described in subsection (b) of this Code section on any minor.115
+
+(d)  Subsections (b) and (c) of this Code section shall not apply to:116
+
+(1)  Services provided to individuals born with a medically verifiable disorder of sex117
+
+development, including a person with external biological sex characteristics that are118
+
+irresolvably ambiguous, such as an individual born with 46 XX chromosomes with119
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 6 -
+
+virilization, 46 XY chromosomes with undervirilization, or having both ovarian and120
+
+testicular tissue;121
+
+(2)  Services provided to an individual when a physician has otherwise diagnosed a122
+
+disorder of sexual development, in which the physician has determined through genetic123
+
+or biochemical testing that the individual does not have normal sex chromosome124
+
+structure, sex steroid hormone production, or sex steroid hormone action for a biological125
+
+male or biological female;126
+
+(3)  The treatment of any infection, injury, disease, or disorder that has been caused or127
+
+exacerbated by the performance of a procedure described in subsection (b) of this Code128
+
+section, whether or not the procedures were performed in accordance with state and129
+
+federal law; or130
+
+(4)  Any procedure undertaken because an individual suffers from a physical disorder,131
+
+physical injury, or physical illness that is certified by a physician and that would place132
+
+the individual in imminent danger of death or impairment of major bodily function unless133
+
+surgery is performed.134
+
+(e)(1)  The provision of services to or engaging in conduct regarding any minor described135
+
+in subsections (b) and (c) of this Code section shall be considered unprofessional conduct136
+
+and shall be subject to discipline by the licensing entity with jurisdiction over the health137
+
+care provider.138
+
+(2)  A person may assert an actual or threatened violation of this Code section as a claim139
+
+or defense in a judicial or administrative proceeding and obtain compensatory damages,140
+
+injunctive relief, declaratory relief, or any other appropriate relief.141
+
+(3)  A person shall be required to bring a claim for a violation of this Code section not142
+
+later than two years after the day the cause of action accrues.  A minor may bring an143
+
+action before reaching 18 years of age through a parent or guardian, and may bring an144
+
+action in the minor's own name upon reaching 18 years of age at any time from that point145
+
+until he or she reaches 38 years of age.146
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 7 -
+
+(4)  An action under this Code section may be commenced, and relief may be granted, in147
+
+a judicial proceeding without regard to whether the person commencing the action has148
+
+sought or exhausted available administrative remedies.149
+
+(5)  In any action or proceeding to enforce a provision of this Code section, a prevailing150
+
+party who establishes a violation of this Code section shall be entitled to recover151
+
+reasonable attorney's fees.152
+
+(6)  The Attorney General may bring an action to enforce compliance with this Code153
+
+section.  Nothing in this Code section shall be construed to deny, impair, or otherwise154
+
+affect any right or authority of the Attorney General, the state, or any agency, officer, or155
+
+employee of the state to institute or intervene in any proceeding.156
+
+(f)  Nothing in this Code section shall be construed to impose liability on any speech or157
+
+conduct protected by federal or state law."158
+
+SECTION 3.159
+
+Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,160
+
+relating to student health, is amended by adding a new Code section to read as follows:161
+
+"20-2-779.3.162
+
+(a)  As used in this Code section, the term 'sex' means the biological indication of male and163
+
+female, including sex chromosomes, naturally occurring sex hormones, gonads, and164
+
+nonambiguous internal and external genitalia present at birth, without regard to an165
+
+individual's psychological, chosen, or subjective experience of gender.166
+
+(b)  No school nurse, counselor, teacher, principal, or other official or staff at a public or167
+
+private school shall knowingly:168
+
+(1)  Encourage or coerce a minor to withhold from the minor's parent or legal guardian169
+
+the fact that the minor's perception of his or her gender is inconsistent with his or her sex;170
+
+or171
+
+
+
+23 LC 33 9320
+
+S. B. 141
+- 8 -
+
+(2)  Withhold from a minor's parent or legal guardian information related to the minor's172
+
+perception that his or her gender is inconsistent with his or her sex."173
+
+SECTION 4.174
+
+This Act shall become effective on January 1, 2024.175
+
+SECTION 5.176
+
+All laws and parts of laws in conflict with this Act are repealed.177
+
+

@@ -1,0 +1,1001 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 1 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+STATE OF OKLAHOMA 
+
+ 
+
+1st Session of the 59th Legislature (2023) 
+
+ 
+
+SENATE BILL 1004 By: Jett 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AS INTRODUCED 
+
+ 
+
+An Act relating to public retirement systems; 
+
+creating the Oklahoma Pension Fiduciary Duty Act; 
+
+providing short title; defining terms; requiring the 
+
+discharge of duties solely in the financial interest 
+
+of certain participants and beneficiaries; requiring 
+
+certain fiduciary to be subject to certain duties; 
+
+limiting consideration upon discharge of certain 
+
+duties; requiring certain shares to be held solely 
+
+for certain financial interest; prohibiting the 
+
+granting of proxy voter status except under certain 
+
+circumstance; prohibiting adoption of certain 
+
+practice except under certain circumstance; requiring 
+
+the recording and publication of certain proxy votes; 
+
+authorizing Attorney General to investigate 
+
+violations of the Oklahoma Pension Fiduciary Duty 
+
+Act; providing for penalty for violation; providing 
+
+for noncodification; providing for codification; and 
+
+providing an effective date. 
+
+ 
+
+ 
+
+ 
+
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA: 
+
+SECTION 1.     NEW LAW     A new section of law not to be 
+
+codified in the Oklahoma Statutes reads as follows: 
+
+This act shall be known and may be cited as the “Oklahoma 
+
+Pension Fiduciary Duty Act”. 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 2 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+SECTION 2.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 3600 of Title 62, unless there 
+
+is created a duplication in numbering, reads as follows: 
+
+A.  As used in the Oklahoma Pension Fiduciary Duty Act: 
+
+1.  “Fiduciary” means any person acting on behalf of a public 
+
+retirement system; 
+
+2.  “Fiduciary commitment” means any evidence of a fiduciary's 
+
+purpose in managing assets as a fiduciary, including but not limited 
+
+to, any of the following in a fiduciary's capacity as a fiduciary: 
+
+a. advertising, statements, explanations, reports, 
+
+letters to clients, communications with portfolio 
+
+companies, statements of principles, or commitments, 
+
+or 
+
+b. participation in, affiliation with, or status as a 
+
+signatory to, any coalition, initiative, joint 
+
+statement of principles, or agreement; 
+
+3.  “Financial” means having been prudently determined by a 
+
+fiduciary to have a material effect on the financial risk or the 
+
+financial return of an investment.  Financial shall not mean any 
+
+action taken, or factor considered, by a fiduciary with any purpose 
+
+whatsoever to further social, political, or ideological interests.  
+
+A fiduciary shall have taken an action, or considered a factor, with 
+
+a purpose to further social, political, or ideological interests 
+
+based upon evidence indicating such a purpose, including but not 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 3 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+limited to, any fiduciary commitment to further, through portfolio 
+
+company engagement, board or shareholder votes, or otherwise as a 
+
+fiduciary, any of the following beyond the fiduciary's duties as 
+
+provided in the Oklahoma Statutes: 
+
+a. eliminating, reducing, offsetting, or disclosing 
+
+greenhouse gas emissions, 
+
+b. instituting board or employment composition, 
+
+compensation, or disclosure criteria that incorporates 
+
+characteristics based on race, sex, religion, or 
+
+ideology, 
+
+c. divesting from, limiting investment in, or limiting 
+
+the activities or investments of any company, for 
+
+failing or not committing, to meet standards or 
+
+disclosures relating to: 
+
+(1) the environment, 
+
+(2) abortion access, or 
+
+(3) access to gender reassignment therapy or surgery, 
+
+or 
+
+d. divesting from, limiting investment in, or limiting 
+
+the activities or investments of any company that 
+
+engages in, facilitates, or supports the manufacture, 
+
+import, distribution, marketing or advertising, sale, 
+
+or lawful use of firearms, ammunition, or components 
+
+parts and accessories of firearms or ammunition; 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 4 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+4.  "Proxy vote" means a ballot cast by a person or entity on 
+
+behalf of a public retirement system as a shareholder of a publicly 
+
+traded company; and 
+
+5.  "Public retirement system" means the following: 
+
+a. the Oklahoma Firefighters Pension and Retirement 
+
+System, 
+
+b. the Oklahoma Police Pension and Retirement System 
+
+c. the Uniform Retirement System for Justices and Judges 
+
+d. the Oklahoma Law Enforcement Retirement System 
+
+e. the Teachers' Retirement System of Oklahoma 
+
+f. the Oklahoma Public Employees Retirement System, and 
+
+g. any retirement or pension system or plan maintained, 
+
+provided, or offered by any political subdivision of 
+
+this state. 
+
+B.  In making and supervising investments of the reserve fund of 
+
+a public retirement system, a fiduciary or board of a public 
+
+retirement system shall discharge its duties solely in the financial 
+
+interest of the participants and beneficiaries for the exclusive 
+
+purposes of: 
+
+1.  Providing financial benefits to participants and their 
+
+beneficiaries; and 
+
+2.  Defraying reasonable expenses of administering the system. 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 5 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+C.  An investment manager appointed by a public retirement 
+
+system shall be subject to the same fiduciary duties as provided in 
+
+this act. 
+
+D.  A fiduciary shall take into account only financial factors 
+
+when discharging its duties with respect to a plan. 
+
+E.  All shares held directly or indirectly by or on behalf of a 
+
+public retirement system and/or the participants and their 
+
+beneficiaries shall be held solely in the financial interest of plan 
+
+participants and their beneficiaries. 
+
+F.  A public retirement system shall not grant proxy voting 
+
+authority to any person who is not an employee of the system, unless 
+
+that person has a practice of, and in writing commits to, the 
+
+adherence to the provisions of this act. 
+
+G.  A public retirement system's assets shall not be entrusted 
+
+to a fiduciary, unless that fiduciary has a practice of, and in 
+
+writing commits to, adherence to the provisions of this act when 
+
+engaging with portfolio companies and voting shares or proxies. 
+
+H.  A public retirement system shall not adopt a practice of 
+
+following the recommendations of a proxy advisor or other service 
+
+provider, unless such advisor or service provider has a practice of, 
+
+and in writing commits to, adherence to the provisions of this act. 
+
+I.  All proxy votes shall be tabulated and reported annually to 
+
+the governing board of every public retirement system.  For each 
+
+vote, the report shall contain a vote caption, the plan's vote, the 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 250 Page 6 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+recommendation of company management, and, if applicable, the proxy 
+
+advisor's recommendation.  These reports shall be posted on a 
+
+publicly available webpage on the governing board's website. 
+
+J.  Violations of this act may be investigated by the Attorney 
+
+General who shall, upon finding reasonable cause after 
+
+investigation, require a fiduciary to file on such forms as he or 
+
+she prescribes a statement or report in writing, under oath, as to 
+
+all the facts and circumstances concerning the violation and to 
+
+provide other data or information the Attorney General deems 
+
+necessary. 
+
+K.  Any company who contracts with a public retirement system 
+
+that violates the provisions of this act shall be obligated to pay a 
+
+penalty to the public retirement system an amount equal to three (3) 
+
+times the required annual payments for services rendered pursuant to 
+
+the contract. 
+
+SECTION 3.  This act shall become effective November 1, 2023. 
+
+ 
+
+59-1-250 QD 1/19/2023 12:16:22 PM 
+
+

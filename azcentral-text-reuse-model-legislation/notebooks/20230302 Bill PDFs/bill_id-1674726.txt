@@ -1,0 +1,574 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 1 -  Authorized Print Version – HB 303  
+ 
+ 
+
+HOUSE BILL NO. 303 1 
+
+INTRODUCED BY A. REGIER, J. SCHILLINGER, S. VINTON, M. REGIER, T. MOORE, J. HINKLE, K. 2 
+
+SEEKINS-CROWE, J. GILLETTE, G. OBLANDER, J. FULLER, K. REGIER, T. MCGILLVRAY, W. MCKAMEY, 3 
+
+M. NOLAND, D. LENZ, K. BOGNER, G. KMETZ, T. FALK, D. ZOLNIKOV, J. ETCHART, J. TREBAS, B. 4 
+
+BEARD, F. MANDEVILLE 5 
+
+ 6 
+
+A BILL FOR AN ACT ENTITLED: “AN ACT PROVIDING PROTECTIONS FOR MEDICAL PRACTITIONER, 7 
+
+HEALTH CARE INSTITUTION, AND HEALTH CARE PAYER ACTIONS BASED ON CONSCIENCE; 8 
+
+PROVIDING PROTECTIONS FOR OBJECTING TO PARTICIPATING IN HEALTH CARE SERVICES BASED 9 
+
+ON CONSCIENCE; PROVIDING FREE SPEECH PROTECTIONS; PROVIDING WHISTLEBLOWER 10 
+
+PROTECTIONS; PROVIDING IMMUNITY; LIMITING GOVERNMENTAL LIABILITY; PROVIDING REMEDIES; 11 
+
+AMENDING SECTIONS 37-1-308 AND 50-20-111, MCA; AND PROVIDING AN APPLICABILITY DATE.” 12 
+
+ 13 
+
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MONTANA: 14 
+
+ 15 
+
+NEW SECTION. Section 1. Definitions. As used in [sections 1 through 7], unless the context 16 
+
+requires otherwise, the following definitions apply: 17 
+
+(1) (a) "Conscience" means the ethical, moral, or religious beliefs or principles held by a medical 18 
+
+practitioner, health care institution, or health care payer. 19 
+
+(b) With respect to institutional or corporate persons, as opposed to individual persons, the term is 20 
+
+determined by reference to that entity or body's governing documents, including but not limited to published 21 
+
+ethical, moral, or religious guidelines or directives, mission statements, constitutions, articles of incorporation, 22 
+
+bylaws, policies, or regulations. 23 
+
+(2) (a) "Discrimination" means an adverse action taken against, or a threat of adverse action 24 
+
+communicated to, a medical practitioner, health care institution, or health care payer as a result of the medical 25 
+
+practitioner, health care institution, or health care payer's refusal to participate in a health care service on the 26 
+
+basis of conscience, including but not limited to termination of employment, transfer from current position, 27 
+
+demotion from current position, adverse administrative action, reassignment to a different shift or job title, 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 2 -  Authorized Print Version – HB 303  
+ 
+ 
+
+increased administrative duties, denial of staff privileges, denial of board certification, loss of career specialty, 1 
+
+reduction of wages, benefits, or privileges, refusal to award a grant, contract, or other program, refusal to 2 
+
+provide residency training opportunities, denial, deprivation, or disqualification of licensure, withholding or 3 
+
+disqualifying from financial aid and other assistance, impediment of the creation or improvement of a health 4 
+
+care institution or health care payer, impediment of the acquisition or merger of a health care institution or 5 
+
+health care payer, the threat of any of the preceding actions, or any other penalty, disciplinary, or retaliatory 6 
+
+action, whether executed or threatened. 7 
+
+(b) The term does not include the negotiation or purchase of insurance by a nongovernment entity. 8 
+
+(3) (a) "Health care institution" means a public or private hospital, outpatient center for primary 9 
+
+care, medical center, physician organization, professional association, outpatient center for surgical services, 10 
+
+private physician's office, pharmacy, long-term care facility, medical school, nursing school, medical training 11 
+
+facility, or any other entity or location in which health care services are performed. 12 
+
+(b) The term includes but is not limited to organizations, corporations, partnerships, associations, 13 
+
+agencies, networks, sole proprietorships, or joint ventures. 14 
+
+(4) "Health care payer" means an employer, health plan, health maintenance organization, 15 
+
+insurance company, management services organization, or another entity that pays for or arranges for payment 16 
+
+for a health care service, in whole or in part. 17 
+
+(5) "Health care service" means medical research or medical care provided to a patient at any time 18 
+
+during the patient's course of treatment, including but not limited to initial examination, testing, diagnosis, 19 
+
+referral, dispensing or administration of a drug, medication, or device, psychological therapy or counseling, 20 
+
+research, prognosis, therapy, record-making procedures, notes related to treatment, set up, or performance of 21 
+
+a surgery or procedure, or any other care or service performed or provided by a medical practitioner. 22 
+
+(6) (a) "Medical practitioner" means a person who is or may be asked to participate in a health 23 
+
+care service. 24 
+
+(b) The term includes but is not limited to physicians, nurse practitioners, physician assistants, 25 
+
+nurses, nurse aides, allied health professionals, medical assistants, hospital employees, employees of an 26 
+
+outpatient center for primary care, outpatient center for surgical services, or long-term care facility, pharmacists, 27 
+
+pharmacy technicians, pharmacy employees, medical school faculty and students, nursing school faculty and 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 3 -  Authorized Print Version – HB 303  
+ 
+ 
+
+students, psychology and counseling faculty and students, medical researchers, laboratory technicians, 1 
+
+counselors, social workers, or any other person who facilitates or participates in a health care service. 2 
+
+(7) "Participate in a health care service" means to provide, perform, assist with, facilitate, refer for, 3 
+
+counsel for, advise with regard to, admit for the purposes of providing, or take part in any way in providing a 4 
+
+health care service. 5 
+
+(8) "Person" means one or more individuals, partnerships, associations, or corporations. 6 
+
+ 7 
+
+NEW SECTION. Section 2. Right of conscience for health care institutions and health care 8 
+
+payers -- immunity -- exceptions. (1) (a) A health care institution or health care payer may not be required to 9 
+
+participate in or pay for a health care service that violates the health care institution's or health care payer's 10 
+
+conscience, including by permitting the use of its facilities. 11 
+
+(b) An insurance company shall list any health care service that it may refuse to pay for on the 12 
+
+basis of conscience in the applicable policy. 13 
+
+(2) Except as provided in subsection (5), refusal to participate in or pay for a health care service 14 
+
+under this section may not give rise to liability of the health care institution or health care payer for damages 15 
+
+allegedly arising from the refusal or be the basis for any discrimination, discipline, or other recriminatory action 16 
+
+against the health care institution, health care payer, or any personnel, agent, or governing board. 17 
+
+(3) Nothing in this section may be construed to relieve a health care institution of the requirement 18 
+
+to provide emergency medical treatment to all patients set forth in 42 U.S.C. 1395dd. 19 
+
+(4) This section is supplemental to and may not be construed as modifying or limiting the rights 20 
+
+and remedies provided in Title 50, chapter 5, part 5, and 50-20-111. 21 
+
+(5) The immunity provisions of this section do not apply to a health care institution or health care 22 
+
+payer owned or operated by the state or a political subdivision of the state. 23 
+
+ 24 
+
+NEW SECTION. Section 3. Right of conscience for medical practitioners -- affirmative consent 25 
+
+for abortion services -- immunity -- exceptions. (1) A medical practitioner has the right not to participate in a 26 
+
+health care service that violates the medical practitioner's conscience. A health care institution may not be held 27 
+
+liable for the exercise of conscience not to participate in a health care service by a medical practitioner 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 4 -  Authorized Print Version – HB 303  
+ 
+ 
+
+employed, contracted, or granted admitting privileges by the health care institution. 1 
+
+(2) A health care institution may require the exercise of conscience as a basis for not participating 2 
+
+in a health care service to be made in writing and signed by the medical practitioner objecting. A writing made 3 
+
+under this subsection may refer only generally to the grounds of "conscience". 4 
+
+(3) A medical practitioner's refusal to participate in a health care service based on an exercise of 5 
+
+conscience may not be a consideration with respect to staff privileges of a health care institution or a basis for 6 
+
+discrimination, discipline, or other recriminatory action against the medical practitioner. 7 
+
+(4) A medical practitioner may not be scheduled for, assigned, or requested to directly or indirectly 8 
+
+perform, facilitate, refer for, or participate in an abortion unless the medical practitioner first affirmatively 9 
+
+consents in writing as provided in 50-20-111. 10 
+
+(5) Except as provided under Article II, section 18, of the Montana constitution, a medical 11 
+
+practitioner may not be held liable for damages allegedly arising from the exercise of conscience not to 12 
+
+participate in a health care service. 13 
+
+(6) This section is supplemental to and may not be construed as modifying or limiting the rights 14 
+
+and remedies provided in Title 50, chapter 5, part 5, and 50-20-111. 15 
+
+ 16 
+
+NEW SECTION. Section 4. Exercise of conscience not grounds for loss of privileges, 17 
+
+immunities, or public benefits. The exercise of conscience not to participate in a health care service by a 18 
+
+medical practitioner, health care institution, or health care payer may not be grounds for loss of any privileges 19 
+
+or immunities or for the loss of any public benefits. This section is supplemental to and may not be construed as 20 
+
+modifying or limiting the rights and remedies provided in Title 50, chapter 5, part 5, and 50-20-111. 21 
+
+ 22 
+
+NEW SECTION. Section 5. Whistleblower protections. (1) A medical practitioner or health care 23 
+
+institution may not be discriminated against because the medical practitioner or health care institution: 24 
+
+(a) provides, causes to be provided, or intends to provide or cause to be provided information 25 
+
+relating to a suspected violation of [sections 1 through 7] to the medical practitioner or health care institution's 26 
+
+employer, the attorney general, any agency charged with protecting health care rights of conscience, the United 27 
+
+States department of health and human services, the United States office for civil rights, or any other federal 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 5 -  Authorized Print Version – HB 303  
+ 
+ 
+
+agency charged with protecting health care rights of conscience; 1 
+
+(b) testifies or intends to testify in a proceeding concerning a violation of [sections 1 through 7]; or 2 
+
+(c) assists or participates, or intends to assist or participate, in a proceeding. 3 
+
+(2) Except as provided in subsection (3), it is unlawful to discriminate against a medical practitioner 4 
+
+because the medical practitioner discloses information that the medical practitioner reasonably believes 5 
+
+evinces: 6 
+
+(a) a violation of any law, rule, or regulation; 7 
+
+(b) a violation of any standard of care or ethical guidelines for the provision of any health care 8 
+
+service; or 9 
+
+(c) gross mismanagement, a gross waste of funds, an abuse of authority, practices or methods of 10 
+
+treatment that may put patient health at risk, or a substantial and specific danger to public health or safety. 11 
+
+(3) Nothing in this section may be construed to exempt a person from the requirements of Title 50, 12 
+
+chapter 16, the federal Health Insurance Portability and Accountability Act of 1996, 42 U.S.C. 1320d, et seq., or 13 
+
+any other applicable confidentiality and patient privacy requirements. 14 
+
+ 15 
+
+NEW SECTION. Section 6. Free speech protections -- notification of complaints -- penalty. (1) 16 
+
+The department of public health and human services, a licensing board operating under Title 37, or any other 17 
+
+entity that grants licensure or certification may not reprimand, sanction, or revoke or threaten to revoke a 18 
+
+license, certificate, or registration of a medical practitioner who is licensed or certified by the department or 19 
+
+board for engaging in speech or expressive activity protected under the first amendment to the U.S. 20 
+
+constitution, unless the department or board demonstrates beyond a reasonable doubt that the medical 21 
+
+practitioner’s speech was the direct cause of physical harm to a person with whom the medical practitioner had 22 
+
+a practitioner-patient relationship within the 3 years immediately preceding the incident of physical harm. 23 
+
+(2) (a) Within 14 days of receiving a complaint that may result in revocation of a medical 24 
+
+practitioner's license, the department, licensing board, or other licensing or certification entity shall provide the 25 
+
+medical practitioner with a copy of the complaint. 26 
+
+(b) If the department, licensing board, or other licensing or certification entity fails to provide the 27 
+
+complaint within 14 days of receipt, the department or licensing board shall pay the medical practitioner an 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 6 -  Authorized Print Version – HB 303  
+ 
+ 
+
+administrative penalty of $500 for each week of noncompliance. 1 
+
+ 2 
+
+NEW SECTION. Section 7. Unlawful interference. (1) It is unlawful to interfere or attempt to 3 
+
+interfere with the right not to participate in a health care service or the whistleblower and free speech rights and 4 
+
+protections authorized by [sections 1 through 7], whether by duress, coercion, or any other means. 5 
+
+(2) A medical practitioner, health care institution, or health care payer injured by unlawful 6 
+
+interference is entitled to: 7 
+
+(a) injunctive relief, when appropriate, including but not limited to reinstatement of a medical 8 
+
+practitioner to the medical practitioner's previous position, reinstatement of board certification, and relicensure 9 
+
+of a health care institution or health care payer; 10 
+
+(b) monetary damages for injuries suffered; and 11 
+
+(c) reasonable costs and attorney fees. 12 
+
+(3) This section is supplemental to and may not be construed as modifying or limiting the rights 13 
+
+and remedies provided in Title 50, chapter 5, part 5, and 50-20-111. 14 
+
+ 15 
+
+Section 8. Section 37-1-308, MCA, is amended to read: 16 
+
+"37-1-308. Unprofessional conduct -- complaint -- investigation -- immunity -- exceptions. (1) 17 
+
+Except as provided in subsections (4) and (5), a person, government, or private entity may submit a written 18 
+
+complaint to the department charging a licensee or license applicant with a violation of this part and specifying 19 
+
+the grounds for the complaint. 20 
+
+(2) (a) If the department receives a written complaint or otherwise obtains information that a 21 
+
+licensee or license applicant may have committed a violation of this part, the department may, with the 22 
+
+concurrence of a member of the screening panel established in 37-1-307, investigate to determine whether 23 
+
+there is reasonable cause to believe that the licensee or license applicant has committed the violation. 24 
+
+(b) If the complaint alleges an activity by a licensee whose free speech rights are protected under 25 
+
+[section 6], the department or licensing board receiving the complaint must comply with the notification 26 
+
+requirements of [section 6]. 27 
+
+(3) A person or private entity, but not a government entity, filing a complaint under this section in 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 7 -  Authorized Print Version – HB 303  
+ 
+ 
+
+good faith is immune from suit in a civil action related to the filing or contents of the complaint. 1 
+
+(4) A person under legal custody of a county detention center or incarcerated under legal custody 2 
+
+of the department of corrections may not file a complaint under subsection (1) against a licensed or certified 3 
+
+provider of health care or rehabilitative services for services that were provided to the person while detained or 4 
+
+confined in a county detention center or incarcerated under legal custody of the department of corrections 5 
+
+unless the complaint is first reviewed by a correctional health care review team provided for in 37-1-331. 6 
+
+(5) A board member may file a complaint with the board on which the member serves or otherwise 7 
+
+act in concert with a complainant in developing, authoring, or initiating a complaint to be filed with the board if 8 
+
+the board member determines that there are reasonable grounds to believe that a particular statute, rule, or 9 
+
+standard has been violated." 10 
+
+ 11 
+
+Section 9. Section 50-20-111, MCA, is amended to read: 12 
+
+"50-20-111. Right to refuse participation in abortion -- affirmative consent required. (1) No 13 
+
+private hospital or health care facility shall be required contrary to the religious or moral tenets or the stated 14 
+
+religious beliefs or moral convictions of its staff or governing board to admit any person for the purpose of 15 
+
+abortion or to permit the use of its facilities for such purpose. Such refusal shall not give rise to liability of such 16 
+
+hospital or health care facility or any personnel or agent or governing board thereof to any person for damages 17 
+
+allegedly arising from such refusal or be the basis for any discriminatory, disciplinary, or other recriminatory 18 
+
+action against such hospital or health care facility or any personnel, agent, or governing board thereof. 19 
+
+(2) A person may not be scheduled, assigned, or requested to directly or indirectly perform, 20 
+
+facilitate, refer for, or participate in an abortion unless the person first affirmatively consents in writing to 21 
+
+perform, facilitate, refer for, or participate in the abortion. 22 
+
+(2)(3) (a) All persons shall have the right to refuse to advise concerning, perform, assist, or participate 23 
+
+in abortion because of religious beliefs or moral convictions. 24 
+
+(b) If requested by any hospital or health care facility or person desiring an abortion, such a refusal 25 
+
+shall be in writing signed by the person refusing, but may refer generally to the grounds of "religious beliefs and 26 
+
+moral convictions". The refusal of any person to advise concerning, perform, assist, or participate in abortion 27 
+
+shall not be a consideration in respect of staff privileges of any hospital or health care facility or a basis for any 28 
+
+
+
+ 
+****   
+68th Legislature 2023   HB 303.1 
+
+ 
+
+ - 8 -  Authorized Print Version – HB 303  
+ 
+ 
+
+discriminatory, disciplinary, or other recriminatory action against such person, nor shall such person be liable to 1 
+
+any person for damages allegedly arising from refusal. 2 
+
+(3)(4) It shall be unlawful to interfere or attempt to interfere with the right of refusal authorized by this 3 
+
+section. The person injured thereby shall be entitled to injunctive relief, when appropriate, and shall further be 4 
+
+entitled to monetary damages for injuries suffered. 5 
+
+(4)(5) Such refusal by any hospital or health care facility or person shall not be grounds for loss of 6 
+
+any privileges or immunities to which the granting of consent may otherwise be a condition precedent or for the 7 
+
+loss of any public benefits. 8 
+
+(5)(6) As used in this section, the term "person" includes one or more individuals, partnerships, 9 
+
+associations, and corporations." 10 
+
+ 11 
+
+NEW SECTION. Section 10. Codification instruction. [Sections 1 through 7] are intended to be 12 
+
+codified as an integral part of Title 50, chapter 4, and the provisions of Title 50, chapter 4, apply to [sections 1 13 
+
+through 7]. 14 
+
+ 15 
+
+NEW SECTION. Section 11. Severability. If a part of [this act] is invalid, all valid parts that are 16 
+
+severable from the invalid part remain in effect. If a part of [this act] is invalid in one or more of its applications, 17 
+
+the part remains in effect in all valid applications that are severable from the invalid applications. 18 
+
+ 19 
+
+NEW SECTION. Section 12. Applicability. [This act] applies to insurance policies issued on or after 20 
+
+[the effective date of this act]. 21 
+
+- END - 22 
+
+

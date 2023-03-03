@@ -1,0 +1,2099 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 1 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+AN ACT relating to the protection of children. 1 
+
+Be it enacted by the General Assembly of the Commonwealth of Kentucky: 2 
+
+SECTION 1.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 3 
+
+READ AS FOLLOWS: 4 
+
+As used in Sections 1 to 5 of this Act: 5 
+
+(1) "Cross-sex hormones" means testosterone, estrogen, or other androgens given to 6 
+
+a person in amounts that are larger or more potent than would normally occur 7 
+
+naturally in a healthy person of the same age and sex; 8 
+
+(2) "Gender" means the psychological, behavioral, social, and cultural aspects of 9 
+
+being a person whose sex is male or female; 10 
+
+(3) "Gender-affirming care" includes treatments by health care providers and 11 
+
+mental health care providers that support a gender transition; 12 
+
+(4) "Gender reassignment surgery" means any service that seeks to surgically alter 13 
+
+or remove physical or anatomical characteristics or features that are typical for a 14 
+
+person’s sex in order to instill or create physiological or anatomical 15 
+
+characteristics that resemble a different sex, including but not limited to genital 16 
+
+or nongenital gender reassignment surgery performed for the purpose of 17 
+
+assisting a person with a gender transition; 18 
+
+(5) "Gender transition" means the process in which a person goes from identifying 19 
+
+with and living as a gender that corresponds to his or her sex to identifying with 20 
+
+and living as a different gender and may involve social, legal, or physical 21 
+
+changes; 22 
+
+(6) (a) "Gender transition services" means any service provided or performed by a 23 
+
+health care provider or mental health care provider for the purpose of 24 
+
+assisting a person with a gender transition. Gender transition services 25 
+
+include but are not limited to: 26 
+
+1. Social transition services by health care providers and mental health 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 2 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+care providers; 1 
+
+2. Inpatient and outpatient hospital services; 2 
+
+3. Prescribing or dispensing puberty-blocking drugs; 3 
+
+4. Prescribing or dispensing cross-sex hormones; 4 
+
+5. Genital gender reassignment surgery; and 5 
+
+6. Nongenital gender reassignment surgery. 6 
+
+(b) "Gender transition services" do not include: 7 
+
+1. Services to persons born with a medically verifiable disorder of sex 8 
+
+development, including a person with external sex characteristics that 9 
+
+are irresolvably ambiguous, such as those born with forty-six (46) XX 10 
+
+chromosomes with virilization, forty-six (46) XY chromosomes with 11 
+
+undervirilization, or having both ovarian and testicular tissue; 12 
+
+2. Services provided to a person diagnosed by a physician after genetic or 13 
+
+biochemical testing as having a disorder of sexual development caused 14 
+
+by an abnormal sex chromosome structure, sex steroid production, or 15 
+
+sex steroid hormone action; 16 
+
+3. The acute and chronic treatment of any infection, injury, disease, or 17 
+
+disorder that has been caused by or exacerbated by the performance of 18 
+
+a gender transition service, whether or not the gender transition 19 
+
+service was performed in accordance with state and federal law or 20 
+
+whether or not funding for the gender transition procedure is 21 
+
+permissible under Sections 1 to 5, 6, and 9 of this Act; or 22 
+
+4. Services of a mental health care provider that do not include gender-23 
+
+affirming care for a person under the age of eighteen (18) years; 24 
+
+(7) "Genital gender reassignment surgery" means a medical procedure performed 25 
+
+for the purpose of assisting a person with a gender transition, including but not 26 
+
+limited to surgical services such as: 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 3 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(a) Surgeries that sterilize, including castration, vasectomy, hysterectomy, 1 
+
+oophorectomy, orchiectomy, and penectomy; and 2 
+
+(b) Surgeries that artificially construct tissue with the appearance of genitalia 3 
+
+that differs from the individual’s sex, including metoidioplasty, phalloplasty, 4 
+
+and vaginoplasty; 5 
+
+(8) "Health care provider" means a: 6 
+
+(a) Health facility or service required to be licensed under KRS Chapter 216B; 7 
+
+(b) Massage therapist or community health worker licensed or credentialed 8 
+
+under KRS Chapter 309; 9 
+
+(c) Physician, osteopath, or podiatrist licensed under KRS Chapter 311; 10 
+
+(d) Physician assistant regulated under KRS Chapter 311; 11 
+
+(e) Chiropractor licensed under KRS Chapter 312; 12 
+
+(f) Dentist licensed under KRS Chapter 313; 13 
+
+(g) Advanced practice registered nurse (APRN), licensed practical nurse (LPN), 14 
+
+or registered nurse (RN) licensed under KRS Chapter 314; 15 
+
+(h) Pharmacist and all sites or persons that are required to obtain a license, 16 
+
+certificate, or permit from the Board of Pharmacy under KRS Chapter 315; 17 
+
+(i) Optometrist licensed under KRS Chapter 320; 18 
+
+(j) Pharmaceutical companies; manufacturers and distributors of puberty-19 
+
+blocking drugs or cross-sex hormones as defined in this section; or any 20 
+
+other person or entity that dispenses, prescribes, or distributes such puberty-21 
+
+blocking drugs or cross-sex hormones via courier, delivery, or mail service 22 
+
+for use by a person in the Commonwealth under the age of eighteen (18) 23 
+
+years; and 24 
+
+(k) Any other health care practitioners as determined by any division of state 25 
+
+government by administrative regulations promulgated in accordance with 26 
+
+KRS Chapter 13A; 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 4 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(9) "Mental health care provider" means: 1 
+
+(a) School counselor or school-based mental health services provider as defined 2 
+
+in KRS 158.4416 or credentialled under KRS Chapter 158; 3 
+
+(b) Employees of the Kentucky Department of Education, Kentucky Board of 4 
+
+Education, or local boards of education who meet the certification 5 
+
+requirements to be a social worker, psychologist, or mental health counselor 6 
+
+as established, or which may be established, by the Kentucky Board of 7 
+
+Education and/or the Education Professional Standards Board under KRS 8 
+
+Chapter 156, 157, 158, 159, 160, 161, 162, or 163; 9 
+
+(c) Alcohol and drug counselor or art therapist licensed or credentialed under 10 
+
+KRS Chapter 309; 11 
+
+(d) Psychiatrist licensed under KRS Chapter 311; 12 
+
+(e) Psychologist, psychological practitioner, psychologist with autonomous 13 
+
+functioning, or psychological associate licensed or certified under KRS 14 
+
+Chapter 319; 15 
+
+(f) Pastoral counselor licensed under KRS Chapter 335; 16 
+
+(g) Social worker or clinical social worker licensed or certified under KRS 17 
+
+Chapter 335; 18 
+
+(h) Marriage and family therapist or marriage and family therapist associate as 19 
+
+licensed or credentialed under KRS Chapter 335; 20 
+
+(i) Professional clinical counselor or professional clinical counselor associate 21 
+
+licensed under KRS Chapter 335; and 22 
+
+(j) Any other mental health care practitioners as determined by any division of 23 
+
+state government by administrative regulations promulgated in accordance 24 
+
+with KRS Chapter 13A; 25 
+
+(10) "Nongenital gender reassignment surgery" means medical services performed 26 
+
+for the purpose of assisting a person with a gender transition, including but not 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 5 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+limited to augmentation mammoplasty, subcutaneous mastectomy, liposuction, 1 
+
+lipofilling, thyroid cartilage reduction, gluteal augmentation, pectoral implants, 2 
+
+hair reconstruction, or various aesthetic services; 3 
+
+(11) "Puberty-blocking drugs" means gonadotropin-releasing hormone analogues or 4 
+
+other synthetic drugs used to stop luteinizing hormone and follicle stimulating 5 
+
+hormone secretion, synthetic antiandrogen drugs used to block the androgen 6 
+
+receptor, or any other drug used to delay or suppress pubertal development in 7 
+
+persons under the age of eighteen (18) years for the purpose of assisting those 8 
+
+persons with a gender transition; 9 
+
+(12) "Public funds" means any money, regardless of the original source of the money, 10 
+
+of: 11 
+
+(a) The Commonwealth of Kentucky, and any department, agency, or 12 
+
+instrumentality thereof; 13 
+
+(b) Any county, city, or local school district, special district, and any 14 
+
+department, agency, or instrumentality thereof; and 15 
+
+(c) Any other political subdivision of the Commonwealth, and any department, 16 
+
+agency, or instrumentality thereof; 17 
+
+(13) "Sex" means the biological state of being male or female based on a person's 18 
+
+chromosomes, in the absence of any of the medically verifiable disorders 19 
+
+described in subsection (6)(b) of this section; and 20 
+
+(14) "Social transition services" means any gender-affirming care, encouragement, 21 
+
+affirmation, or advocacy for gender transition, including but not limited to 22 
+
+affirming the person’s name change, pronoun adoption, dress and grooming, and 23 
+
+sex-role specific behaviors that vary from those behaviors typically associated 24 
+
+with the person’s sex. 25 
+
+SECTION 2.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 26 
+
+READ AS FOLLOWS: 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 6 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(1) The provision of one (1) or more gender transition services to a person under the 1 
+
+age of eighteen (18) years by a health care provider or mental health care 2 
+
+provider is unethical and unprofessional conduct that establishes the provider is 3 
+
+unfit to perform the duties and discharge the responsibilities of his or her position 4 
+
+or occupation. 5 
+
+(2) All licensing or certifying agencies for health care providers or mental health 6 
+
+care providers, in accordance with each agency's disciplinary and hearing 7 
+
+process, shall: 8 
+
+(a) Investigate any report that a provider it licenses or certifies has provided 9 
+
+gender transition services to a person under the age of eighteen (18) years; 10 
+
+and 11 
+
+(b) Revoke the provider’s licensure or certification if a report made under this 12 
+
+subsection is confirmed. 13 
+
+(3) A state, county, city, local government, local school district, special district, or any 14 
+
+department, agency, or instrumentality thereof, in accordance with each entity's 15 
+
+disciplinary and hearing process, shall: 16 
+
+(a) Investigate any report that a publicly funded health care provider or mental 17 
+
+health care provider has rendered gender transition services to a person 18 
+
+under the age of eighteen (18) years; and 19 
+
+(b) Terminate the public funding of a health care provider or mental health 20 
+
+care provider if a report made under this subsection is confirmed. 21 
+
+(4) A state, county, city, local government, local school district, special district, or any 22 
+
+department, agency, instrumentality thereof, shall terminate public funding for a 23 
+
+health care provider or mental health care provider if the provider’s licensure or 24 
+
+certification is revoked under subsection (2) of this section. 25 
+
+(5) This section shall constitute a complete defense to any and all claims, demands, 26 
+
+damages, actions, state judicial or administrative proceedings, or professional 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 7 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+licensing or disciplinary proceedings based on the refusal by a health care 1 
+
+provider or mental health care provider to provide gender transition services to a 2 
+
+person under the age of eighteen (18) years. 3 
+
+(6) A health care provider who provides gender transition services to any person 4 
+
+under the age of eighteen (18) years shall report the provided services to the Vital 5 
+
+Statistics Branch. A health care provider who fails to report the provided services 6 
+
+to the Vital Statistics Branch within thirty (30) days of providing the services shall 7 
+
+be guilty of a: 8 
+
+(a) Class B misdemeanor for the first offense; 9 
+
+(b)  Class A misdemeanor for the second offense; and 10 
+
+(c) Class D felony for each subsequent offense. 11 
+
+SECTION 3.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 12 
+
+READ AS FOLLOWS: 13 
+
+(1) Notwithstanding any other provision of the law to the contrary, including KRS 14 
+
+214.185, health care providers and mental health care providers that engage in 15 
+
+the following activities shall be jointly and severally liable for all damages and 16 
+
+costs sustained by reason thereof: 17 
+
+(a) Providing gender transition services for a person under the age of eighteen 18 
+
+(18) years; 19 
+
+(b) Dispensing, prescribing, or distributing any puberty-blocking drugs or 20 
+
+cross-sex hormones for the purpose of assisting a person under the age of 21 
+
+eighteen (18) years with gender transitioning; or 22 
+
+(c) Aiding or assisting in the provision of gender transition services for a 23 
+
+person under the age of eighteen (18) years, except to the extent allowable 24 
+
+under the First Amendment to the United States Constitution and the 25 
+
+Constitution of Kentucky. 26 
+
+(2) This section shall constitute a complete defense to any and all claims, demands, 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 8 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+damages, actions, state judicial or administrative proceedings, or professional 1 
+
+licensing or disciplinary proceedings based on the refusal by a health care 2 
+
+provider or mental health care provider to provide gender transition services to a 3 
+
+person under the age of eighteen (18) years. 4 
+
+(3) Notwithstanding any other provision of the law to the contrary, including KRS 5 
+
+214.185, if any act in subsection (1) of this section results in personal injury, an 6 
+
+action may be brought by the person's parent or guardian before the person 7 
+
+attains the age of eighteen (18) years and may be brought by the person within 8 
+
+thirty (30) years after attaining the age of eighteen (18) years, except that: 9 
+
+(a) If, at the time the person attains the age of eighteen (18) years, he or she is 10 
+
+under other legal disability, the limitation period shall not begin to run until 11 
+
+the removal of the disability; and 12 
+
+(b) If, during any period of time, the person is subject to threats, intimidation, 13 
+
+manipulation, fraudulent concealment, or fraud perpetrated by the health 14 
+
+care provider who prescribed or otherwise provided gender transition 15 
+
+services or by any person acting in the interest of the health care provider, 16 
+
+the limitation period shall not run during this time period. 17 
+
+(4) The right of action for personal injury under this section shall not cease or die 18 
+
+with the person injuring or injured. An action may be brought or revived under 19 
+
+this section by the personal representative or against the personal representative, 20 
+
+heir, or devisee. 21 
+
+(5) In an action brought under this section: 22 
+
+(a) If the plaintiff prevails, he or she shall be entitled to reasonable costs and 23 
+
+attorney's fees; 24 
+
+(b) Compensatory damages may be awardable, including but not limited to: 25 
+
+1. Pain and suffering; 26 
+
+2. Loss of reputation; 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 9 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+3. Loss of income; 1 
+
+4. Loss of consortium between spouses; 2 
+
+5. Loss of consortium between parent and child; and 3 
+
+6. Loss of enjoyment of life, including the expectation or experience of 4 
+
+biological parenthood; and 5 
+
+(c) Injunctive, declaratory, punitive, and any other appropriate relief may be 6 
+
+awarded. 7 
+
+(6) Notwithstanding any other provision of law to the contrary, an action under this 8 
+
+section may be commenced and relief may be granted in a judicial proceeding 9 
+
+without regard to whether anyone commencing the action has sought or 10 
+
+exhausted available contractual or administrative remedies. 11 
+
+(7) Nothing in this section shall be construed as precluding legal action under any 12 
+
+other applicable statute. 13 
+
+(8) Qualified official immunity to suit and from liability are waived to the extent of 14 
+
+liability created by this section. 15 
+
+SECTION 4.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 16 
+
+READ AS FOLLOWS: 17 
+
+(1) Public funds shall not be directly or indirectly used, granted, paid, or distributed 18 
+
+to any entity, organization, or individual that provides gender transition services 19 
+
+to persons under the age of eighteen (18) years. 20 
+
+(2) Gender transition services shall not be provided to persons under the age of 21 
+
+eighteen (18) years by a health care provider or mental health care provider 22 
+
+owned, operated, or employed, directly or indirectly, by the state, county, city, 23 
+
+local government, local school district, special district, or any department, 24 
+
+agency, or employee or instrumentality thereof. 25 
+
+SECTION 5.   A NEW SECTION OF KRS CHAPTER 311 IS CREATED TO 26 
+
+READ AS FOLLOWS: 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 10 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(1) The Attorney General may bring an action to enforce compliance with Sections 2, 1 
+
+3, 4, 6, 7, 9, 11, 12, 13, 14 or subsection (23) of Section 8 of this Act. 2 
+
+(2) Nothing in Sections 2, 3, 4, 6, 7, 9, 11, 12, 13, 14 or subsection (23) of Section 8 3 
+
+of this Act shall deny, impair, or otherwise affect any right or authority of the 4 
+
+Attorney General, the Commonwealth of Kentucky, or any agency, officer, or 5 
+
+employee of the state, acting under any law other than this section, to institute or 6 
+
+intervene in any proceeding. 7 
+
+(3) No health care provider or mental health care provider owned, operated, or 8 
+
+employed, directly or indirectly, by the state, county, city, local government, local 9 
+
+school district, special district, or instrumentality thereof, shall intervene in a 10 
+
+legal proceeding brought to challenge Sections 2, 3, 4, 6, 7, 9, 11, 12, 13, 14 or 11 
+
+subsection (23) of Section 8 of this Act. 12 
+
+SECTION 6.   A NEW SECTION OF KRS CHAPTER 205 IS CREATED TO 13 
+
+READ AS FOLLOWS: 14 
+
+The Department for Medicaid Services and any managed care organization contracted 15 
+
+to provide Medicaid or Kentucky Children's Health Insurance Program benefits 16 
+
+pursuant to this chapter shall not reimburse or provide benefits or coverage for gender 17 
+
+transition services as defined in Section 1 of this Act for persons under the age of 18 
+
+eighteen (18) years. 19 
+
+SECTION 7.   A NEW SECTION OF SUBTITLE 12 OF KRS CHAPTER 304 20 
+
+IS CREATED TO READ AS FOLLOWS: 21 
+
+(1) As used in this section: 22 
+
+(a) "Gender transition services" has the same meaning as in Section 1 of this 23 
+
+Act; and 24 
+
+(b) "Insurer" includes any nongovernmental self-insurer, self-insured plan, 25 
+
+self-insured group, or other entity that reimburses or provides benefits or 26 
+
+coverage for health care services. 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 11 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(2) To the extent permitted under federal law: 1 
+
+(a) If an insurer elects to reimburse or provide benefits or coverage for gender 2 
+
+transition services for persons under the age of eighteen (18) years, the 3 
+
+insurer shall: 4 
+
+1. Be jointly and severally liable for damages sustained as a result of the 5 
+
+gender transition services, notwithstanding any other provision of law 6 
+
+to the contrary, including KRS 214.185; and 7 
+
+2. Not require an insured or any other party to submit to arbitration a 8 
+
+claim under subparagraph 1. of this paragraph. 9 
+
+(b) Any contractual arbitration clause contained in a policy, plan, certificate, or 10 
+
+contract that is in violation of this subsection shall be void and 11 
+
+unenforceable. 12 
+
+(3) Notwithstanding any other provision of the law to the contrary, including KRS 13 
+
+214.185, and to the extent permitted under federal law, if any act in subsection (2) 14 
+
+of this section results in personal injury, an action may be brought in the same 15 
+
+manner as the cause of action authorized in subsections (3) to (7) of Section 3 of 16 
+
+this Act. 17 
+
+Section 8.   KRS 18A.225 is amended to read as follows: 18 
+
+(1) (a) The term "employee" for purposes of this section means: 19 
+
+1. Any person, including an elected public official, who is regularly 20 
+
+employed by any department, office, board, agency, or branch of state 21 
+
+government; or by a public postsecondary educational institution; or by 22 
+
+any city, urban-county, charter county, county, or consolidated local 23 
+
+government, whose legislative body has opted to participate in the state-24 
+
+sponsored health insurance program pursuant to KRS 79.080; and who 25 
+
+is either a contributing member to any one (1) of the retirement systems 26 
+
+administered by the state, including but not limited to the Kentucky 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 12 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+Retirement Systems, County Employees Retirement System, Kentucky 1 
+
+Teachers' Retirement System, the Legislators' Retirement Plan, or the 2 
+
+Judicial Retirement Plan; or is receiving a contractual contribution from 3 
+
+the state toward a retirement plan; or, in the case of a public 4 
+
+postsecondary education institution, is an individual participating in an 5 
+
+optional retirement plan authorized by KRS 161.567; or is eligible to 6 
+
+participate in a retirement plan established by an employer who ceases 7 
+
+participating in the Kentucky Employees Retirement System pursuant to 8 
+
+KRS 61.522 whose employees participated in the health insurance plans 9 
+
+administered by the Personnel Cabinet prior to the employer's effective 10 
+
+cessation date in the Kentucky Employees Retirement System; 11 
+
+2. Any certified or classified employee of a local board of education or a 12 
+
+public charter school as defined in KRS 160.1590; 13 
+
+3. Any elected member of a local board of education; 14 
+
+4. Any person who is a present or future recipient of a retirement 15 
+
+allowance from the Kentucky Retirement Systems, County Employees 16 
+
+Retirement System, Kentucky Teachers' Retirement System, the 17 
+
+Legislators' Retirement Plan, the Judicial Retirement Plan, or the 18 
+
+Kentucky Community and Technical College System's optional 19 
+
+retirement plan authorized by KRS 161.567, except that a person who is 20 
+
+receiving a retirement allowance and who is age sixty-five (65) or older 21 
+
+shall not be included, with the exception of persons covered under KRS 22 
+
+61.702(2)(b)3. and 78.5536(2)(b)3., unless he or she is actively 23 
+
+employed pursuant to subparagraph 1. of this paragraph; and 24 
+
+5. Any eligible dependents and beneficiaries of participating employees 25 
+
+and retirees who are entitled to participate in the state-sponsored health 26 
+
+insurance program; 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 13 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(b) The term "health benefit plan" for the purposes of this section means a health 1 
+
+benefit plan as defined in KRS 304.17A-005; 2 
+
+(c) The term "insurer" for the purposes of this section means an insurer as defined 3 
+
+in KRS 304.17A-005; and 4 
+
+(d) The term "managed care plan" for the purposes of this section means a 5 
+
+managed care plan as defined in KRS 304.17A-500. 6 
+
+(2) (a) The secretary of the Finance and Administration Cabinet, upon the 7 
+
+recommendation of the secretary of the Personnel Cabinet, shall procure, in 8 
+
+compliance with the provisions of KRS 45A.080, 45A.085, and 45A.090, 9 
+
+from one (1) or more insurers authorized to do business in this state, a group 10 
+
+health benefit plan that may include but not be limited to health maintenance 11 
+
+organization (HMO), preferred provider organization (PPO), point of service 12 
+
+(POS), and exclusive provider organization (EPO) benefit plans 13 
+
+encompassing all or any class or classes of employees. With the exception of 14 
+
+employers governed by the provisions of KRS Chapters 16, 18A, and 151B, 15 
+
+all employers of any class of employees or former employees shall enter into 16 
+
+a contract with the Personnel Cabinet prior to including that group in the state 17 
+
+health insurance group. The contracts shall include but not be limited to 18 
+
+designating the entity responsible for filing any federal forms, adoption of 19 
+
+policies required for proper plan administration, acceptance of the contractual 20 
+
+provisions with health insurance carriers or third-party administrators, and 21 
+
+adoption of the payment and reimbursement methods necessary for efficient 22 
+
+administration of the health insurance program. Health insurance coverage 23 
+
+provided to state employees under this section shall, at a minimum, contain 24 
+
+the same benefits as provided under Kentucky Kare Standard as of January 1, 25 
+
+1994, and shall include a mail-order drug option as provided in subsection 26 
+
+(13) of this section. All employees and other persons for whom the health care 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 14 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+coverage is provided or made available shall annually be given an option to 1 
+
+elect health care coverage through a self-funded plan offered by the 2 
+
+Commonwealth or, if a self-funded plan is not available, from a list of 3 
+
+coverage options determined by the competitive bid process under the 4 
+
+provisions of KRS 45A.080, 45A.085, and 45A.090 and made available 5 
+
+during annual open enrollment. 6 
+
+(b) The policy or policies shall be approved by the commissioner of insurance 7 
+
+and may contain the provisions the commissioner of insurance approves, 8 
+
+whether or not otherwise permitted by the insurance laws. 9 
+
+(c) Any carrier bidding to offer health care coverage to employees shall agree to 10 
+
+provide coverage to all members of the state group, including active 11 
+
+employees and retirees and their eligible covered dependents and 12 
+
+beneficiaries, within the county or counties specified in its bid. Except as 13 
+
+provided in subsection (20) of this section, any carrier bidding to offer health 14 
+
+care coverage to employees shall also agree to rate all employees as a single 15 
+
+entity, except for those retirees whose former employers insure their active 16 
+
+employees outside the state-sponsored health insurance program and as 17 
+
+otherwise provided in KRS 61.702(2)(b)3.b. and 78.5536(2)(b)3.b. 18 
+
+(d) Any carrier bidding to offer health care coverage to employees shall agree to 19 
+
+provide enrollment, claims, and utilization data to the Commonwealth in a 20 
+
+format specified by the Personnel Cabinet with the understanding that the data 21 
+
+shall be owned by the Commonwealth; to provide data in an electronic form 22 
+
+and within a time frame specified by the Personnel Cabinet; and to be subject 23 
+
+to penalties for noncompliance with data reporting requirements as specified 24 
+
+by the Personnel Cabinet. The Personnel Cabinet shall take strict precautions 25 
+
+to protect the confidentiality of each individual employee; however, 26 
+
+confidentiality assertions shall not relieve a carrier from the requirement of 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 15 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+providing stipulated data to the Commonwealth. 1 
+
+(e) The Personnel Cabinet shall develop the necessary techniques and capabilities 2 
+
+for timely analysis of data received from carriers and, to the extent possible, 3 
+
+provide in the request-for-proposal specifics relating to data requirements, 4 
+
+electronic reporting, and penalties for noncompliance. The Commonwealth 5 
+
+shall own the enrollment, claims, and utilization data provided by each carrier 6 
+
+and shall develop methods to protect the confidentiality of the individual. The 7 
+
+Personnel Cabinet shall include in the October annual report submitted 8 
+
+pursuant to the provisions of KRS 18A.226 to the Governor, the General 9 
+
+Assembly, and the Chief Justice of the Supreme Court, an analysis of the 10 
+
+financial stability of the program, which shall include but not be limited to 11 
+
+loss ratios, methods of risk adjustment, measurements of carrier quality of 12 
+
+service, prescription coverage and cost management, and statutorily required 13 
+
+mandates. If state self-insurance was available as a carrier option, the report 14 
+
+also shall provide a detailed financial analysis of the self-insurance fund 15 
+
+including but not limited to loss ratios, reserves, and reinsurance agreements. 16 
+
+(f) If any agency participating in the state-sponsored employee health insurance 17 
+
+program for its active employees terminates participation and there is a state 18 
+
+appropriation for the employer's contribution for active employees' health 19 
+
+insurance coverage, then neither the agency nor the employees shall receive 20 
+
+the state-funded contribution after termination from the state-sponsored 21 
+
+employee health insurance program. 22 
+
+(g) Any funds in flexible spending accounts that remain after all reimbursements 23 
+
+have been processed shall be transferred to the credit of the state-sponsored 24 
+
+health insurance plan's appropriation account. 25 
+
+(h) Each entity participating in the state-sponsored health insurance program shall 26 
+
+provide an amount at least equal to the state contribution rate for the employer 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 16 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+portion of the health insurance premium. For any participating entity that used 1 
+
+the state payroll system, the employer contribution amount shall be equal to 2 
+
+but not greater than the state contribution rate. 3 
+
+(3) The premiums may be paid by the policyholder: 4 
+
+(a) Wholly from funds contributed by the employee, by payroll deduction or 5 
+
+otherwise; 6 
+
+(b) Wholly from funds contributed by any department, board, agency, public 7 
+
+postsecondary education institution, or branch of state, city, urban-county, 8 
+
+charter county, county, or consolidated local government; or 9 
+
+(c) Partly from each, except that any premium due for health care coverage or 10 
+
+dental coverage, if any, in excess of the premium amount contributed by any 11 
+
+department, board, agency, postsecondary education institution, or branch of 12 
+
+state, city, urban-county, charter county, county, or consolidated local 13 
+
+government for any other health care coverage shall be paid by the employee. 14 
+
+(4) If an employee moves his or her place of residence or employment out of the 15 
+
+service area of an insurer offering a managed health care plan, under which he or 16 
+
+she has elected coverage, into either the service area of another managed health care 17 
+
+plan or into an area of the Commonwealth not within a managed health care plan 18 
+
+service area, the employee shall be given an option, at the time of the move or 19 
+
+transfer, to change his or her coverage to another health benefit plan. 20 
+
+(5) No payment of premium by any department, board, agency, public postsecondary 21 
+
+educational institution, or branch of state, city, urban-county, charter county, 22 
+
+county, or consolidated local government shall constitute compensation to an 23 
+
+insured employee for the purposes of any statute fixing or limiting the 24 
+
+compensation of such an employee. Any premium or other expense incurred by any 25 
+
+department, board, agency, public postsecondary educational institution, or branch 26 
+
+of state, city, urban-county, charter county, county, or consolidated local 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 17 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+government shall be considered a proper cost of administration. 1 
+
+(6) The policy or policies may contain the provisions with respect to the class or classes 2 
+
+of employees covered, amounts of insurance or coverage for designated classes or 3 
+
+groups of employees, policy options, terms of eligibility, and continuation of 4 
+
+insurance or coverage after retirement. 5 
+
+(7) Group rates under this section shall be made available to the disabled child of an 6 
+
+employee regardless of the child's age if the entire premium for the disabled child's 7 
+
+coverage is paid by the state employee. A child shall be considered disabled if he or 8 
+
+she has been determined to be eligible for federal Social Security disability benefits. 9 
+
+(8) The health care contract or contracts for employees shall be entered into for a 10 
+
+period of not less than one (1) year. 11 
+
+(9) The secretary shall appoint thirty-two (32) persons to an Advisory Committee of 12 
+
+State Health Insurance Subscribers to advise the secretary or the secretary's 13 
+
+designee regarding the state-sponsored health insurance program for employees. 14 
+
+The secretary shall appoint, from a list of names submitted by appointing 15 
+
+authorities, members representing school districts from each of the seven (7) 16 
+
+Supreme Court districts, members representing state government from each of the 17 
+
+seven (7) Supreme Court districts, two (2) members representing retirees under age 18 
+
+sixty-five (65), one (1) member representing local health departments, two (2) 19 
+
+members representing the Kentucky Teachers' Retirement System, and three (3) 20 
+
+members at large. The secretary shall also appoint two (2) members from a list of 21 
+
+five (5) names submitted by the Kentucky Education Association, two (2) members 22 
+
+from a list of five (5) names submitted by the largest state employee organization of 23 
+
+nonschool state employees, two (2) members from a list of five (5) names submitted 24 
+
+by the Kentucky Association of Counties, two (2) members from a list of five (5) 25 
+
+names submitted by the Kentucky League of Cities, and two (2) members from a 26 
+
+list of names consisting of five (5) names submitted by each state employee 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 18 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+organization that has two thousand (2,000) or more members on state payroll 1 
+
+deduction. The advisory committee shall be appointed in January of each year and 2 
+
+shall meet quarterly. 3 
+
+(10) Notwithstanding any other provision of law to the contrary, the policy or policies 4 
+
+provided to employees pursuant to this section shall not provide coverage for 5 
+
+obtaining or performing an abortion, nor shall any state funds be used for the 6 
+
+purpose of obtaining or performing an abortion on behalf of employees or their 7 
+
+dependents. 8 
+
+(11) Interruption of an established treatment regime with maintenance drugs shall be 9 
+
+grounds for an insured to appeal a formulary change through the established appeal 10 
+
+procedures approved by the Department of Insurance, if the physician supervising 11 
+
+the treatment certifies that the change is not in the best interests of the patient. 12 
+
+(12) Any employee who is eligible for and elects to participate in the state health 13 
+
+insurance program as a retiree, or the spouse or beneficiary of a retiree, under any 14 
+
+one (1) of the state-sponsored retirement systems shall not be eligible to receive the 15 
+
+state health insurance contribution toward health care coverage as a result of any 16 
+
+other employment for which there is a public employer contribution. This does not 17 
+
+preclude a retiree and an active employee spouse from using both contributions to 18 
+
+the extent needed for purchase of one (1) state sponsored health insurance policy 19 
+
+for that plan year. 20 
+
+(13) (a) The policies of health insurance coverage procured under subsection (2) of 21 
+
+this section shall include a mail-order drug option for maintenance drugs for 22 
+
+state employees. Maintenance drugs may be dispensed by mail order in 23 
+
+accordance with Kentucky law. 24 
+
+(b) A health insurer shall not discriminate against any retail pharmacy located 25 
+
+within the geographic coverage area of the health benefit plan and that meets 26 
+
+the terms and conditions for participation established by the insurer, including 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 19 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+price, dispensing fee, and copay requirements of a mail-order option. The 1 
+
+retail pharmacy shall not be required to dispense by mail. 2 
+
+(c) The mail-order option shall not permit the dispensing of a controlled 3 
+
+substance classified in Schedule II. 4 
+
+(14) The policy or policies provided to state employees or their dependents pursuant to 5 
+
+this section shall provide coverage for obtaining a hearing aid and acquiring hearing 6 
+
+aid-related services for insured individuals under eighteen (18) years of age, subject 7 
+
+to a cap of one thousand four hundred dollars ($1,400) every thirty-six (36) months 8 
+
+pursuant to KRS 304.17A-132. 9 
+
+(15) Any policy provided to state employees or their dependents pursuant to this section 10 
+
+shall provide coverage for the diagnosis and treatment of autism spectrum disorders 11 
+
+consistent with KRS 304.17A-142. 12 
+
+(16) Any policy provided to state employees or their dependents pursuant to this section 13 
+
+shall provide coverage for obtaining amino acid-based elemental formula pursuant 14 
+
+to KRS 304.17A-258. 15 
+
+(17) If a state employee's residence and place of employment are in the same county, 16 
+
+and if the hospital located within that county does not offer surgical services, 17 
+
+intensive care services, obstetrical services, level II neonatal services, diagnostic 18 
+
+cardiac catheterization services, and magnetic resonance imaging services, the 19 
+
+employee may select a plan available in a contiguous county that does provide 20 
+
+those services, and the state contribution for the plan shall be the amount available 21 
+
+in the county where the plan selected is located. 22 
+
+(18) If a state employee's residence and place of employment are each located in 23 
+
+counties in which the hospitals do not offer surgical services, intensive care 24 
+
+services, obstetrical services, level II neonatal services, diagnostic cardiac 25 
+
+catheterization services, and magnetic resonance imaging services, the employee 26 
+
+may select a plan available in a county contiguous to the county of residence that 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 20 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+does provide those services, and the state contribution for the plan shall be the 1 
+
+amount available in the county where the plan selected is located. 2 
+
+(19) The Personnel Cabinet is encouraged to study whether it is fair and reasonable and 3 
+
+in the best interests of the state group to allow any carrier bidding to offer health 4 
+
+care coverage under this section to submit bids that may vary county by county or 5 
+
+by larger geographic areas. 6 
+
+(20) Notwithstanding any other provision of this section, the bid for proposals for health 7 
+
+insurance coverage for calendar year 2004 shall include a bid scenario that reflects 8 
+
+the statewide rating structure provided in calendar year 2003 and a bid scenario that 9 
+
+allows for a regional rating structure that allows carriers to submit bids that may 10 
+
+vary by region for a given product offering as described in this subsection: 11 
+
+(a) The regional rating bid scenario shall not include a request for bid on a 12 
+
+statewide option; 13 
+
+(b) The Personnel Cabinet shall divide the state into geographical regions which 14 
+
+shall be the same as the partnership regions designated by the Department for 15 
+
+Medicaid Services for purposes of the Kentucky Health Care Partnership 16 
+
+Program established pursuant to 907 KAR 1:705; 17 
+
+(c) The request for proposal shall require a carrier's bid to include every county 18 
+
+within the region or regions for which the bid is submitted and include but not 19 
+
+be restricted to a preferred provider organization (PPO) option; 20 
+
+(d) If the Personnel Cabinet accepts a carrier's bid, the cabinet shall award the 21 
+
+carrier all of the counties included in its bid within the region. If the Personnel 22 
+
+Cabinet deems the bids submitted in accordance with this subsection to be in 23 
+
+the best interests of state employees in a region, the cabinet may award the 24 
+
+contract for that region to no more than two (2) carriers; and 25 
+
+(e) Nothing in this subsection shall prohibit the Personnel Cabinet from including 26 
+
+other requirements or criteria in the request for proposal. 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 21 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(21) Any fully insured health benefit plan or self-insured plan issued or renewed on or 1 
+
+after July 12, 2006, to public employees pursuant to this section which provides 2 
+
+coverage for services rendered by a physician or osteopath duly licensed under KRS 3 
+
+Chapter 311 that are within the scope of practice of an optometrist duly licensed 4 
+
+under the provisions of KRS Chapter 320 shall provide the same payment of 5 
+
+coverage to optometrists as allowed for those services rendered by physicians or 6 
+
+osteopaths. 7 
+
+(22) Any fully insured health benefit plan or self-insured plan issued or renewed to 8 
+
+public employees pursuant to this section shall comply with: 9 
+
+(a) KRS 304.12-237; 10 
+
+(b) KRS 304.17A-270 and 304.17A-525; 11 
+
+(c) KRS 304.17A-600 to 304.17A-633; 12 
+
+(d) KRS 205.593; 13 
+
+(e) KRS 304.17A-700 to 304.17A-730; 14 
+
+(f) KRS 304.14-135; 15 
+
+(g) KRS 304.17A-580 and 304.17A-641; 16 
+
+(h) KRS 304.99-123; 17 
+
+(i) KRS 304.17A-138; 18 
+
+(j) KRS 304.17A-148; 19 
+
+(k) KRS 304.17A-163 and 304.17A-1631; and 20 
+
+(l) Administrative regulations promulgated pursuant to statutes listed in this 21 
+
+subsection. 22 
+
+(23) A fully insured health benefit plan or self-insured plan issued or renewed to 23 
+
+public employees pursuant to this section shall not reimburse or provide benefits 24 
+
+or coverage for gender transition services as defined in Section 1 of this Act for 25 
+
+persons under the age of eighteen (18) years. 26 
+
+Section 9.   KRS 454.210 is amended to read as follows: 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 22 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(1) As used in this section, "person" includes an individual, his or her executor, 1 
+
+administrator, or other personal representative, or a corporation, partnership, 2 
+
+association, or any other legal or commercial entity, who is a nonresident of this 3 
+
+Commonwealth. 4 
+
+(2) (a) A court may exercise personal jurisdiction over a person who acts directly or 5 
+
+by an agent, as to a claim arising from the person's: 6 
+
+1. Transacting any business in this Commonwealth; 7 
+
+2. Contracting to supply services or goods in this Commonwealth; 8 
+
+3. Causing tortious injury by an act or omission in this Commonwealth; 9 
+
+4. Causing tortious injury in this Commonwealth by an act or omission 10 
+
+outside this Commonwealth if he or she regularly does or solicits 11 
+
+business, or engages in any other persistent course of conduct, or derives 12 
+
+substantial revenue from goods used or consumed or services rendered 13 
+
+in this Commonwealth, provided that the tortious injury occurring in this 14 
+
+Commonwealth arises out of the doing or soliciting of business or a 15 
+
+persistent course of conduct or derivation of substantial revenue within 16 
+
+the Commonwealth; 17 
+
+5. Causing injury in this Commonwealth to any person by breach of 18 
+
+warranty expressly or impliedly made in the sale of goods outside this 19 
+
+Commonwealth when the seller knew such person would use, consume, 20 
+
+or be affected by, the goods in this Commonwealth, if he or she also 21 
+
+regularly does or solicits business, or engages in any other persistent 22 
+
+course of conduct, or derives substantial revenue from goods used or 23 
+
+consumed or services rendered in this Commonwealth; 24 
+
+6. Having an interest in, using, or possessing real property in this 25 
+
+Commonwealth, providing the claim arises from the interest in, use of, 26 
+
+or possession of the real property, provided, however, that such in 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 23 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+personam jurisdiction shall not be imposed on a nonresident who did not 1 
+
+himself or herself voluntarily institute the relationship, and did not 2 
+
+knowingly perform, or fail to perform, the act or acts upon which 3 
+
+jurisdiction is predicated; 4 
+
+7. Contracting to insure any person, property, or risk located within this 5 
+
+Commonwealth at the time of contracting; 6 
+
+8. Committing sexual intercourse in this state which intercourse causes the 7 
+
+birth of a child when: 8 
+
+a. The father or mother or both are domiciled in this state; 9 
+
+b. There is a repeated pattern of intercourse between the father and 10 
+
+mother in this state; or 11 
+
+c. Said intercourse is a tort or a crime in this state;[ or] 12 
+
+9. Making a telephone solicitation, as defined in KRS 367.46951, or a 13 
+
+charitable solicitation as defined in KRS 367.650 via 14 
+
+telecommunication, into the Commonwealth; or 15 
+
+10. Engaging in any of the following activities as a health care provider or 16 
+
+mental health care provider, as defined in Section 1 of this Act; 17 
+
+a. Providing gender transition services as defined in Section 1 of 18 
+
+this Act for a person under the age of eighteen (18) years who 19 
+
+resides in the Commonwealth before and after receiving the 20 
+
+services and at the time the action is brought; 21 
+
+b. Dispensing, prescribing, or distributing any puberty-blocking 22 
+
+drugs or cross-sex hormones as defined in Section 1 of this Act, 23 
+
+for the purpose of assisting with the gender transitioning of a 24 
+
+person under the age of eighteen (18) years who resides in the 25 
+
+Commonwealth before and after receiving the services and at the 26 
+
+time the action is brought; or 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 24 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+c. Aiding or assisting in the provision of gender transition services 1 
+
+as defined in Section 1 of this Act for a person under the age of 2 
+
+eighteen (18) years who resides in the Commonwealth before 3 
+
+and after receiving the services and at the time the action is 4 
+
+brought. 5 
+
+(b) When jurisdiction over a person is based solely upon this section, only a claim 6 
+
+arising from acts enumerated in this section may be asserted against him or 7 
+
+her. 8 
+
+(3) (a) When personal jurisdiction is authorized by this section, service of process 9 
+
+may be made: 10 
+
+1. In any manner authorized by the Kentucky Rules of Civil Procedure; 11 
+
+2. On such person, or any agent of such person, in any county in this 12 
+
+Commonwealth, where he or she may be found; or 13 
+
+3. On the Secretary of State who, for this purpose, shall be deemed to be 14 
+
+the statutory agent of the[such] person. 15 
+
+(b) The clerk of the court in which the action is brought shall issue a summons 16 
+
+against the defendant named in the complaint. The clerk shall execute the 17 
+
+summons either by: 18 
+
+1. Sending by certified mail two (2) true copies to the Secretary of State 19 
+
+and shall also mail with the summons two (2) attested copies of 20 
+
+plaintiff's complaint; or 21 
+
+2. Transmitting an electronically attested copy of the complaint and 22 
+
+summons to the Secretary of State via the Kentucky Court of Justice 23 
+
+electronic filing system. 24 
+
+(c) The Secretary of State shall, within seven (7) days of receipt thereof in his or 25 
+
+her office, mail a copy of the summons and complaint to the defendant at the 26 
+
+address given in the complaint. The letter shall be posted by certified mail, 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 25 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+return receipt requested, and shall bear the return address of the Secretary of 1 
+
+State. The clerk shall make the usual return to the court, and in addition the 2 
+
+Secretary of State shall make a return to the court showing that the acts 3 
+
+contemplated by this statute have been performed, and shall attach to his or 4 
+
+her return the registry receipt, if any. Summons shall be deemed to be served 5 
+
+on the return of the Secretary of State and the action shall proceed as provided 6 
+
+in the Rules of Civil Procedure. 7 
+
+(d) The clerk mailing the summons to the Secretary of State shall mail to him or 8 
+
+her, at the same time, a fee of ten dollars ($10), which shall be taxed as costs 9 
+
+in the action. The fee for a summons transmitted electronically pursuant to 10 
+
+this subsection shall be transmitted to the Secretary of State on a periodic 11 
+
+basis. 12 
+
+(4) When the exercise of personal jurisdiction is authorized by this section, any action 13 
+
+or suit may be brought in the county wherein the plaintiff resides or where the cause 14 
+
+of action or any part thereof arose. 15 
+
+(5) A court of this Commonwealth may exercise jurisdiction on any other basis 16 
+
+authorized in the Kentucky Revised Statutes or by the Rules of Civil Procedure, 17 
+
+notwithstanding this section. 18 
+
+Section 10.   KRS 141.039 is amended to read as follows: 19 
+
+In the case of corporations: 20 
+
+(1) Gross income shall be calculated by adjusting federal gross income as defined in 21 
+
+Section 61 of the Internal Revenue Code as follows: 22 
+
+(a) Exclude income that is exempt from state taxation by the Kentucky 23 
+
+Constitution and the Constitution and statutory laws of the United States; 24 
+
+(b) Exclude all dividend income; 25 
+
+(c) Include interest income derived from obligations of sister states and political 26 
+
+subdivisions thereof; 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 26 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+(d) Exclude fifty percent (50%) of gross income derived from any disposal of 1 
+
+coal covered by Section 631(c) of the Internal Revenue Code if the 2 
+
+corporation does not claim any deduction for percentage depletion, or for 3 
+
+expenditures attributable to the making and administering of the contract 4 
+
+under which such disposition occurs or to the preservation of the economic 5 
+
+interests retained under such contract; 6 
+
+(e) Include the amount calculated under KRS 141.205; 7 
+
+(f) Ignore the provisions of Section 281 of the Internal Revenue Code in 8 
+
+computing gross income; 9 
+
+(g) Include the amount of deprecation deduction calculated under 26 U.S.C. sec. 10 
+
+167 or 168; and 11 
+
+(h) Allow the same treatment allowed under Pub. L. No. 116-260, secs. 276 and 12 
+
+278, related to the tax treatment of forgiven covered loans, deductions 13 
+
+attributable to those loans, and tax attributes associated with those loans for 14 
+
+taxable years ending on or after March 27, 2020, but before January 1, 2022; 15 
+
+and 16 
+
+(2) Net income shall be calculated by: 17 
+
+(a) Subtracting from gross income: 18 
+
+1.[(a)] The deduction for depreciation allowed by KRS 141.0101; 19 
+
+2.[(b)] Any amount paid for vouchers or similar instruments that provide 20 
+
+health insurance coverage to employees or their families; 21 
+
+3.[(c)] All the deductions from gross income allowed corporations by 22 
+
+Chapter 1 of the Internal Revenue Code, as modified by KRS 141.0101, 23 
+
+except: 24 
+
+a.[1.] Any deduction for a state tax which is computed, in whole or in 25 
+
+part, by reference to gross or net income and which is paid or 26 
+
+accrued to any state of the United States, the District of Columbia, 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 27 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+the Commonwealth of Puerto Rico, any territory or possession of 1 
+
+the United States, or to any foreign country or political subdivision 2 
+
+thereof; 3 
+
+b.[2.] The deductions contained in Sections 243, 245, and 247 of the 4 
+
+Internal Revenue Code; 5 
+
+c.[3.] The provisions of Section 281 of the Internal Revenue Code shall 6 
+
+be ignored in computing net income; 7 
+
+d.[4.] Any deduction directly or indirectly allocable to income which is 8 
+
+either exempt from taxation or otherwise not taxed under the 9 
+
+provisions of this chapter, except for deductions allowed under 10 
+
+Pub. L. No. 116-260, secs. 276 and 278, related to the tax 11 
+
+treatment of forgiven covered loans and deductions attributable to 12 
+
+those loans for taxable years ending on or after March 27, 2020, 13 
+
+but before January 1, 2022, and nothing in this chapter shall be 14 
+
+construed to permit the same item to be deducted more than once; 15 
+
+e.[5.] Any deduction for amounts paid to any club, organization, or 16 
+
+establishment which has been determined by the courts or an 17 
+
+agency established by the General Assembly and charged with 18 
+
+enforcing the civil rights laws of the Commonwealth, not to afford 19 
+
+full and equal membership and full and equal enjoyment of its 20 
+
+goods, services, facilities, privileges, advantages, or 21 
+
+accommodations to any person because of race, color, religion, 22 
+
+national origin, or sex, except nothing shall be construed to deny a 23 
+
+deduction for amounts paid to any religious or denominational 24 
+
+club, group, or establishment, or any organization operated solely 25 
+
+for charitable or educational purposes which restricts membership 26 
+
+to persons of the same religion or denomination in order to 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 28 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+promote the religious principles for which it is established and 1 
+
+maintained; 2 
+
+f.[6.] Any deduction prohibited by KRS 141.205; and 3 
+
+g.[7.] Any dividends-paid deduction of any captive real estate 4 
+
+investment trust;[ and] 5 
+
+4. a.[(d) 1.] A deferred tax deduction in an amount computed in 6 
+
+accordance with this subparagraph[paragraph]. 7 
+
+b.[2.] For purposes of this subparagraph[paragraph]: 8 
+
+i.[a.] "Net deferred tax asset" means that deferred tax assets 9 
+
+exceed the deferred tax liabilities of the combined group, as 10 
+
+computed in accordance with accounting principles generally 11 
+
+accepted in the United States of America; and 12 
+
+ii.[b.] "Net deferred tax liability" means deferred tax liabilities that 13 
+
+exceed the deferred tax assets of a combined group as 14 
+
+defined in KRS 141.202, as computed in accordance with 15 
+
+accounting principles generally accepted in the United States 16 
+
+of America. 17 
+
+c.[3.] Only publicly traded companies, including affiliated corporations 18 
+
+participating in the filing of a publicly traded company's financial 19 
+
+statements prepared in accordance with accounting principles 20 
+
+generally accepted in the United States of America, as of January 21 
+
+1, 2019, shall be eligible for this deduction. 22 
+
+d.[4.] If the provisions of KRS 141.202 result in an aggregate increase to 23 
+
+the member's net deferred tax liability, an aggregate decrease to 24 
+
+the member's net deferred tax asset, or an aggregate change from a 25 
+
+net deferred tax asset to a net deferred tax liability, the combined 26 
+
+group shall be entitled to a deduction, as determined in this 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 29 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+paragraph. 1 
+
+e. [5.] For ten (10) years beginning with the combined group's first 2 
+
+taxable year beginning on or after January 1, 2024, a combined 3 
+
+group shall be entitled to a deduction from the combined group's 4 
+
+entire net income equal to one-tenth (1/10) of the amount 5 
+
+necessary to offset the increase in the net deferred tax liability, 6 
+
+decrease in the net deferred tax asset, or aggregate change from a 7 
+
+net deferred tax asset to a net deferred tax liability. The increase in 8 
+
+the net deferred tax liability, decrease in the net deferred tax asset, 9 
+
+or the aggregate change from a net deferred tax asset to a net 10 
+
+deferred tax liability shall be computed based on the change that 11 
+
+would result from the imposition of the combined reporting 12 
+
+requirement under KRS 141.202, but for the deduction provided 13 
+
+under this subparagraph[paragraph] as of June 27, 2019. 14 
+
+f.[6.] The deferred tax impact determined in subdivision 15 
+
+e.[subparagraph 5.] of this subparagraph[paragraph] shall be 16 
+
+converted to the annual deferred tax deduction amount, as follows: 17 
+
+i.[a.] The deferred tax impact determined in subparagraph 5. of 18 
+
+this paragraph shall be divided by the tax rate determined 19 
+
+under KRS 141.040; 20 
+
+ii.[b.] The resulting amount shall be further divided by the 21 
+
+apportionment factor determined by KRS 141.120 or 22 
+
+141.121 that was used by the combined group in the 23 
+
+calculation of the deferred tax assets and deferred tax 24 
+
+liabilities as described in subdivision e.[subparagraph 5.] of 25 
+
+this subparagraph[paragraph]; and 26 
+
+iii[c.] The resulting amount represents the total net deferred tax 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 30 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+deduction available over the ten (10) year period as 1 
+
+described in subparagraph 5. of this paragraph. 2 
+
+g.[7.] The deduction calculated under this subdivision[paragraph] shall 3 
+
+not be adjusted as a result of any events happening subsequent to 4 
+
+the calculation, including but not limited to any disposition or 5 
+
+abandonment of assets. The deduction shall be calculated without 6 
+
+regard to the federal tax effect and shall not alter the tax basis of 7 
+
+any asset. If the deduction under this section is greater than the 8 
+
+combined group's entire Kentucky net income, any excess 9 
+
+deduction shall be carried forward and applied as a deduction to 10 
+
+the combined group's entire net income in future taxable years 11 
+
+until fully utilized. 12 
+
+h.[8.] Any combined group intending to claim a deduction under this 13 
+
+subdivision[paragraph] shall file a statement with the department on or 14 
+
+before July 1, 2019. The statement shall specify the total amount of the 15 
+
+deduction which the combined group claims on the form, including 16 
+
+calculations and other information supporting the total amounts of the 17 
+
+deduction as required by the department. No deduction shall be allowed 18 
+
+under this subdivision[paragraph] for any taxable year, except to the 19 
+
+extent claimed on the timely filed statement in accordance with this 20 
+
+subdivision[paragraph]: and 21 
+
+(b) Adding to gross income any deduction directly or indirectly related to the 22 
+
+provision of gender transition services as defined in Section 1 of this Act for 23 
+
+a person under the age of eighteen (18) years. 24 
+
+SECTION 11.   A NEW SECTION OF KRS CHAPTER 158 IS CREATED TO 25 
+
+READ AS FOLLOWS: 26 
+
+(1) Notwithstanding any law to the contrary, including KRS 214.185, no public 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 31 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+school counselor, school-based mental health services provider, or other public 1 
+
+employee shall aid or assist in the provision of gender transition services as 2 
+
+defined in Section 1 of this Act for a person under the age of eighteen (18) years, 3 
+
+including but not limited to encouraging or making a recommendation to a 4 
+
+person under the age of eighteen (18) years to consider or to obtain gender 5 
+
+transition services, except to the extent allowable under the First Amendment to 6 
+
+the United States Constitution and the Constitution of Kentucky. 7 
+
+(2) Notwithstanding any other provision of the law to the contrary, including KRS 8 
+
+214.185, if any employee identified in subsection (1) of this section provides a 9 
+
+gender transition service to a person under the age of eighteen (18) years that 10 
+
+results in personal injury, that employee shall be jointly and severally liable for 11 
+
+damages sustained as a result of the gender transition services. 12 
+
+(3) Notwithstanding any other provision of the law to the contrary, including KRS 13 
+
+214.185, if any employee identified in subsection (1) of this section provides a 14 
+
+gender transition service to a person under the age of eighteen (18) years that 15 
+
+results in personal injury, an action may be brought in the same manner as the 16 
+
+cause of action authorized in subsections (3) to (8) of Section 3 of this Act. 17 
+
+(4) A schools shall notify each parent or guardian of a student who is a person under 18 
+
+the age of eighteen (18) years if: 19 
+
+(a) The student significantly changes his or her gender expression; 20 
+
+(b) The student expresses an inconsistency between his or her sex and his or 21 
+
+her perceived gender or perceived sex; or 22 
+
+(c) The student expresses a desire to be referred to by a name, pronoun, or 23 
+
+other identifier inconsistent with his or her sex. 24 
+
+(5) A school shall withhold from a parent or guardian the notification required 25 
+
+under subsection (4) of this section if: 26 
+
+(a) A school health care provider or mental health provider, in good faith and 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 32 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+with reasonable cause, determines that the student is a victim of physical, 1 
+
+sexual, or substance abuse by that parent; 2 
+
+(b) The school health care provider or mental health provider reports that 3 
+
+parent’s abuse as required under KRS 620.030(2); and 4 
+
+(c) Obtaining that parent’s consent would place the student at risk of further 5 
+
+abuse by that parent. 6 
+
+(6) Nothing in subsection (5) of this section shall relieve a school from making the 7 
+
+required notification to the student’s other parent or guardian. 8 
+
+Section 12.   KRS 213.121 is amended to read as follows: 9 
+
+(1) A certificate or report registered under this chapter may be amended only in 10 
+
+accordance with this section and administrative regulations adopted by the cabinet 11 
+
+to protect the integrity and accuracy of vital records. 12 
+
+(2) A certificate or report that is amended under this section shall be marked 13 
+
+"amended," except as otherwise provided in this section. The date of amendment 14 
+
+and a summary description of the evidence submitted in support of the amendment 15 
+
+shall be endorsed on or made a part of the record. The cabinet shall prescribe by 16 
+
+administrative regulation the conditions under which additions or minor corrections 17 
+
+may be made to certificates or records within one (1) year after the date of the event 18 
+
+without the certificate or record being marked "amended." 19 
+
+(3) Upon written request of both parents and receipts of a sworn acknowledgment of 20 
+
+paternity signed by both parents of a child born to an unmarried woman, the state 21 
+
+registrar shall amend the certificate of birth to show the paternity, if paternity is not 22 
+
+already shown on the certificate of birth. The certificate shall not be marked 23 
+
+"amended." 24 
+
+(4) Upon receipt of a certified copy of an order of a court changing the name of a 25 
+
+person born in the Commonwealth and upon request of the person or the person's 26 
+
+parents, guardian, or legal representative, the state registrar shall amend the 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 33 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+certificate of birth to show the new name. 1 
+
+(5) Upon receipt of a sworn statement by a licensed physician indicating that the 2 
+
+gender of an individual born in the Commonwealth has been changed by surgical 3 
+
+procedure and a certified copy of an order of a court of competent jurisdiction 4 
+
+changing that individual's name, the certificate of birth of the individual shall be 5 
+
+amended as prescribed by regulation to reflect the change. 6 
+
+(6) Notwithstanding subsections (4) and (5) of this section, a certificate or report 7 
+
+registered under this chapter shall not be amended if the purpose is to assist a 8 
+
+person under the age of eighteen (18) years with a gender transition as defined in 9 
+
+Section 1 of this Act. 10 
+
+Section 13.   KRS 401.020 is amended to read as follows: 11 
+
+(1) Both parents, provided both are living, or one (1) parent if one (1) is deceased, or if 12 
+
+no parent is living, the guardian, may have the name of a child under the age of 13 
+
+eighteen (18) changed by the District Court, or if the Family Court or Circuit Court 14 
+
+has a case before it involving the family, the Family Court of a county with a 15 
+
+Family Court, or the Circuit Court of a county without a Family Court of the county 16 
+
+in which the child resides. However, if one (1) parent refuses or is unavailable to 17 
+
+execute the petition, proper notice of filing the petition shall be served in 18 
+
+accordance with the Rules of Civil Procedure. If the child resides on a United States 19 
+
+Army post, military reservation, or fort, his or her name may be changed by the 20 
+
+District Court, or the Family Court of a county with a Family Court, or the Circuit 21 
+
+Court of a county without a Family Court of any county adjacent thereto. 22 
+
+(2) A name change under subsection (1) of this section shall not be approved by any 23 
+
+court if the court finds that the purpose of the requested name change is to assist 24 
+
+a person under the age of eighteen (18) years with a gender transition as defined 25 
+
+in Section 1 of this Act. 26 
+
+SECTION 14.   A NEW SECTION OF KRS CHAPTER 600 IS CREATED TO 27 
+
+
+
+UNOFFICIAL COPY  23 RS BR 134 
+
+Page 34 of 34 
+XXXX   2/21/2023 2:08 PM  Jacketed 
+
+READ AS FOLLOWS: 1 
+
+(1) Any classification of the sex of any person under the age of eighteen (18) years 2 
+
+under KRS Chapters 600 to 645 shall be the person's sex as defined in Section 1 3 
+
+of this Act. 4 
+
+(2) The Department of Juvenile Justice shall not classify the sex of any detained 5 
+
+person under the age of eighteen (18) years to be a sex that is inconsistent with 6 
+
+his or her sex as defined in Section 1 of this Act. 7 
+
+Section 15.    If any provision of this Act or the application thereof to any person 8 
+
+or circumstance is held invalid, the invalidity shall not affect the other provisions or 9 
+
+applications of the Act that can be given effect without the invalid provision or 10 
+
+application, and to this end the provisions of this Act are severable. 11 
+
+Section 16.   This Act may be cited as the Do No Harm Act. 12 
+
+Section 17.   This Act takes effect January 1, 2024, so that persons under the age 13 
+
+of 18 years in the Commonwealth currently using puberty-blocking drugs or cross-sex 14 
+
+hormones have time for appropriate medication tapering and discontinuation under the 15 
+
+care of their health care providers or mental health care providers. 16 
+
+

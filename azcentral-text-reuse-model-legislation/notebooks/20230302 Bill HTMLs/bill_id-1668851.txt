@@ -1,0 +1,937 @@
+
+
+
+MISSISSIPPI LEGISLATURE
+2023 Regular Session
+To: Public Health and Human Services
+By: Representatives Newman, Gunn, Eubanks, Tullos, Brown
+(20th), Williamson, Hopkins
+House Bill 1125
+AN ACT TO CREATE THE "REGULATE EXPERIMENTAL ADOLESCENT PROCEDURES
+(REAP)" ACT FOR ANY PERSON UNDER EIGHTEEN YEARS OF AGE; TO PROVIDE DEFINITIONS
+FOR THE ACT; TO PROHIBIT THE DIRECT OR INDIRECT USE, GRANT, PAYMENT OR
+DISTRIBUTION OF PUBLIC FUNDS TO ANY ENTITY, ORGANIZATION OR INDIVIDUAL THAT PROVIDES
+GENDER TRANSITION PROCEDURES TO A PERSON UNDER EIGHTEEN
+YEARS OF AGE; TO PROVIDE THAT HEALTH CARE SERVICES FURNISHED IN A STATE OR
+LOCALLY-OWNED HEALTH CARE FACILITY OR BY A PHYSICIAN OR OTHER HEALTH CARE PROFESSIONAL
+EMPLOYED BY THE STATE OR LOCAL GOVERNMENT SHALL NOT INCLUDE GENDER TRANSITION PROCEDURES
+FOR A PERSON UNDER  EIGHTEEN YEARS OF AGE; TO PROVIDE THAT AMOUNTS PAID DURING
+A TAXABLE YEAR FOR PROVISION OF GENDER TRANSITION PROCEDURES OR AS PREMIUMS FOR
+HEALTH CARE COVERAGE THAT INCLUDES COVERAGE FOR GENDER TRANSITION PROCEDURES
+ARE NOT DEDUCTIBLE UNDER THE STATE INCOME TAX LAWS; TO AUTHORIZE THE ATTORNEY
+GENERAL TO BRING AN ACTION TO ENFORCE COMPLIANCE WITH THIS ACT; TO CREATE NEW
+SECTION 43-13-117.7, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE DIVISION OF
+MEDICAID FROM REIMBURSING OR PROVIDING COVERAGE FOR GENDER TRANSITION
+PROCEDURES FOR A PERSON UNDER EIGHTEEN YEARS OF AGE; TO AMEND SECTION 83-9-22,
+MISSISSIPPI CODE OF 1972, TO PROVIDE THAT HEALTH COVERAGE PLANS ARE NOT REQUIRED
+TO INCLUDE GENDER TRANSITION PROCEDURES; TO CREATE NEW SECTION 83-9-37,
+MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A HEALTH BENEFIT PLAN UNDER AN
+INSURANCE POLICY OR OTHER PLAN PROVIDING HEALTH CARE COVERAGE SHALL NOT INCLUDE
+REIMBURSEMENT FOR GENDER TRANSITION PROCEDURES FOR A PERSON UNDER EIGHTEEN
+YEARS OF AGE; TO AMEND SECTIONS 27-7-17, 73-15-29 AND 73-25-29, MISSISSIPPI
+CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; TO AMEND SECTION 73-25-33,
+MISSISSIPPI CODE OF 1972, TO EXCLUDE THE PERFORMANCE GENDER TRANSITION PROCEDURES
+FROM THE "PRACTICE OF MEDICINE" MEANING; TO AMEND SECTION 11-46-5,
+MISSISSIPPI CODE OF 1972, TO EXCLUDE FROM TORT IMMUNITY VIOLATIONS OF THIS ACT;
+TO AMEND SECTION 41-41-219, MISSISSIPPI CODE OF 1972, TO CONFORM TO THE PRECEDING
+SECTION; TO PROVIDE SEVERABILITY IF ANY PART OF THIS ACT IS FOUND UNCONSTITUTIONAL;
+AND FOR RELATED PURPOSES.
+     BE IT ENACTED BY THE
+LEGISLATURE OF THE STATE OF MISSISSIPPI:
+     SECTION 1.  This
+act shall be known and may be cited as the "Regulate Experimental Adolescent
+Procedures (REAP) Act.  
+     SECTION 2.  For
+purposes of this act, the following terms shall have the meanings ascribed
+herein:
+          (a)  "Sex"
+means the biological indication of male and female in the context of reproductive
+potential or capacity, such as sex chromosomes, naturally occurring sex
+hormones, gonads, and nonambiguous internal and external genitalia present at
+birth, without regard to an individual's psychological, chosen, or subjective
+experience of gender;
+          (b)  "Cross-sex
+hormones" means:
+               (i)  Testosterone
+or other androgens given to females in amounts that are larger or more potent
+than would normally occur naturally in healthy sex females; and
+               (ii)  Estrogen
+given to males in amounts that are larger or more potent than would normally
+occur naturally in healthy sex males;
+          (c)  "Gender"
+means the psychological, behavioral, social, and cultural aspects of being male
+or female;
+          (d)  "Gender
+reassignment surgery" means any medical or surgical service that seeks to surgically
+alter or remove healthy physical or anatomical characteristics or features, except
+for a male circumcision that are typical for the individual's sex, in order to
+instill or create physiological or anatomical characteristics that resemble a sex
+different from the individual's sex, including, without limitation:
+               (i)  Surgical
+procedures such as penectomy, castration, orchiectomy, vaginoplasty,
+clitoroplasty, or vulvoplasty for male patients;
+               (ii) Surgical procedures
+such as hysterectomy, oophorectomy, reconstruction of the urethra, metoidioplasty,
+phalloplasty, vaginectomy, scrotoplasty, or implantation of erection or
+testicular prostheses for female patients;
+               (iii)  Surgical
+procedures such as augmentation mammoplasty, facial feminization surgery, liposuction,
+lipofilling, voice surgery, thyroid cartilage reduction, gluteal augmentation,
+hair reconstruction, or various aesthetic procedures for male patients; or
+               (iv)  Surgical procedures
+such as subcutaneous mastectomy, voice surgery, liposuction, lipofilling,
+pectoral implants, or various aesthetic procedures for female patients;
+          (e)  "Gender
+transition" means the process in which a person goes from identifying with
+and living as a gender that corresponds to his or her sex to identifying with
+and living as a gender different from his or her sex, and may involve social,
+legal, or physical changes;
+          (f)  (i)  "Gender
+transition procedures" means any of the following medical or surgical services
+performed for the purpose of assisting an individual with a gender transition:
+                    1.  Prescribing
+or administering puberty-blocking drugs;
+                    2.  Prescribing
+or administering cross-sex hormones; or
+                    3.  Performing
+gender reassignment surgeries.
+               (ii)  "Gender
+transition procedures" do not include:
+                    1.  Services
+to persons born with a medically verifiable disorder of sex development,
+including a person with external sex characteristics that are irresolvably
+ambiguous, such as those born with forty-six (46) XX chromosomes with virilization,
+forty-six (46) XY chromosomes with undervirilization, or having both ovarian
+and testicular tissue;
+                    2.  Services
+provided when a physician has otherwise diagnosed a disorder of sexual
+development that the physician has determined through genetic or biochemical
+testing that the person does not have normal sex chromosome structure, sex
+steroid hormone production, or sex steroid hormone action;
+                    3.  The
+treatment of any infection, injury, disease, or disorder that has been caused
+by or exacerbated by the performance of gender transition procedures, whether
+or not the gender transition procedure was performed in accordance with state
+and federal law or whether or not the funding for the gender transition
+procedure is permissible under this act; or
+                    4.  Any
+procedure for a male circumcision;
+          (g)  "Health care
+professional" means a person who is licensed, certified, or otherwise
+authorized by the laws of this state to administer health care in the ordinary
+course of the practice of his or her profession;
+          (h)  "Physician"
+means a person who is licensed to practice medicine in this state as provided in
+Sections 73-25-1 etc.;
+          (i)  "Puberty-blocking
+drugs" means gonadotropin-releasing hormone analogues or other synthetic
+drugs used in males to stop luteinizing hormone secretion and therefore testosterone
+secretion, or synthetic drugs used in females which stop the production of
+estrogens and progesterone, when used to delay or suppress pubertal development
+in children for the purpose of assisting an individual with a gender transition;
+and
+          (j)  "Public funds"
+means federal, state, county, or local government monies, in addition to any
+department, agency, or instrumentality authorized or appropriated under state
+law or derived from any fund in which such monies are deposited.
+     SECTION 3.  (1)
+ A person shall not knowingly provide gender transition procedures to any person
+under eighteen (18) years of age.
+     (2)  A person shall not knowingly
+engage in conduct that aids or abets the performance or inducement of gender transition
+procedures to any person under eighteen (18) years of age.  This subsection may
+not be construed to impose liability on any speech protected by federal or
+state law.
+     SECTION 4.  Prohibition
+on use of public funds or tax deduction for gender transition procedures.  (1)
+ Public funds, resources, facilities, personnel or any other
+thing of value that is provided by the United States or the State of Mississippi
+shall not be directly or indirectly used, granted, paid, or distributed to any
+entity, organization, or individual that provides gender transition procedures
+to a person under eighteen (18) years of age in violation of this act.
+     (2)  Health
+care services furnished in the following situations shall not include gender
+transition procedures for a person under eighteen (18) years of age:
+          (a)  By or in a health care
+facility owned by the state or a county or local government; or
+          (b)  By a physician or
+other health care professional employed by the state or a county or local
+government.
+     (3)  Any
+amount paid by an individual or an entity during a taxable year for provision
+of gender transition procedures or as premiums for health care coverage that includes
+coverage for gender transition procedures is not deductible under the state income
+tax laws.
+     SECTION 5.  Enforcement.
+ (1)  Any violation of Section 3 by a physician or other
+health care professional shall be considered outside the applicable standard of
+care and is unprofessional conduct.  A physician who violates Section 3 shall have
+his or her license to practice medicine in the State of Mississippi revoked pursuant
+to action taken by the Mississippi State Board of Medical Licensure.  A nonphysician
+healthcare professional who violates Section 3 shall have his or her license to
+practice their healthcare profession in the State of Mississippi revoked pursuant
+to action taken by the applicable licensing entity.
+     (2)  A person may assert an
+actual or threatened violation of this act as a claim or defense in a judicial or
+administrative proceeding and obtain compensatory damages, punitive damages, injunctive
+relief, declaratory relief, or any other appropriate relief.  Such claim may be
+brought against any facility, individual or entity causing or contributing to a
+violation of this act.
+     (3)  (a)  A person must
+bring a claim for a violation of this act no later than thirty (30) years after
+the day the cause of action accrues.
+          (b)  A person under eighteen
+(18) years of age may bring an action throughout their minority through a
+parent or next friend, and may bring an action in their own name upon reaching
+majority at any time from that point until thirty (30) years after reaching the
+age of majority.
+     (4)  Notwithstanding any
+other provision of law, an action under this act may be commenced, and relief
+may be granted, in a judicial proceeding without regard to whether the person
+commencing the action has sought or exhausted available administrative remedies.
+     (5)  In any action or
+proceeding to enforce a provision of this act, a prevailing party who
+establishes a violation of this act shall recover reasonable attorney's fees.
+     (6)  (a)  The Attorney General shall bring an action to enforce
+compliance with this act.
+          (b)  This act does not deny,
+impair, or otherwise affect any right or authority of the Attorney General, the
+State of Mississippi, or any agency, officer, or employee of the state, acting
+under any law other than this act, to institute or intervene in any proceeding.
+     SECTION 6.  Section
+27-7-17, Mississippi Code of 1972, is amended as follows:
+     27-7-17.  In computing taxable
+income, there shall be allowed as deductions:
+     (1)  Business deductions.
+          (a)  Business expenses. 
+All the ordinary and necessary expenses paid or incurred during the taxable year
+in carrying on any trade or business, including a reasonable allowance for salaries
+or other compensation for personal services actually rendered; nonreimbursable traveling
+expenses incident to current employment, including a reasonable amount expended
+for meals and lodging while away from home in the pursuit of a trade or business;
+and rentals or other payments required to be made as a condition of the continued
+use or possession, for purposes of the trade or business of property to which the
+taxpayer has not taken or is not taking title or in which he had no equity.  Expense
+incurred in connection with earning and distributing nontaxable income is not an
+allowable deduction.  Limitations on entertainment expenses shall conform to the
+provisions of the Internal Revenue Code of 1986.  There shall also be allowed a
+deduction for expenses as provided in Section 41-137-51.
+          (b)  Interest.  All
+interest paid or accrued during the taxable year on business indebtedness, except
+interest upon the indebtedness for the purchase of tax-free bonds, or any stocks,
+the dividends from which are nontaxable under the provisions of this article; provided,
+however, in the case of securities dealers, interest payments or accruals on loans,
+the proceeds of which are used to purchase tax-exempt securities, shall be deductible
+if income from otherwise tax-free securities is reported as income.  Investment
+interest expense shall be limited to investment income.  Interest expense incurred
+for the purchase of treasury stock, to pay dividends, or incurred as a result of
+an undercapitalized affiliated corporation may not be deducted unless an ordinary
+and necessary business purpose can be established to the satisfaction of the commissioner.
+ For the purposes of this paragraph, the phrase "interest upon the indebtedness
+for the purchase of tax-free bonds" applies only to the indebtedness incurred
+for the purpose of directly purchasing tax-free bonds and does not apply to any
+other indebtedness incurred in the regular course of the taxpayer's business.  Any
+corporation, association, organization or other entity taxable under Section 27-7-23(c)
+shall allocate interest expense as provided in Section 27-7-23(c)(3)(I).
+          (c)  Taxes.  Taxes
+paid or accrued within the taxable year, except state and federal income taxes,
+excise taxes based on or measured by net income, estate and inheritance taxes, gift
+taxes, cigar and cigarette taxes, gasoline taxes, and sales and use taxes unless
+incurred as an item of expense in a trade or business or in the production of taxable
+income.  In the case of an individual, taxes permitted as an itemized deduction
+under the provisions of subsection (3)(a) of this section are to be claimed thereunder.
+          (d)  Business losses.
+              (i)  Losses sustained
+during the taxable year not compensated for by insurance or otherwise, if incurred
+in trade or business, or nonbusiness transactions entered into for profit.
+               (ii)  Limitations on
+losses from passive activities and rental real estate shall conform to the provisions
+of the Internal Revenue Code of 1986.
+          (e)  Bad debts. 
+Losses from debts ascertained to be worthless and charged off during the taxable
+year, if sustained in the conduct of the regular trade or business of the taxpayer;
+provided, that such losses shall be allowed only when the taxpayer has reported
+as income, on the accrual basis, the amount of such debt or account.
+          (f)  Depreciation. 
+A reasonable allowance for exhaustion, wear and tear of property used in the trade
+or business, or rental property, and depreciation upon buildings based upon their
+reasonable value as of March 16, 1912, if acquired prior thereto, and upon cost
+if acquired subsequent to that date.  In the case of new or used aircraft, equipment,
+engines, or other parts and tools used for aviation, allowance for bonus depreciation
+conforms with the federal bonus depreciation rates and reasonable allowance for
+depreciation under this section is no less than one hundred percent (100%). 
+          (g)  Depletion.  In
+the case of mines, oil and gas wells, other natural deposits and timber, a reasonable
+allowance for depletion and for depreciation of improvements, based upon cost, including
+cost of development, not otherwise deducted, or fair market value as of March 16,
+1912, if acquired prior to that date, such allowance to be made upon regulations
+prescribed by the commissioner, with the approval of the Governor.
+          (h)  Contributions or
+gifts.  Except as otherwise provided in paragraph (p) of this subsection or
+subsection (3)(a) of this section for individuals, contributions or gifts made by
+corporations within the taxable year to corporations, organizations, associations
+or institutions, including Community Chest funds, foundations and trusts created
+solely and exclusively for religious, charitable, scientific or educational purposes,
+or for the prevention of cruelty to children or animals, no part of the net earnings
+of which inure to the benefit of any private stockholder or individual.  This deduction
+shall be allowed in an amount not to exceed twenty percent (20%) of the net income. 
+Such contributions or gifts shall be allowable as deductions only if verified under
+rules and regulations prescribed by the commissioner, with the approval of the Governor. 
+Contributions made in any form other than cash shall be allowed as a deduction,
+subject to the limitations herein provided, in an amount equal to the actual market
+value of the contributions at the time the contribution is actually made and consummated.
+          (i)  Reserve funds -
+insurance companies.  In the case of insurance companies the net additions required
+by law to be made within the taxable year to reserve funds when such reserve funds
+are maintained for the purpose of liquidating policies at maturity.
+          (j)  Annuity income. 
+The sums, other than dividends, paid within the taxpayer year on policy or annuity
+contracts when such income has been included in gross income.
+          (k)  Contributions to
+employee pension plans.  Contributions made by an employer to a plan or a trust
+forming part of a pension plan, stock bonus plan, disability or death-benefit plan,
+or profit-sharing plan of such employer for the exclusive benefit of some or all
+of his, their, or its employees, or their beneficiaries, shall be deductible from
+his, their, or its income only to the extent that, and for the taxable year in which,
+the contribution is deductible for federal income tax purposes under the Internal
+Revenue Code of 1986 and any other provisions of similar purport in the Internal
+Revenue Laws of the United States, and the rules, regulations, rulings and determinations
+promulgated thereunder, provided that:
+              (i)  The plan or trust
+be irrevocable.
+               (ii)  The plan or trust
+constitute a part of a pension plan, stock bonus plan, disability or death-benefit
+plan, or profit-sharing plan for the exclusive benefit of some or all of the employer's
+employees and/or officers, or their beneficiaries, for the purpose of distributing
+the corpus and income of the plan or trust to such employees and/or officers, or
+their beneficiaries.
+              (iii)  No part of the
+corpus or income of the plan or trust can be used for purposes other than for the
+exclusive benefit of employees and/or officers, or their beneficiaries.
+     Contributions to all plans or
+to all trusts of real or personal property (or real and personal property combined)
+or to insured plans created under a retirement plan for which provision has been
+made under the laws of the United States of America, making such contributions deductible
+from income for federal income tax purposes, shall be deductible only to the same
+extent under the Income Tax Laws of the State of Mississippi.
+          (l)  Net operating loss
+carrybacks and carryovers.  A net operating loss for any taxable year ending
+after December 31, 1993, and taxable years thereafter, shall be a net operating
+loss carryback to each of the three (3) taxable years preceding the taxable year
+of the loss.  If the net operating loss for any taxable year is not exhausted by
+carrybacks to the three (3) taxable years preceding the taxable year of the loss,
+then there shall be a net operating loss carryover to each of the fifteen (15) taxable
+years following the taxable year of the loss beginning with any taxable year after
+December 31, 1991.
+     For any taxable year ending after
+December 31, 1997, the period for net operating loss carrybacks and net operating
+loss carryovers shall be the same as those established by the Internal Revenue Code
+and the rules, regulations, rulings and determinations promulgated thereunder as
+in effect at the taxable year end or on December 31, 2000, whichever is earlier.
+     A net operating loss for any
+taxable year ending after December 31, 2001, and taxable years thereafter, shall
+be a net operating loss carryback to each of the two (2) taxable years preceding
+the taxable year of the loss.  If the net operating loss for any taxable year is
+not exhausted by carrybacks to the two (2) taxable years preceding the taxable year
+of the loss, then there shall be a net operating loss carryover to each of the twenty
+(20) taxable years following the taxable year of the loss beginning with any taxable
+year after the taxable year of the loss.
+     The term "net operating
+loss," for the purposes of this paragraph, shall be the excess of the deductions
+allowed over the gross income; provided, however, the following deductions shall
+not be allowed in computing same:
+               (i)  No net operating
+loss deduction shall be allowed.
+              (ii)  No personal exemption
+deduction shall be allowed.
+              (iii)  Allowable deductions
+which are not attributable to taxpayer's trade or business shall be allowed only
+to the extent of the amount of gross income not derived from such trade or business.
+     Any taxpayer entitled to a carryback
+period as provided by this paragraph may elect to relinquish the entire carryback
+period with respect to a net operating loss for any taxable year ending after December
+31, 1991.  The election shall be made in the manner prescribed by the Department
+of Revenue and shall be made by the due date, including extensions of time, for
+filing the taxpayer's return for the taxable year of the net operating loss for
+which the election is to be in effect.  The election, once made for any taxable
+year, shall be irrevocable for that taxable year.
+          (m)  Amortization of
+pollution or environmental control facilities.  Allowance of deduction.  Every
+taxpayer, at his election, shall be entitled to a deduction for pollution or environmental
+control facilities to the same extent as that allowed under the Internal Revenue
+Code and the rules, regulations, rulings and determinations promulgated thereunder.
+          (n)  Dividend distributions
+- real estate investment trusts.  "Real estate investment trust" (hereinafter
+referred to as REIT) shall have the meaning ascribed to such term in Section 856
+of the federal Internal Revenue Code of 1986, as amended.  A REIT is allowed a dividend
+distributed deduction if the dividend distributions meet the requirements of Section
+857 or are otherwise deductible under Section 858 or 860, federal Internal Revenue
+Code of 1986, as amended.  In addition:
+              (i)  A dividend distributed
+deduction shall only be allowed for dividends paid by a publicly traded REIT.  A
+qualified REIT subsidiary shall be allowed a dividend distributed deduction if its
+owner is a publicly traded REIT.
+              (ii)  Income generated
+from real estate contributed or sold to a REIT by a shareholder or related party
+shall not give rise to a dividend distributed deduction, unless the shareholder
+or related party would have received the dividend distributed deduction under this
+chapter.
+              (iii)  A holding corporation
+receiving a dividend from a REIT shall not be allowed the deduction in Section 27-7-15(4)(t).
+              (iv)  Any REIT not allowed
+the dividend distributed deduction in the federal Internal Revenue Code of 1986,
+as amended, shall not be allowed a dividend distributed deduction under this chapter.
+     The commissioner is authorized
+to promulgate rules and regulations consistent with the provisions in Section 269
+of the federal Internal Revenue Code of 1986, as amended, so as to prevent the evasion
+or avoidance of state income tax.
+          (o)  Contributions to
+college savings trust fund accounts.  Contributions or payments to a Mississippi
+Affordable College Savings Program account are deductible as provided under Section
+37-155-113.  Payments made under a prepaid tuition contract entered into under the
+Mississippi Prepaid Affordable College Tuition Program are deductible as provided
+under Section 37-155-17.
+          (p)  Contributions of
+human pharmaceutical products.  To the extent that a "major supplier"
+as defined in Section 27-13-13(2)(d) contributes human pharmaceutical products in
+excess of Two Hundred Fifty Million Dollars ($250,000,000.00) as determined under
+Section 170 of the Internal Revenue Code, the charitable contribution limitation
+associated with those donations shall follow the federal limitation but cannot result
+in the Mississippi net income being reduced below zero.
+          (q)  Contributions to
+ABLE trust fund accounts.  Contributions or payments to a Mississippi Achieving
+a Better Life Experience (ABLE) Program account are deductible as provided under
+Section 43-28-13.
+     (2)  Restrictions on the deductibility
+of certain intangible expenses and interest expenses with a related member.
+          (a)  As used in this subsection
+(2):
+              (i)  "Intangible
+expenses and costs" include:
+                   1.  Expenses, losses
+and costs for, related to, or in connection directly or indirectly with the direct
+or indirect acquisition, use, maintenance or management, ownership, sale, exchange
+or any other disposition of intangible property to the extent such amounts are allowed
+as deductions or costs in determining taxable income under this chapter;
+                   2.  Expenses or
+losses related to or incurred in connection directly or indirectly with factoring
+transactions or discounting transactions;
+                    3.  Royalty, patent,
+technical and copyright fees;
+                    4.  Licensing
+fees; and 
+                   5.  Other similar
+expenses and costs.
+               (ii)  "Intangible
+property" means patents, patent applications, trade names, trademarks, service
+marks, copyrights and similar types of intangible assets.
+              (iii)  "Interest
+expenses and cost" means amounts directly or indirectly allowed as deductions
+for purposes of determining taxable income under this chapter to the extent such
+interest expenses and costs are directly or indirectly for, related to, or in connection
+with the direct or indirect acquisition, maintenance, management, ownership, sale,
+exchange or disposition of intangible property.
+              (iv)  "Related
+member" means an entity or person that, with respect to the taxpayer during
+all or any portion of the taxable year, is a related entity, a component member
+as defined in the Internal Revenue Code, or is an entity or a person to or from
+whom there is attribution of stock ownership in accordance with Section 1563(e)
+of the Internal Revenue Code.
+               (v)  "Related
+entity" means:
+                    1.  A stockholder
+who is an individual or a member of the stockholder's family, as defined in regulations
+prescribed by the commissioner, if the stockholder and the members of the stockholder's
+family own, directly, indirectly, beneficially or constructively, in the aggregate,
+at least fifty percent (50%) of the value of the taxpayer's outstanding stock;
+                   2.  A stockholder,
+or a stockholder's partnership, limited liability company, estate, trust or corporation,
+if the stockholder and the stockholder's partnerships, limited liability companies,
+estates, trusts and corporations own, directly, indirectly, beneficially or constructively,
+in the aggregate, at least fifty percent (50%) of the value of the taxpayer's outstanding
+stock;
+                   3.  A corporation,
+or a party related to the corporation in a manner that would require an attribution
+of stock from the corporation to the party or from the party to the corporation,
+if the taxpayer owns, directly, indirectly, beneficially or constructively, at least
+fifty percent (50%) of the value of the corporation's outstanding stock under regulation
+prescribed by the commissioner;
+                   4.  Any entity
+or person which would be a related member under this section if the taxpayer were
+considered a corporation for purposes of this section.
+          (b)  In computing net income,
+a taxpayer shall add back otherwise deductible interest expenses and costs and intangible
+expenses and costs directly or indirectly paid, accrued to or incurred, in connection
+directly or indirectly with one or more direct or indirect transactions with one
+or more related members.
+          (c)  The adjustments required
+by this subsection shall not apply to such portion of interest expenses and costs
+and intangible expenses and costs that the taxpayer can establish meets one (1)
+of the following:
+              (i)  The related member
+directly or indirectly paid, accrued or incurred such portion to a person during
+the same income year who is not a related member; or
+              (ii)  The transaction
+giving rise to the interest expenses and costs or intangible expenses and costs
+between the taxpayer and related member was done primarily for a valid business
+purpose other than the avoidance of taxes, and the related member is not primarily
+engaged in the acquisition, use, maintenance or management, ownership, sale, exchange
+or any other disposition of intangible property.
+          (d)  Nothing in this subsection
+shall require a taxpayer to add to its net income more than once any amount of interest
+expenses and costs or intangible expenses and costs that the taxpayer pays, accrues
+or incurs to a related member.
+          (e)  The commissioner may
+prescribe such regulations as necessary or appropriate to carry out the purposes
+of this subsection, including, but not limited to, clarifying definitions of terms,
+rules of stock attribution, factoring and discount transactions.
+     (3)  Individual nonbusiness
+deductions.
+          (a)  The amount allowable
+for individual nonbusiness itemized deductions for federal income tax purposes where
+the individual is eligible to elect, for the taxable year, to itemize deductions
+on his federal return except the following:
+              (i)  The deduction for
+state income taxes paid or other taxes allowed for federal purposes in lieu of state
+income taxes paid;
+              (ii)  The deduction
+for gaming losses from gaming establishments;
+              (iii)  The deduction
+for taxes collected by licensed gaming establishments pursuant to Section
+27-7-901;
+              (iv)  The deduction
+for taxes collected by gaming establishments pursuant to Section 27-7-903 * * *.; and
+               (v)  The deduction
+for medical expenses for the provision of gender transition procedures as defined
+in Section 2 of this act.
+          (b)  In lieu of the individual
+nonbusiness itemized deductions authorized in paragraph (a), for all purposes other
+than ordinary and necessary expenses paid or incurred during the taxable year in
+carrying on any trade or business, an optional standard deduction of:
+              (i)  Three Thousand
+Four Hundred Dollars ($3,400.00) through calendar year 1997, Four Thousand Two Hundred
+Dollars ($4,200.00) for the calendar year 1998 and Four Thousand Six Hundred Dollars
+($4,600.00) for each calendar year thereafter in the case of married individuals
+filing a joint or combined return;
+              (ii)  One Thousand Seven
+Hundred Dollars ($1,700.00) through calendar year 1997, Two Thousand One Hundred
+Dollars ($2,100.00) for the calendar year 1998 and Two Thousand Three Hundred Dollars
+($2,300.00) for each calendar year thereafter in the case of married individuals
+filing separate returns;
+              (iii)  Three Thousand
+Four Hundred Dollars ($3,400.00) in the case of a head of family; or
+               (iv)  Two Thousand
+Three Hundred Dollars ($2,300.00) in the case of an individual who is not married.
+     In the case of a husband and
+wife living together, having separate incomes, and filing combined returns, the
+standard deduction authorized may be divided in any manner they choose.  In the
+case of separate returns by a husband and wife, the standard deduction shall not
+be allowed to either if the taxable income of one of the spouses is determined without
+regard to the standard deduction.
+          (c)  A nonresident individual
+shall be allowed the same individual nonbusiness deductions as are authorized for
+resident individuals in paragraph (a) or (b) of this subsection; however, the nonresident
+individual is entitled only to that proportion of the individual nonbusiness deductions
+as his net income from sources within the State of Mississippi bears to his total
+or entire net income from all sources.
+     (4)  Nothing in this section
+shall permit the same item to be deducted more than once, either in fact or in effect.
+     (5)  Notwithstanding
+any other provision in Title 27, Mississippi Code of 1972, there shall be allowed
+an income tax deduction for otherwise deductible expenses if:
+          (a)  The payment(s) for
+such deductible expenses are made with the grant or loan program of the Paycheck
+Protection Program as authorized under (i) the Coronavirus Aid, Relief, and Economic
+Security (CARES) Act and the Consolidated Appropriations Act of 2021, (ii) the COVID-19
+Economic Injury Disaster Loan Program, (iii) the 2020 COVID-19 Mississippi Business
+Assistance Act, (iv) the Rental Assistance Grant Program, (v) the Shuttered Venue
+Operators Grant Program and Restaurant Revitalization Fund authorized by the Economic
+Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and amended by the
+federal American Rescue Plan Act, and/or (vi) the Mississippi Agriculture Stabilization
+Act; and
+          (b)  Such deductible expenses
+shall be allowed as deductions for federal income tax purposes.
+     SECTION 7.  The
+following shall be codified as Section 43-13-117.7, Mississippi Code of 1972:
+     43-13-117.7.  Notwithstanding
+any other provisions of Section 43-13-117, the division
+shall not reimburse or provide coverage for gender transition procedures for a person
+under eighteen (18) years of age.  As used in this section, the term "gender
+transition procedures" means the same as defined in Section 2 of this act.
+     SECTION 8.  Section
+73-15-29, Mississippi Code of 1972, is amended as follows:
+     73-15-29.  (1)  The board shall
+have power to revoke, suspend or refuse to renew any license issued by the board,
+or to revoke or suspend any privilege to practice, or to deny an application for
+a license, or to fine, place on probation and/or discipline a licensee, in any manner
+specified in this article, upon proof that such person:
+          (a)  Has committed fraud
+or deceit in securing or attempting to secure such license;
+          (b)  Has been convicted
+of a felony, or a crime involving moral turpitude or has had accepted by a court
+a plea of nolo contendere to a felony or a crime involving moral turpitude (a certified
+copy of the judgment of the court of competent jurisdiction of such conviction or
+pleas shall be prima facie evidence of such conviction);
+          (c)  Has negligently or
+willfully acted in a manner inconsistent with the health or safety of the persons
+under the licensee's care;
+          (d)  Has had a license or
+privilege to practice as a registered nurse or a licensed practical nurse suspended
+or revoked in any jurisdiction, has voluntarily surrendered such license or privilege
+to practice in any jurisdiction, has been placed on probation as a registered nurse
+or licensed practical nurse in any jurisdiction or has been placed under a disciplinary
+order(s) in any manner as a registered nurse or licensed practical nurse in any
+jurisdiction, (a certified copy of the order of suspension, revocation, probation
+or disciplinary action shall be prima facie evidence of such action);
+          (e)  Has negligently or
+willfully practiced nursing in a manner that fails to meet generally accepted standards
+of such nursing practice;
+          (f)  Has negligently or
+willfully violated any order, rule or regulation of the board pertaining to nursing
+practice or licensure;
+          (g)  Has falsified or in
+a repeatedly negligent manner made incorrect entries or failed to make essential
+entries on records;
+          (h)  Is addicted to or dependent
+on alcohol or other habit-forming drugs or is a habitual user of narcotics, barbiturates,
+amphetamines, hallucinogens, or other drugs having similar effect, or has misappropriated
+any medication;
+          (i)  Has a physical, mental
+or emotional condition that renders the licensee unable to perform nursing services
+or duties with reasonable skill and safety;
+          (j)  Has engaged in any
+other conduct, whether of the same or of a different character from that specified
+in this article, that would constitute a crime as defined in Title 97 of the Mississippi
+Code of 1972, as now or hereafter amended, and that relates to such person's employment
+as a registered nurse or licensed practical nurse;
+          (k)  Engages in conduct
+likely to deceive, defraud or harm the public;
+          (l)  Engages in any unprofessional
+conduct as identified by the board in its rules;
+          (m)  Has violated any provision
+of this article; * * *or
+          (n)  Violation(s) of the
+provisions of Sections 41-121-1 through 41-121-9 relating to deceptive advertisement
+by health care practitioners.  This paragraph shall stand repealed on July 1, 2025 * * *.; or
+          (o)  Violation(s) of
+any provision of Sections 1 through 6 of this act.
+     (2)  When the board finds any
+person unqualified because of any of the grounds set forth in subsection (1) of
+this section, it may enter an order imposing one or more of the following penalties:
+          (a)  Denying application
+for a license or other authorization to practice nursing or practical nursing;
+          (b)  Administering a reprimand;
+          (c)  Suspending or restricting
+the license or other authorization to practice as a registered nurse or licensed
+practical nurse for up to two (2) years without review;
+          (d)  Revoking the license
+or other authorization to practice nursing or practical nursing;
+          (e)  Requiring the disciplinee
+to submit to care, counseling or treatment by persons and/or agencies approved or
+designated by the board as a condition for initial, continued or renewed licensure
+or other authorization to practice nursing or practical nursing;
+          (f)  Requiring the disciplinee
+to participate in a program of education prescribed by the board as a condition
+for initial, continued or renewed licensure or other authorization to practice;
+          (g)  Requiring the disciplinee
+to practice under the supervision of a registered nurse for a specified period of
+time; or
+          (h)  Imposing a fine not
+to exceed Five Hundred Dollars ($500.00).
+     (3)  In addition to the grounds
+specified in subsection (1) of this section, the board shall be authorized to suspend
+the license or privilege to practice of any licensee for being out of compliance
+with an order for support, as defined in Section 93-11-153.  The procedure for suspension
+of a license or privilege to practice for being out of compliance with an order
+for support, and the procedure for the reissuance or reinstatement of a license
+or privilege to practice suspended for that purpose, and the payment of any fees
+for the reissuance or reinstatement of a license or privilege to practice suspended
+for that purpose, shall be governed by Section 93-11-157 or 93-11-163, as the case
+may be.  If there is any conflict between any provision of Section 93-11-157 or
+93-11-163 and any provision of this article, the provisions of Section 93-11-157
+or 93-11-163, as the case may be, shall control.
+     (4)  If the public health, safety
+or welfare imperatively requires emergency action and the board incorporates a finding
+to that effect in an order, the board may order summary suspension of a license
+pending proceedings for revocation or other action.  These proceedings shall be
+promptly instituted and determined by the board.
+     (5)  The board may establish
+by rule an alternative to discipline program for licensees who have an impairment
+as a result of substance abuse or a mental health condition, which program shall
+include at least the following components:
+          (a)  Participation in the
+program is voluntary with the licensee, and the licensee must enter the program
+before the board holds a disciplinary action hearing regarding the licensee;
+          (b)  The full cost of participation
+in the program, including the cost of any care, counseling, treatment and/or education
+received by the licensee, shall be borne by the licensee;
+          (c)  All of the procedures
+and records regarding the licensee's participation in the program shall be confidential,
+shall not be disclosed and shall be exempt from the provisions of the Mississippi
+Public Records Act of 1983; and
+          (d)  A licensee may not
+participate in the program more often than one (1) time during any period of five
+(5) years or such longer period as set by the board.
+     (6)  A nurse practitioner who
+provides a written certification as authorized under the Mississippi Medical Cannabis
+Act and in compliance with rules and regulations adopted thereunder shall not be
+subject to any disciplinary action under this section solely due to providing the
+written certification.
+     SECTION 9.  Section
+73-25-29, Mississippi Code of 1972, is amended as follows:
+     73-25-29.  The grounds for the
+nonissuance, suspension, revocation or restriction of a license or the denial of
+reinstatement or renewal of a license are:
+          (1)  Habitual personal use
+of narcotic drugs, or any other drug having addiction-forming or addiction-sustaining
+liability.
+          (2)  Habitual use of intoxicating
+liquors, or any beverage, to an extent which affects professional competency.
+          (3)  Administering, dispensing
+or prescribing any narcotic drug, or any other drug having addiction-forming or
+addiction-sustaining liability otherwise than in the course of legitimate professional
+practice.
+          (4)  Conviction of violation
+of any federal or state law regulating the possession, distribution or use of any
+narcotic drug or any drug considered a controlled substance under state or federal
+law, a certified copy of the conviction order or judgment rendered by the trial
+court being prima facie evidence thereof, notwithstanding the pendency of any appeal.
+          (5)  Procuring, or attempting
+to procure, or aiding in, an abortion that is not medically indicated.
+          (6)  Conviction of a felony
+or misdemeanor involving moral turpitude, a certified copy of the conviction order
+or judgment rendered by the trial court being prima facie evidence thereof, notwithstanding
+the pendency of any appeal.
+          (7)  Obtaining or attempting
+to obtain a license by fraud or deception.
+          (8)  Unprofessional conduct,
+which includes, but is not limited to:
+              (a)  Practicing medicine
+under a false or assumed name or impersonating another practitioner, living or dead.
+              (b)  Knowingly performing
+any act which in any way assists an unlicensed person to practice medicine.
+               (c)  Making or willfully
+causing to be made any flamboyant claims concerning the licensee's professional
+excellence.
+              (d)  Being guilty of
+any dishonorable or unethical conduct likely to deceive, defraud or harm the public.
+              (e)  Obtaining a fee
+as personal compensation or gain from a person on fraudulent representation of a
+disease or injury condition generally considered incurable by competent medical
+authority in the light of current scientific knowledge and practice can be cured
+or offering, undertaking, attempting or agreeing to cure or treat the same by a
+secret method, which he refuses to divulge to the board upon request.
+              (f)  Use of any false,
+fraudulent or forged statement or document, or the use of any fraudulent, deceitful,
+dishonest or immoral practice in connection with any of the licensing requirements,
+including the signing in his professional capacity any certificate that is known
+to be false at the time he makes or signs such certificate.
+              (g)  Failing to identify
+a physician's school of practice in all professional uses of his name by use of
+his earned degree or a description of his school of practice.
+          (9)  The refusal of a licensing
+authority of another state or jurisdiction to issue or renew a license, permit or
+certificate to practice medicine in that jurisdiction or the revocation, suspension
+or other restriction imposed on a license, permit or certificate issued by such
+licensing authority which prevents or restricts practice in that jurisdiction, a
+certified copy of the disciplinary order or action taken by the other state or jurisdiction
+being prima facie evidence thereof, notwithstanding the pendency of any appeal.
+          (10)  Surrender of a license
+or authorization to practice medicine in another state or jurisdiction or surrender
+of membership on any medical staff or in any medical or professional association
+or society while under disciplinary investigation by any of those authorities or
+bodies for acts or conduct similar to acts or conduct which would constitute grounds
+for action as defined in this section.
+          (11)  Final sanctions imposed
+by the United States Department of Health and Human Services, Office of Inspector
+General or any successor federal agency or office, based upon a finding of incompetency,
+gross misconduct or failure to meet professionally recognized standards of health
+care; a certified copy of the notice of final sanction being prima facie evidence
+thereof.  As used in this paragraph, the term "final sanction" means the
+written notice to a physician from the United States Department of Health and Human
+Services, Officer of Inspector General or any successor federal agency or office,
+which implements the exclusion.
+          (12)  Failure to furnish
+the board, its investigators or representatives information legally requested by
+the board.
+          (13)  Violation of any provision(s)
+of the Medical Practice Act or the rules and regulations of the board or of any
+order, stipulation or agreement with the board.
+          (14)  Violation(s) of the
+provisions of Sections 41-121-1 through 41-121-9 relating to deceptive advertisement
+by health care practitioners.
+          (15)  Performing or inducing
+an abortion on a woman in violation of any provision of Sections 41-41-131 through
+41-41-145.
+          (16)  Performing an abortion
+on a pregnant woman after determining that the unborn human individual that the
+pregnant woman is carrying has a detectable fetal heartbeat as provided in Section
+41-41-34.1.
+          (17)  Violation(s) of
+any provision of Sections 1 through 6 of this act.
+     In addition to the grounds specified
+above, the board shall be authorized to suspend the license of any licensee for
+being out of compliance with an order for support, as defined in Section 93-11-153. 
+The procedure for suspension of a license for being out of compliance with an order
+for support, and the procedure for the reissuance or reinstatement of a license
+suspended for that purpose, and the payment of any fees for the reissuance or reinstatement
+of a license suspended for that purpose, shall be governed by Section 93-11-157
+or 93-11-163, as the case may be.  If there is any conflict between any provision
+of Section 93-11-157 or 93-11-163 and any provision of this chapter, the provisions
+of Section 93-11-157 or 93-11-163, as the case may be, shall control. 
+     A physician who provides a written
+certification as authorized under the Mississippi Medical Cannabis Act and in compliance
+with rules and regulations adopted thereunder shall not be subject to any disciplinary
+action under this section solely due to providing the written certification.
+     SECTION 10.  Section
+73-25-33, Mississippi Code of 1972, is amended as follows:
+     73-25-33.  (1)  The
+practice of medicine shall mean to suggest, recommend, prescribe, or direct for
+the use of any person, any drug, medicine, appliance, or other agency, whether material
+or not material, for the cure, relief, or palliation of any ailment or disease
+of the mind or body, or for the cure or relief of any wound or fracture or
+other bodily injury or deformity, or the practice of obstetrics or midwifery,
+after having received, or with the intent of receiving therefor, either
+directly or indirectly, any bonus, gift, profit or compensation; provided, that
+nothing in this section shall apply to females engaged solely in the practice of
+midwifery.
+     (2)  The practice of medicine
+shall not mean to provide gender transition procedures for any person under eighteen
+(18) years of age; or
+     (3)  For purposes of this
+section, "gender transition procedures" means the same as defined in Section
+2 of this act.
+     SECTION 11.  Section
+83-9-22, Mississippi Code of 1972, is amended as follows:
+     83-9-22.  (1)  (a)  Notwithstanding
+any other provision of the law to the contrary, except as otherwise provided in
+subsections (3) and (4) of this section, no health coverage plan shall
+restrict coverage for medically appropriate treatment prescribed by a physician
+and agreed to by a fully informed insured, or if the insured lacks legal capacity
+to consent by a person who has legal authority to consent on his or her behalf,
+based on an insured's diagnosis with a terminal condition.  Refusing to pay for
+treatment rendered to an insured near the end of life that is consistent with best
+practices for treatment of a disease or condition, approved uses of a drug or device,
+or uses supported by peer reviewed medical literature, is a per se violation of
+this section.
+          (b)  Violations of this
+section shall constitute an unfair trade practice and subject the violator to the
+penalties provided by law.
+          (c)  As used in this section
+"terminal condition" means any aggressive malignancy, chronic end-stage
+cardiovascular or cerebral vascular disease, or any other disease, illness or condition
+which a physician diagnoses as terminal.
+          (d)  As used in this section,
+a "health coverage plan" shall mean any hospital, health or medical expense
+insurance policy, hospital or medical service contract, employee welfare benefit
+plan, contract or agreement with a health maintenance organization or a preferred
+provider organization, health and accident insurance policy, or any other insurance
+contract of this type, including a group insurance plan and the State Health and
+Life Insurance Plan.
+     (2)  (a)  Notwithstanding any
+other provision of the law to the contrary, no health benefit paid directly or indirectly
+with state funds, specifically Medicaid, shall restrict coverage for medically appropriate
+treatment prescribed by a physician and agreed to by a fully informed individual,
+or if the individual lacks legal capacity to consent by a person who has legal authority
+to consent on his or her behalf, based on an individual's diagnosis with a terminal
+condition.
+          (b)  Refusing to pay for
+treatment rendered to an individual near the end of life that is consistent with
+best practices for treatment of a disease or condition, approved uses of a drug
+or device, or uses supported by peer reviewed medical literature, is a per se violation
+of this section.
+          (c)  As used in this section
+"terminal condition" means any aggressive malignancy, chronic end-stage
+cardiovascular or cerebral vascular disease, or any other disease, illness or condition
+which a physician diagnoses as terminal. 
+     (3)  This section does not require
+a health coverage plan to cover and pay for the treatment of a person who is a cardholder
+and registered qualifying patient with medical cannabis that is lawful under the
+Mississippi Medical Cannabis Act and in compliance with rules and regulations adopted
+thereunder.
+     (4)  This section does not
+require a health coverage plan to provide coverage for gender transition
+procedures for a person under eighteen (18) years of age.  As used in this
+section, the term "gender transition procedures" means the same as
+defined in Section 2 of this act.
+     SECTION 12.  The
+following shall be codified as Section 83-9-37, Mississippi Code of 1972:
+     83-9-37.  (1)  As used in this section, the term "gender transition
+procedures" means the same as defined in Section 2 of this act.
+     (2)  A
+health benefit plan under an insurance policy or other plan providing health care
+coverage in this state shall not include reimbursement for gender transition procedures
+for a person under eighteen (18) years of age.
+     (3)  A health benefit plan
+under an insurance policy or other plan providing health care coverage in this
+state is not required to provide coverage for gender transition procedures for
+a person under eighteen (18) years of age.
+     SECTION 13.  Section
+11-46-5, Mississippi Code of 1972, is amended as follows:
+     11-46-5.  (1) 
+Notwithstanding the immunity granted in Section 11-46-3, or the provisions of
+any other law to the contrary, the immunity of the state and its political
+subdivisions from claims for money damages arising out of the torts of such
+governmental entities and the torts of their employees while acting within the
+course and scope of their employment is hereby waived from and after July 1,
+1993, as to the state, and from and after October 1, 1993, as to political
+subdivisions; provided, however, immunity of a governmental entity in any such
+case shall be waived only to the extent of the maximum amount of liability
+provided for in Section 11-46-15.
+     (2)  For the purposes of
+this chapter an employee shall not be considered as acting within the course and
+scope of his employment and a governmental entity shall not be liable or be
+considered to have waived immunity for any conduct of its employee if the
+employee's conduct constituted fraud, malice, libel, slander, defamation or any
+criminal offense other than traffic violations.
+     (3)  For the purposes of
+this chapter and not otherwise, it shall be a rebuttable presumption that any
+act or omission of an employee within the time and at the place of his
+employment is within the course and scope of his employment, except for actions
+described in subsection (2) of Section 73-25-33 and subsection (5) of this section.
+     (4)  Nothing contained in
+this chapter shall be construed to waive the immunity of the state from suit in
+federal courts guaranteed by the Eleventh Amendment to the Constitution of the
+United States.
+     (5)  For purposes of this
+chapter, an employee shall not be considered as acting within the course and
+scope of his or her employment and a governmental entity shall be liable or be considered
+to have waived immunity for any conduct of its employee if the employee's
+conduct constituted a violation of this act.
+     SECTION 14.  Section
+41-41-219, Mississippi Code of 1972, is amended as follows:
+     41-41-219.  (1)  Except as
+otherwise provided in this act, a health-care provider or institution
+acting in good faith and in accordance with generally accepted health-care
+standards applicable to the health-care provider or institution is not subject
+to civil or criminal liability or to discipline for unprofessional conduct for:
+          (a)  Complying with a
+health-care decision of a person apparently having authority to make a health-care
+decision for a patient, including a decision to withhold or withdraw health care;
+          (b)  Declining to comply
+with a health-care decision of a person based on a belief that the person then
+lacked authority; or
+          (c)  Complying with an
+advance health-care directive and  assuming that the directive was valid when
+made and has not been revoked or terminated.
+     (2)  An individual acting as
+agent or surrogate under Sections 41-41-201 through 41-41-229 is not subject to
+civil or criminal liability or to discipline for unprofessional conduct for
+health-care decisions made in good faith.
+     SECTION 15.  If any
+section, paragraph, sentence, clause, phrase or any part of this act passed on
+or after the effective date of this act is declared to be unconstitutional or
+void, or if for any reason is declared to be invalid or of no effect, the remaining
+sections, paragraphs, sentences, clauses, phrases or parts of this act shall be
+in no manner affected thereby but shall remain in full force and effect.
+     Unless the contrary intent
+shall clearly appear in the particular act in question, each and every act
+passed hereafter shall be read and construed as though the provisions of the
+first paragraph of this section form an integral part thereof, whether
+expressly set out therein or not.
+     SECTION 16.  This act
+shall take effect and be in force from and after its passage.
+
+
+
+

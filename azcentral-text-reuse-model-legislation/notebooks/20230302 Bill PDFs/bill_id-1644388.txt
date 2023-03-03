@@ -1,0 +1,660 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+House Bill No. 1139 - Sixty-eighth Legislative Assembly of North Dakota - LC Number 23.0079.01000
+
+
+23.0079.01000
+
+Sixty-eighth
+Legislative Assembly
+of North Dakota
+
+Introduced by
+
+Representatives Satrom, S. Olson, Schauer, Strinden
+
+Senators Clemens, Conley, Rust
+
+A BILL for an Act to amend and reenact sections 23-02.1-01, 23-02.1-13, and 23-02.1-15 of the 
+
+North Dakota Century Code, relating to required elements of birth records.
+
+BE IT ENACTED BY THE LEGISLATIVE ASSEMBLY OF NORTH DAKOTA:
+
+SECTION 1. AMENDMENT. Section 23-02.1-01 of the North Dakota Century Code is 
+
+amended and reenacted as follows:
+
+23-02.1-01. Definitions. 
+
+As used in this chapter:
+
+1. "Authorized representative" means a person that has the legal authority to act on 
+
+behalf of the person named on a record, including a personal representative or 
+
+guardian.
+
+2. "Birth record" means a record reporting a   live   birth which includes the biological sex   
+
+designation, which must be either male or female and may not be nonbinary or any 
+
+symbol representing a nonbinary designation.
+
+3. "Certified" means a copy of the original record on file with the department of health 
+
+and human services which is signed and sealed by the state registrar or deputy state 
+
+registrar.
+
+3.4. "Dead body" means a lifeless human body or parts of such body or bones thereof from 
+
+the state of which it may reasonably be concluded that death recently occurred.
+
+4.5. "Electronic birth registration system" means the electronic birth registration system 
+
+maintained by the department of health and human services.
+
+5.6. "Electronic death registration system" means the electronic death registration system 
+
+maintained by the department of health and human services.
+
+6.7. "Facts of death" means the demographic and personal information pertaining to an 
+
+individual's death.
+
+Page No. 1 23.0079.01000
+
+ HOUSE BILL NO. 1139
+
+    
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+
+
+Sixty-eighth
+Legislative Assembly
+
+7.8. "Fetal death" or "birth resulting in stillbirth" means death occurring before the complete 
+
+expulsion or extraction from its mother of a product of human conception. The death is 
+
+indicated by the fact that after such expulsion or extraction the fetus does not breathe 
+
+or show any evidence of life such as beating of the heart, pulsation of the umbilical 
+
+cord, or definite movement of voluntary muscles.
+
+8.9. "Filing" means the presentation of a record, report, or other information provided for in 
+
+this chapter of a birth, death, fetal death, adoption, marriage, divorce, or other event 
+
+as specified by the state health officer for registration by the state registrar.
+
+9.10. "Final disposition" means the entombment, burial, interment, cremation, whole-body 
+
+donation to a school of medicine, removal from the state, or other disposition of a dead 
+
+body or fetus.
+
+10.11. "Health statistics" means data derived from records of birth, death, fetal death, 
+
+marriage, divorce, or other records relating to the health of the populace or the state of 
+
+the environment.
+
+11.12. "Institution" means any establishment, public or private, which provides inpatient 
+
+medical, surgical, or diagnostic care or treatment, or nursing, custodial, or domiciliary 
+
+care to two or more individuals unrelated by blood, or to which individuals are 
+
+committed by law.
+
+12.13. "Live birth" means the complete expulsion or extraction from its mother of a product of 
+
+human conception, irrespectiveregardless of the duration of pregnancy, which after 
+
+such expulsion or extraction, breathes or shows any other evidence of life such as 
+
+beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary 
+
+muscles, whether or not the umbilical cord has been cut or the placenta is attached.
+
+13.14. "Medical certification" means the medical information pertaining to an individual's 
+
+death, including the cause and manner of death.
+
+14.15. "Miscarriage of birth" means the expulsion of a fetus from the womb, spontaneously or 
+
+as a result of an accident, before twenty weeks gestation.
+
+15.16. "Personal or real property interests" means ownership or other legal rights or duties 
+
+concerning personal or real property.
+
+16.17. "Physician" means an individual authorized or licensed to practice medicine or 
+
+osteopathy under chapter 43-17.
+
+Page No. 2 23.0079.01000
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+
+
+Sixty-eighth
+Legislative Assembly
+
+17.18. "Registration" means the acceptance by the state registrar and incorporation into 
+
+official records, reports, or other records provided for in this chapter, of birth, death, 
+
+fetal death, marriage, divorce, or other records as may be determined by the state 
+
+health officer.
+
+18.19. "Relative" means an individual's current or surviving spouse, a parent or legal 
+
+guardian, a child, a grandparent, or a grandchild. The state registrar may require proof 
+
+of the relationship.
+
+19.20. "Subregistrar" means a funeral practitioner or other suitable individual from a licensed 
+
+funeral home who is appointed by the state registrar for the purpose of issuing final 
+
+disposition-transit permits.
+
+20.21. "System of health statistics tabulation and analysis" includes the tabulation, analysis, 
+
+and presentation or publication of statistical data derived from health statistics.
+
+21.22. "System of vital records registration" includes the registration, collection, preservation, 
+
+amendment, and certification of birth, death, fetal death, marriage, divorce, or other 
+
+records as may be determined necessary by the state health officer or the state health 
+
+officer's designee.
+
+SECTION 2. AMENDMENT. Section 23-02.1-13 of the North Dakota Century Code is 
+
+amended and reenacted as follows:
+
+23-02.1-13. Birth registration. 
+
+1. A birth record for each live birth that occurs in this state must be filed with the state 
+
+registrar.
+
+2. WhenIf a birth occurs in an institution, the person in charge of the institution or a 
+
+designated representative mustshall use the department of health and human 
+
+services' electronic birth registration system to report the birth, including all personal 
+
+and medical facts, to the state registrar within five days after the birth.
+
+3. WhenIf a birth occurs outside an institution, the required forms prescribed by the 
+
+department of health and human services must be prepared and filed with the state 
+
+registrar, within thirty days of the birth by one of the following in the indicated order of 
+
+priority:
+
+a. The physician in attendance at or immediately after the birth, or in the absence of 
+
+such an individual;
+
+Page No. 3 23.0079.01000
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+
+
+Sixty-eighth
+Legislative Assembly
+
+b. Any other individual in attendance at or immediately after the birth, or in the 
+
+absence of such an individual; or
+
+c. The father, the mother, or in the absence of the father and the inability of the 
+
+mother, the individual in charge of the premises where the birth occurred.
+
+4. If a man and the mother are or have been married or have attempted to marry each 
+
+other in apparent compliance with law, although the attempted marriage is or could be 
+
+declared invalid, and the child is born during the marriage or attempted marriage, or 
+
+within three hundred days after the termination of cohabitation or after the marriage or 
+
+attempted marriage is terminated by death, annulment, declaration of invalidity, or 
+
+divorce, or after a decree of separation is entered by a court, the name of the man 
+
+must be entered on the birth record as the father of the child unless the presumption of 
+
+paternity has been rebutted by a court decree.
+
+5. If the child is not born during the marriage of the mother, or within three hundred days 
+
+after a marriage is terminated by death, annulment, declaration of invalidity, or divorce, 
+
+or after a decree of separation is entered by a court, the name of the father may not 
+
+be entered on the birth record unless:
+
+a. After the child's birth, the father and the child's natural mother have married, or 
+
+attempted to marry, each other by a marriage solemnized in apparent compliance 
+
+with law, although the attempted marriage is or could be declared invalid, and:
+
+(1) He has acknowledged his paternity of the child in writing filed with the state 
+
+registrar; or
+
+(2) He is obligated to support the child under a written voluntary promise or by 
+
+court order;
+
+b. After the child's birth, the child's natural mother and the father voluntarily 
+
+acknowledge the child's paternity on a form prescribed by the department of 
+
+health and human services, signed by the child's natural mother and biological 
+
+father, and filed with the state registrar; or
+
+c. A court or other entity of competent jurisdiction has adjudicated paternity.
+
+6. If, in accordance with subsections 4 and 5, the name of the father of the child is not 
+
+entered on the birth record, the child's surname must be shown on the birth record as 
+
+the current legal surname of the mother at the time of birth unless an affidavit or an 
+
+Page No. 4 23.0079.01000
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+
+
+Sixty-eighth
+Legislative Assembly
+
+acknowledgment of paternity signed by both parents is filed with the department of 
+
+health and human services.
+
+SECTION 3. AMENDMENT. Section 23-02.1-15 of the North Dakota Century Code is 
+
+amended and reenacted as follows:
+
+23-02.1-15. Delayed registration of birth. 
+
+1. WhenIf the birth of an individual born in this state has not been registered, a birth 
+
+record may be filed in accordance with the regulations of the department of health and 
+
+human services. SuchThe birth record must be registered subject to such evidentiary 
+
+requirements as the department of health and human services shall prescribe to 
+
+substantiate the alleged facts of birth.
+
+2. Records ofA birth record registered one year or more after the date of occurrence 
+
+must be marked "delayed" and show on the face of the birth record the date of 
+
+delayed registration.
+
+3. A summary statement of the evidence submitted in support of the delayed registration 
+
+must be endorsed on the birth record.
+
+4. a. WhenIf an applicant does not submit the minimum documentation required in the 
+
+regulations for delayed registration or when the state registrar finds reason to 
+
+question the validity or adequacy of the birth record or documentary evidence, 
+
+the state registrar may not register the delayed birth record and shall advise the 
+
+applicant of the reasons for this action. In the event thatIf the deficiencies are not 
+
+corrected, the state registrar shall advise the applicant of the right of appeal to a 
+
+court of competent jurisdiction for a judicial determination of the birth facts.
+
+b. The department of health and human services may by regulation may provide for 
+
+the dismissal of an application that is more than one year old and is not being 
+
+actively pursued.
+
+5. A report of live birth may not be registered for a deceased individual one year or more 
+
+after that individual's date of birth.
+
+Page No. 5 23.0079.01000
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+

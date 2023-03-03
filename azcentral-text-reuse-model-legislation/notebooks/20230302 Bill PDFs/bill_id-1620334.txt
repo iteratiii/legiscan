@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LEGISLATURE OF NEBRASKA
+
+ONE HUNDRED EIGHTH LEGISLATURE
+
+FIRST SESSION
+
+LEGISLATIVE BILL 810
+ 
+
+Introduced by Murman, 38; Aguilar, 35; Albrecht, 17; Brewer, 43;
+Clements, 2; DeKay, 40; Halloran, 33; Hardin, 48;
+Holdcroft, 36; Ibach, 44; Kauth, 31; Lippincott, 34; Riepe,
+12; von Gillern, 4.
+
+Read first time January 18, 2023
+
+Committee:
+
+A BILL FOR AN ACT relating to health care; to adopt the Medical Ethics1
+
+and Diversity Act; and to provide severability.2
+
+Be it enacted by the people of the State of Nebraska,3
+
+LB810
+2023
+
+LB810
+2023
+
+-1-
+
+
+
+Section 1.  Sections 1 to 6 of this act shall be known and may be1
+
+cited as the Medical Ethics and Diversity Act.2
+
+Sec. 2.  (1) The Legislature finds and declares that:3
+
+(a) The right of conscience is a fundamental and unalienable right.4
+
+It was central to the founding of the United States, has been deeply5
+
+rooted in our nation's history and tradition for centuries, and has been6
+
+central to the practice of medicine, through the Hippocratic Oath, for7
+
+millennia;8
+
+(b) Despite its preeminent importance, however, threats to the right9
+
+of conscience of medical practitioners, health care institutions, and10
+
+health care payers have become increasingly more common and severe in11
+
+recent years. The swift pace of scientific advancement and the expansion12
+
+of medical capabilities, along with the mistaken notion that medical13
+
+practitioners, health care institutions, and health care payers are mere14
+
+public utilities, promise only to make the current crisis worse, unless15
+
+something is done to restore conscience to its rightful place;16
+
+(c) It is the public policy of the State of Nebraska to protect the17
+
+right of conscience for medical practitioners, health care institutions,18
+
+and health care payers; and19
+
+(d) As the right of conscience is fundamental, no medical20
+
+practitioner, health care institution, or health care payer should be21
+
+compelled to participate in or pay for any medical procedure or prescribe22
+
+or pay for any medication to which such person or entity objects on the23
+
+basis of conscience, whether such conscience is informed by religious,24
+
+moral, or ethical beliefs or principles.25
+
+(2) It is the purpose of the Medical Ethics and Diversity Act to26
+
+protect medical practitioners, health care institutions, and health care27
+
+payers from discrimination, punishment, or retaliation as a result of any28
+
+instance of conscientious medical objection.29
+
+Sec. 3.  For purposes of the Medical Ethics and Diversity Act:30
+
+(1) Conscience means the ethical, moral, or religious beliefs or31
+
+LB810
+2023
+
+LB810
+2023
+
+-2-
+
+
+
+principles held by any medical practitioner, health care institution, or1
+
+health care payer. Conscience with respect to institutional entities or2
+
+corporate bodies, as opposed to individual persons, is determined by3
+
+reference to that entity's or body's governing documents, including, but4
+
+not limited to, any published religious, moral, or ethical guidelines or5
+
+directives, mission statements, constitutions, articles of incorporation,6
+
+bylaws, policies, or regulations;7
+
+(2) Disclose means to formally or informally communicate or transmit8
+
+information, but such term does not include a communication or9
+
+transmission concerning policy decisions that lawfully exercise10
+
+discretionary authority unless the medical practitioner providing the11
+
+disclosure reasonably believes that the disclosure evinces:12
+
+(a) Any violation of any law, rule, or regulation;13
+
+(b) Any violation of any ethical guidelines for the provision of any14
+
+health care service; or15
+
+(c) Gross mismanagement, a gross waste of funds, an abuse of16
+
+authority, or a substantial and specific danger to public health or17
+
+safety;18
+
+(3) Discriminate means to take adverse action against, or to19
+
+threaten the use of adverse action against, any medical practitioner,20
+
+health care institution, or health care payer as a result of such21
+
+person's or entity's decision to decline to participate in a health care22
+
+service on the basis of conscience. The term includes, but is not limited23
+
+to, termination of employment; transfer from current position; demotion24
+
+from current position; adverse administrative action; reassignment to a25
+
+different shift or job title; increased administrative duties; refusal of26
+
+staff privileges; refusal of board certification and recertification;27
+
+loss of career specialty; reduction of wages, benefits, or privileges;28
+
+refusal to award a grant, contract, or other program; refusal to provide29
+
+residency training opportunities; denial, deprivation, or30
+
+disqualification of licensure; withholding or disqualifying from31
+
+LB810
+2023
+
+LB810
+2023
+
+-3-
+
+
+
+financial aid and other assistance; impediments to creating any health1
+
+care institution or health care payer or expanding or improving such2
+
+health care institution or health care payer; impediments to acquiring,3
+
+associating with, or merging with any other health care institution or4
+
+health care payer; the threat of any of the actions listed in this5
+
+subdivision; or any other penalty, disciplinary action, or retaliatory6
+
+action, whether executed or threatened. The term does not include the7
+
+negotiation or purchase of insurance by a nongovernmental entity;8
+
+(4) Health care institution means any organization, corporation,9
+
+partnership, association, agency, network, sole proprietorship, joint10
+
+venture, or any other entity that provides health care services. Health11
+
+care institutions may include, but are not limited to, any public or12
+
+private hospital, clinic, medical center, physician organization,13
+
+professional association or corporation, ambulatory surgical center,14
+
+private physician's office, pharmacy, nursing home, medical school,15
+
+nursing school, medical training facility, or other entity or location in16
+
+which health care services are performed;17
+
+(5) Health care payer means any employer, health plan, health18
+
+maintenance organization, insurance company, management services19
+
+organization, or other entity that pays for, or arranges for the payment20
+
+of, any health care service provided to any patient, whether that payment21
+
+is made in whole or in part;22
+
+(6) Health care service means medical research or medical care23
+
+provided to any patient at any time over the entire course of treatment.24
+
+The term includes, but is not limited to, testing; diagnosis; referral;25
+
+dispensing or administering any drug, medication, or device;26
+
+psychological therapy or counseling; research; prognosis; therapy; record27
+
+making procedures; notes related to treatment; set up or performance of a28
+
+surgery or procedure; or any other care or services performed or provided29
+
+by any medical practitioner including, but not limited to, physicians,30
+
+nurses, allied health professionals, paraprofessionals, or contractors or31
+
+LB810
+2023
+
+LB810
+2023
+
+-4-
+
+
+
+employees of health care institutions;1
+
+(7) Medical practitioner means any person or individual who may be2
+
+or is asked to participate in any way in any health care service. The3
+
+term includes, but is not limited to, doctors, nurse practitioners,4
+
+physician's assistants, nurses, nurses' aides, allied health5
+
+professionals, medical assistants, hospital employees, clinic employees,6
+
+nursing home employees, pharmacists, pharmacy technicians and employees,7
+
+medical school faculty and students, nursing school faculty and students,8
+
+psychology and counseling faculty and students, medical researchers,9
+
+laboratory technicians, psychologists, psychiatrists, counselors, mental10
+
+health professionals, social workers, or any other person who facilitates11
+
+or participates in the provision of health care services to any person;12
+
+(8) Participate in a health care service means to provide, perform,13
+
+assist with, facilitate, direct, refer for, counsel for, advise with14
+
+regard to, admit for the purposes of providing, or take part in any way15
+
+in providing, any health care service or any form of such service; and16
+
+(9) Pay or payment means to pay for, contract for, arrange for the17
+
+payment of, whether in whole or in part, reimburse, or remunerate.18
+
+Sec. 4.  (1) A medical practitioner, health care institution, or19
+
+health care payer has the right not to participate in or pay for any20
+
+health care service which violates such person's or entity's conscience.21
+
+The exercise of the right of conscience is limited to conscience-based22
+
+objections to a particular health care service. This section shall not be23
+
+construed to waive or modify any duty a medical practitioner, health care24
+
+institution, or health care payer may have to provide other medical25
+
+services that do not violate such person's or entity's conscience.26
+
+(2) When a medical practitioner becomes aware of a potential27
+
+conflict of conscience, the medical practitioner shall notify the28
+
+practitioner's supervisor, if applicable, and shall be excused from29
+
+participating in the health care service that conflicts with the30
+
+practitioner's religious, moral, or ethical beliefs and convictions. Upon31
+
+LB810
+2023
+
+LB810
+2023
+
+-5-
+
+
+
+patient request, the medical practitioner shall assist in the transfer of1
+
+the patient's care with regard to a particular health care service by2
+
+promptly releasing the patient's medical records to the patient. The3
+
+medical practitioner remains responsible for continuing to provide all4
+
+appropriate health care services, other than the health care service that5
+
+conflicts with the medical practitioner's beliefs or convictions.6
+
+(3) No medical practitioner, health care institution, or health care7
+
+payer shall be civilly, criminally, or administratively liable for8
+
+exercising such person's or entity's right of conscience not to9
+
+participate in or pay for a health care service. No health care10
+
+institution shall be civilly, criminally, or administratively liable for11
+
+the exercise of conscience rights not to participate in a health care12
+
+service by a medical practitioner employed, contracted, or granted13
+
+admitting privileges by the health care institution.14
+
+(4) No medical practitioner, health care institution, or health care15
+
+payer shall be discriminated against in any manner as a result of such16
+
+person's or entity's decision to decline to participate in or pay for a17
+
+health care service on the basis of conscience.18
+
+(5) Notwithstanding any other provision of the Medical Ethics and19
+
+Diversity Act to the contrary, a religious medical practitioner, health20
+
+care institution, or health care payer that holds itself out to the21
+
+public as religious, states in its governing documents that it has a22
+
+religious purpose or mission, and has internal operating policies or23
+
+procedures that implement its religious beliefs, shall have the right to24
+
+make employment, staffing, contracting, and admitting privilege decisions25
+
+consistent with its religious beliefs.26
+
+(6) A medical practitioner may not be scheduled for or assigned to27
+
+directly or indirectly perform, facilitate, or participate in an28
+
+abortion, as defined in section 71-6901 unless the practitioner first29
+
+affirmatively consents in writing to perform, facilitate, or participate30
+
+in the abortion.31
+
+LB810
+2023
+
+LB810
+2023
+
+-6-
+
+
+
+(7) Nothing in the Medical Ethics and Diversity Act shall be1
+
+construed to override the requirement to provide emergency medical2
+
+treatment to all patients set forth in 42 U.S.C. 1395dd or any other3
+
+federal law governing emergency medical treatments.4
+
+Sec. 5.  (1) No medical practitioner shall be discriminated against5
+
+in any manner because the medical practitioner:6
+
+(a) Provided, caused to be provided, or is about to provide or cause7
+
+to be provided to such practitioner's employer, the Attorney General, the8
+
+Nebraska Department of Health and Human Services, any other state agency9
+
+charged with protecting health care rights of conscience, the Office for10
+
+Civil Rights of the United States Department of Health and Human11
+
+Services, or any other federal agency charged with protecting health care12
+
+rights of conscience information relating to any violation of, or any act13
+
+or omission the medical practitioner reasonably believes to be a14
+
+violation of, any provision of the Medical Ethics and Diversity Act;15
+
+(b) Testified or is about to testify in a proceeding concerning such16
+
+violation; or17
+
+(c) Assisted or participated, or is about to assist or participate,18
+
+in such a proceeding.19
+
+(2) Unless the disclosure is specifically prohibited by law, no20
+
+medical practitioner shall be discriminated against in any manner because21
+
+the medical practitioner disclosed any information that the medical22
+
+practitioner reasonably believes evinces:23
+
+(a) Any violation of any law, rule, or regulation;24
+
+(b) Any violation of any ethical guidelines for the provision of any25
+
+health care service; or26
+
+(c) Gross mismanagement, a gross waste of funds, an abuse of27
+
+authority, or a substantial and specific danger to public health or28
+
+safety.29
+
+(3) A licensing, certifying, or recognizing board or entity, or the30
+
+Department of Health and Human Services, may not reprimand, sanction, or31
+
+LB810
+2023
+
+LB810
+2023
+
+-7-
+
+
+
+revoke or threaten to revoke a license, certification, or registration of1
+
+a health care practitioner for engaging in speech or expressive activity2
+
+that is protected from government interference by the First Amendment,3
+
+unless the board, entity, or the Department of Health and Human Services,4
+
+as applicable, demonstrates beyond a reasonable doubt that the5
+
+practitioner's speech was the direct cause of physical harm to a person6
+
+with whom the health care practitioner had a practitioner-patient7
+
+relationship within the three years immediately preceding the incident of8
+
+physical harm.9
+
+(a) The licensing, certifying, or recognizing board or entity, or10
+
+the Department of Health and Human Services, as applicable, must provide11
+
+a medical practitioner with any complaints it has received which may12
+
+result in the revocation of the medical practitioner's license,13
+
+certification, or registration within fourteen days after receipt of the14
+
+complaint.15
+
+(b) The licensing, certifying, or recognizing board or entity, or16
+
+the Department of Health and Human Services, as applicable, must pay the17
+
+medical practitioner an administrative penalty of five hundred dollars18
+
+for each day the complaint is not provided to the medical practitioner19
+
+after the specified fourteen days.20
+
+Sec. 6.  (1) A civil action for damages or injunctive relief, or21
+
+both, may be brought by any medical practitioner, health care22
+
+institution, or health care payer for any violation of the Medical Ethics23
+
+and Diversity Act. Any additional burden or expense on another medical24
+
+practitioner, health care institution, or health care payer arising from25
+
+the exercise of the right of conscience shall not be a defense to any26
+
+violation of the act. However, no civil action may be brought against an27
+
+individual who declines to use or purchase health care services from a28
+
+specific medical practitioner, health care institution, or health care29
+
+payer for exercising the rights granted in subsection (1) of section 4 of30
+
+this act.31
+
+LB810
+2023
+
+LB810
+2023
+
+-8-
+
+
+
+(2) Any party aggrieved by any violation of the act may commence a1
+
+civil action and shall be entitled, upon the finding of a violation, to2
+
+recover the party's actual damages sustained, but in no case shall3
+
+recovery be less than five thousand dollars, along with the costs of the4
+
+action and reasonable attorney's fees. Such damages shall be cumulative5
+
+and in no way limited by any other remedies which may be available under6
+
+any other federal, state, or municipal law. A court considering such7
+
+civil action may also award injunctive relief, which may include, but is8
+
+not limited to, reinstatement of a medical practitioner to the9
+
+practitioner's previous position, reinstatement of board certification,10
+
+and relicensure of a health care institution or health care payer.11
+
+Sec. 7.  If any section in this act or any part of any section is12
+
+declared invalid or unconstitutional, the declaration shall not affect13
+
+the validity or constitutionality of the remaining portions.14
+
+LB810
+2023
+
+LB810
+2023
+
+-9-
+
+

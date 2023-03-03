@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIRST REGULAR SESSION
+
+HOUSE BILL NO. 419
+102ND GENERAL ASSEMBLY
+
+INTRODUCED BY REPRESENTATIVE HUDSON.
+
+1203H.01I DANA RADEMAN MILLER, Chief Clerk
+
+AN ACT
+To amend chapters 191 and 376, RSMo, by adding thereto eight new sections relating to
+
+gender transition procedures, with a contingent effective date.
+
+Be it enacted by the General Assembly of the state of Missouri, as follows:
+
+Section A. Chapters 191 and 376, RSMo, are amended by adding thereto eight new
+2 sections, to be known as sections 191.1720, 191.1725, 191.1730, 191.1732, 191.1735,
+3 191.1740, 191.1745, and 376.1280, to read as follows:
+
+191.1720. Sections 191.1720 to 191.1745 and section 376.1280 shall be known and
+2 may be cited as the "Missouri's Children Deserve Help Not Harm Act".
+
+191.1725. For purposes of sections 191.1725 to 191.1745, the following terms
+2 mean:
+3 (1) "Biological sex", the biological indication of male or female in the context of
+4 reproductive potential or capacity, such as sex chromosomes, naturally occurring sex
+5 hormones, gonads, and nonambiguous internal and external genitalia present at birth,
+6 including secondary sex characteristics;
+7 (2) "Cross-sex hormones":
+8 (a) Testosterone or other androgens given to biological females in amounts that
+9 create serum levels greater than would normally occur naturally in healthy biological
+
+10 females, which may include, but are not limited to, the following risks:
+11 a. Irreversible infertility;
+12 b. Severe liver dysfunction;
+13 c. Coronary artery disease, including heart attacks;
+14 d. Increased risk of breast, cervical, and uterine cancers;
+
+EXPLANATION — Matter enclosed in bold-faced brackets [thus] in the above bill is not enacted and is
+intended to be omitted from the law. Matter in bold-face type in the above bill is proposed language.
+
+
+
+15 e. Cerebrovascular disease, including strokes;
+16 f. Hypertension;
+17 g. Erythrocytosis, which is an increase in red blood cells;
+18 h. Sleep apnea;
+19 i. Type 2 diabetes;
+20 j. Loss of bone density; and
+21 k. Destabilization of psychiatric disorders; and
+22 (b) Estrogen given to biological males in amounts that create serum levels
+23 greater than would normally occur naturally in healthy biological males, which may
+24 include, but are not limited to, the following risks:
+25 a. Irreversible infertility;
+26 b. Thromboembolic disease, including blood clots;
+27 c. Cholelithiasis, including gallstones;
+28 d. Coronary artery disease, including heart attacks;
+29 e. Type 2 diabetes;
+30 f. Breast cancer;
+31 g. Macroprolactinoma, which is a tumor of the pituitary gland;
+32 h. Cerebrovascular disease, including strokes; and
+33 i. Hypertriglyceridemia, which is an elevated level of triglycerides in the blood;
+34 (3) "Gender", the psychological, behavioral, social, and cultural aspects of being
+35 male or female;
+36 (4) "Gender reassignment surgery", any surgical service that seeks to surgically
+37 alter or remove healthy physical or anatomical characteristics or features that are
+38 typical for the individual's biological sex in order to instill or create physiological or
+39 anatomical characteristics that resemble a sex different from the individual's biological
+40 sex including, but not limited to, genital or nongenital gender reassignment surgery
+41 performed for the purpose of assisting an individual with a gender transition;
+42 (5) "Gender transition", the process in which an individual goes from
+43 identifying with and living as a gender that corresponds to his or her biological sex to
+44 identifying with and living as a gender different from his or her biological sex and may
+45 involve social, legal, or physical changes;
+46 (6) "Gender transition procedure":
+47 (a) Any medical or surgical service, including, but not limited to, physician's
+48 services, inpatient and outpatient hospital services, puberty-blocking drugs, cross-sex
+49 hormones, or genital or nongenital gender reassignment surgery, that is provided or
+50 performed for the purpose of assisting an individual with a physical gender transition;
+51 (b) The term "gender transition procedure" shall not include:
+
+HB 419 2
+
+
+
+52 a. Services to individuals born with a medically verifiable disorder of sex
+53 development including, but not limited to, an individual with external biological sex
+54 characteristics that are irresolvably ambiguous, such as those born with 46,XX
+55 chromosomes with virilization, 46,XY chromosomes with undervirilization, or having
+56 both ovarian and testicular tissue;
+57 b. Services provided when a physician has otherwise diagnosed an individual
+58 with a disorder of sexual development and determined through genetic or biochemical
+59 testing that the individual does not have normal sex chromosome structure, sex steroid
+60 production, or sex steroid hormone action;
+61 c. The acute or chronic treatment of any infection, injury, disease, or disorder
+62 that has been caused by or exacerbated by the performance of gender transition
+63 procedures regardless of whether the gender transition procedure was performed in
+64 accordance with state and federal law or whether funding for the gender transition
+65 procedure is permissible under section 191.1735; or
+66 d. Any procedure undertaken because the individual suffers from a physical
+67 disorder, physical injury, or physical illness that would, as certified by a physician, place
+68 the individual in imminent danger of death or impairment of a major bodily function
+69 unless surgery is performed;
+70 (7) "Genital gender reassignment surgery", a surgical procedure performed for
+71 the purpose of assisting an individual with a physical gender transition including, but
+72 not limited to:
+73 (a) Surgical procedures such as penectomy, orchiectomy, vaginoplasty,
+74 clitoroplasty, or vulvoplasty for biologically male patients; or
+75 (b) Surgical procedures such as hysterectomy, oophorectomy, reconstruction of
+76 the urethra, metoidioplasty or phalloplasty, vaginectomy, scrotoplasty, implantation of
+77 erection prostheses, or implantation of testicular prostheses for biologically female
+78 patients;
+79 (8) "Health care professional", an individual who is licensed, certified, or
+80 otherwise authorized by the laws of this state to administer health care in the ordinary
+81 course of the practice of his or her profession, including mental health care providers;
+82 (9) "Nongenital gender reassignment surgery", surgical procedures performed
+83 for the purpose of assisting an individual with a physical gender transition including,
+84 but not limited to:
+85 (a) Surgical procedures for biologically male patients, such as augmentation
+86 mammoplasty, facial feminization surgery, liposuction, lipofilling, voice feminization
+87 surgery, thyroid cartilage reduction, gluteal augmentation, hair reconstruction, or
+88 various aesthetic procedures; or
+
+HB 419 3
+
+
+
+89 (b) Surgical procedures for biologically female patients, such as subcutaneous
+90 mastectomy, voice masculinization surgery, liposuction, lipofilling, pectoral implants, or
+91 various aesthetic procedures;
+92 (10) "Physician", an individual who is licensed to practice medicine in this state;
+93 (11) "Puberty-blocking drugs", gonadotropin-releasing hormone analogues or
+94 other synthetic drugs used in biological males to stop luteinizing hormone secretion and
+95 therefore testosterone production, or synthetic drugs used in biological females that stop
+96 the production of estrogen and progesterone, when used to delay or suppress pubertal
+97 development in children for the purpose of assisting an individual with a gender
+98 transition;
+99 (12) "Public funds", state, county, or local government moneys, including any
+
+100 such moneys deposited with or derived from any department, agency, or instrumentality
+101 authorized or appropriated under state law.
+
+191.1730. 1. A physician or other health care professional shall not provide
+2 gender transition procedures to any individual under eighteen years of age.
+3 2. A health care institution or entity shall not facilitate the provision of gender
+4 transition procedures to any individual under eighteen years of age.
+
+191.1732. 1. A person or entity, including employees of other state governments,
+2 the federal government, or foreign governments, shall not knowingly engage in conduct
+3 that aids or abets the performance or inducement of gender transition procedures on
+4 any individual under eighteen years of age.
+5 2. The provisions of this section shall not apply to any speech protected by the
+6 First Amendment of the United States Constitution.
+7 3. No parent of a child victim shall be held liable under this section.
+
+191.1735. 1. Public funds shall not be directly or indirectly used, granted, paid,
+2 or distributed to any individual, entity, or organization that provides gender transition
+3 procedures to an individual under eighteen years of age.
+4 2. Health care services furnished in the following situations shall not include
+5 gender transition procedures to an individual under eighteen years of age:
+6 (1) By or in a facility owned by the state or a county or local government; or
+7 (2) By a physician or other health care professional employed by the state or a
+8 county or local government.
+9 3. Any amount paid by an individual or an entity during a tax year for the
+
+10 provision of gender transition procedures or as premiums for health care coverage that
+11 includes coverage for gender transition procedures shall not be tax deductible.
+12 4. The MO HealthNet program shall not reimburse or provide coverage for
+13 gender transition procedures to an individual under eighteen years of age.
+
+HB 419 4
+
+
+
+191.1740. Any referral for or provision of gender transition procedures to an
+2 individual under eighteen years of age is unprofessional conduct and shall be subject to
+3 discipline by the appropriate licensing entity or disciplinary review board with
+4 competent jurisdiction in this state.
+
+191.1745. 1. (1) Notwithstanding any other provision of law, an individual
+2 under eighteen years of age may bring an action under sections 191.1725 to 191.1745
+3 throughout the individual's minority through a parent or next friend and may bring an
+4 action under sections 191.1725 to 191.1745 in the individual's own name upon reaching
+5 the age of majority at any time from that point until thirty years after reaching the age
+6 of majority.
+7 (2) If at the time the individual abused attains the age of eighteen years he or she
+8 is under other legal disability, the limitation period under subdivision (1) of this
+9 subsection shall not begin to run until the removal of the disability.
+
+10 (3) The limitation period in subdivision (1) of this subsection shall not run
+11 during a time period when the individual is subject to threats, intimidation,
+12 manipulation, fraudulent concealment, or fraud perpetrated by the physician or other
+13 health care professional who prescribed or otherwise provided gender transition
+14 procedures or by any person acting in the interest of the physician or other health care
+15 professional.
+16 2. (1) An individual may assert an actual or threatened violation of sections
+17 191.1725 to 191.1745 as a claim or defense in a judicial or administrative proceeding.
+18 (2) The following damages may be awarded to a claimant described in
+19 subdivision (1) of this subsection:
+20 (a) Compensatory damages including, but not limited to:
+21 a. Pain and suffering;
+22 b. Loss of reputation;
+23 c. Loss of income; and
+24 d. Loss of consortium including, but not limited to, the loss of expectation of
+25 sharing parenthood;
+26 (b) Injunctive relief;
+27 (c) Declaratory relief;
+28 (d) Punitive damages; and
+29 (e) Any other appropriate relief.
+30 (3) A prevailing party who establishes a violation of sections 191.1725 to
+31 191.1745 shall recover reasonable attorney's fees.
+32 3. Notwithstanding any other provision of law, an action under sections 191.1725
+33 to 191.1745 may be commenced, and relief may be granted, in a judicial proceeding
+
+HB 419 5
+
+
+
+34 without regard to whether the individual commencing the action has sought or
+35 exhausted available administrative remedies.
+36 4. (1) The attorney general may bring an action to enforce compliance with
+37 sections 191.1725 to 191.1745.
+38 (2) Sections 191.1725 to 191.1745 do not deny, impair, or otherwise affect any
+39 right or authority of the attorney general, the state, or any agency, officer, or employee
+40 of the state, acting under any law other than sections 191.1725 to 191.1745, to institute
+41 or intervene in any proceeding.
+
+376.1280. 1. For purposes of this section, the following terms mean:
+2 (1) "Gender transition procedure", the same meaning given to the term in
+3 section 191.1725;
+4 (2) "Health benefit plan", the same meaning given to the term in section
+5 376.1350;
+6 (3) "Health carrier", the same meaning given to the term in section 376.1350.
+7 2. A health carrier or health benefit plan that offers or issues health benefit
+8 plans that are delivered, issued for delivery, continued, or renewed in this state on or
+9 after the effective date of this section shall not include reimbursement for gender
+
+10 transition procedures for an individual under eighteen years of age.
+11 3. A health carrier or health benefit plan that offers or issues health benefit
+12 plans that are delivered, issued for delivery, continued, or renewed in this state on or
+13 after the effective date of this section shall not be required to provide coverage for
+14 gender transition procedures.
+15 4. A federal health benefit plan under an insurance policy or other plan
+16 providing health care coverage, such as TriCare or Veterans Administration health care,
+17 shall not include reimbursement for gender transition procedures for an individual
+18 under eighteen years of age in this state.
+
+Section B. The enactment of sections 191.1720 to 191.1745 and section 376.1280 of
+2 this act shall become effective:
+3 (1) August 28, 2023, upon signature of the governor before March 1, 2023;
+4 (2) Six months from the date of the governor's signature if signed by the governor on
+5 or after March 1, 2023;
+6 (3) January 15, 2024, if the bill is not signed and returned by the governor within the
+7 constitutional time limits; or
+8 (4) March 23, 2024, if the governor vetoes the bill and the general assembly overrides
+9 the governor's veto.
+
+✔
+
+HB 419 6
+
+

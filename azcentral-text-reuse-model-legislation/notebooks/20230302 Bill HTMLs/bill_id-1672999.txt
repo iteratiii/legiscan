@@ -1,0 +1,1447 @@
+
+
+
+MISSISSIPPI LEGISLATURE
+2023 Regular Session
+To: Public Health and Human Services
+By: Representative Eubanks
+House Bill 1258
+AN ACT TO PROHIBIT THE ADMINISTRATION OF OR THE ASSISTANCE IN
+THE ADMINISTRATION OF CROSS SEX HORMONES OR PUBERTY BLOCKING DRUGS FOR PERSONS UNDER
+TWENTY-ONE YEARS OF AGE; TO PROHIBIT THE PERFORMANCE OF GENDER REASSIGNMENT SURGERY;
+TO PROHIBIT PHYSICIANS AND OTHER HEALTH CARE PROFESSIONALS FROM PROVIDING
+GENDER TRANSITION PROCEDURES OR GENDER REASSIGNMENT SURGERY TO ANY PERSON UNDER
+TWENTY-ONE YEARS OF AGE; TO PROHIBIT PHYSICIANS AND OTHER HEALTH CARE
+PROFESSIONALS FROM REFERRING ANY PERSON UNDER A CERTAIN AGE TO ANY HEALTH CARE
+PROFESSIONAL FOR GENDER TRANSITION OR GENDER REASSIGNMENT PROCEDURES; TO PROHIBIT
+PARENTS, GUARDIANS OR PERSONS RESPONSIBLE FOR THE CARE OF A PERSON UNDER A CERTAIN
+AGE FROM CONSENTING TO OR PROVIDING PUBERTY-BLOCKING DRUGS, CROSS SEX HORMONES;
+TO PROVIDE FOR CERTAIN EXCEPTIONS TO THOSE PROHIBITIONS; TO AMEND SECTION 97-5-39,
+MISSISSIPPI CODE OF 1972, TO INCLUDE VIOLATIONS OF THIS ACT IN THE PENALTIES FOR
+CHILD ABUSE; TO AMEND SECTION 43-21-105, MISSISSIPPI CODE OF 1972, TO REVISE THE
+DEFINITION OF CHILD ABUSE TO INCLUDE VIOLATION OF THIS ACT; TO AMEND SECTION 97-5-51,
+MISSISSIPPI CODE OF 1972, TO REQUIRE MANDATORY REPORTING OF PERSONS WHO VIOLATE
+THE PROVISIONS OF THIS ACT; TO PROHIBIT THE DIRECT OR INDIRECT USE, GRANT,
+PAYMENT OR DISTRIBUTION OF PUBLIC FUNDS TO ANY ENTITY, ORGANIZATION OR
+INDIVIDUAL THAT PROVIDES GENDER TRANSITION PROCEDURES TO A PERSON UNDER TWENTY-ONE
+YEARS OF AGE; TO PROVIDE THAT HEALTH CARE SERVICES FURNISHED IN A STATE OR
+LOCALLY-OWNED HEALTH CARE FACILITY OR BY A PHYSICIAN OR OTHER HEALTH CARE
+PROFESSIONAL EMPLOYED BY THE STATE OR LOCAL GOVERNMENT SHALL NOT INCLUDE GENDER
+TRANSITION PROCEDURES FOR A PERSON UNDER TWENTY-ONE YEARS OF AGE; TO PROVIDE
+THAT AMOUNTS PAID DURING A TAXABLE YEAR FOR PROVISION OF GENDER TRANSITION
+PROCEDURES OR AS PREMIUMS FOR HEALTH CARE COVERAGE THAT INCLUDES COVERAGE FOR
+GENDER TRANSITION PROCEDURES ARE NOT DEDUCTIBLE UNDER THE STATE INCOME TAX
+LAWS; TO PROVIDE THAT ANY REFERRAL FOR OR PROVISION OF GENDER TRANSITION PROCEDURES
+TO A PERSON UNDER TWENTY-ONE YEARS OF AGE BY A PHYSICIAN OR OTHER HEALTH CARE
+PROFESSIONAL IS UNPROFESSIONAL CONDUCT AND IS SUBJECT TO DISCIPLINE BY THE APPROPRIATE
+LICENSING ENTITY FOR THE HEALTH CARE PROFESSIONAL; TO AUTHORIZE THE ATTORNEY
+GENERAL TO BRING AN ACTION TO ENFORCE COMPLIANCE WITH THIS ACT; TO CREATE NEW
+SECTION 43-13-117.7, MISSISSIPPI CODE OF 1972, TO PROHIBIT THE DIVISION OF
+MEDICAID FROM REIMBURSING OR PROVIDING COVERAGE FOR GENDER TRANSITION
+PROCEDURES FOR A PERSON UNDER TWENTY-ONE YEARS OF AGE; TO AMEND SECTION 83-9-22,
+MISSISSIPPI CODE OF 1972, TO PROVIDE THAT GENDER TRANSITION PROCEDURES FOR PERSONS
+UNDER TWENTY-ONE ARE NOT REQUIRED IN HEALTH COVERAGE PLANS; TO CREATE NEW
+SECTION 83-9-37, MISSISSIPPI CODE OF 1972, TO PROVIDE THAT A HEALTH BENEFIT PLAN
+UNDER AN INSURANCE POLICY OR OTHER PLAN PROVIDING HEALTH CARE COVERAGE SHALL
+NOT INCLUDE REIMBURSEMENT FOR GENDER TRANSITION PROCEDURES FOR A PERSON UNDER TWENTY-ONE
+YEARS OF AGE; TO AMEND SECTIONS 27-7-17, 73-15-29 AND 73-25-29, MISSISSIPPI
+CODE OF 1972, TO CONFORM TO THE PROVISIONS OF THIS ACT; AND FOR RELATED
+PURPOSES.
+     BE IT ENACTED BY THE
+LEGISLATURE OF THE STATE OF MISSISSIPPI:
+     SECTION 1.  For
+purposes of this act, the following terms shall have the meanings ascribed
+herein:
+          (a)  "Biological
+sex" means the biological indication of male and female in the context of
+reproductive potential or capacity, such as sex chromosomes, naturally
+occurring sex hormones, gonads, and nonambiguous internal and external
+genitalia present at birth, without regard to an individual's psychological,
+chosen, or subjective experience of gender;
+          (b)  "Cross-sex
+hormones" means:
+               (i)  Testosterone
+or other androgens given to biological females in amounts that are larger or
+more potent than would normally occur naturally in healthy biological sex
+females; and
+               (ii)  Estrogen
+given to biological males in amounts that are larger or more potent than would
+normally occur naturally in healthy biological sex males;
+          (c)  "Gender"
+means the psychological, behavioral, social, and cultural aspects of being male
+or female;
+          (d)  "Gender
+reassignment surgery" means any medical or surgical service that seeks to surgically
+alter or remove healthy physical or anatomical characteristics or features that
+are typical for the individual's biological sex, in order to instill or create
+physiological or anatomical characteristics that resemble a sex different from
+the individual's biological sex, including, without limitation, genital or
+nongenital gender reassignment surgery performed for the purpose of assisting
+an individual with a gender transition including, without limitation:
+               (i)  Surgical
+procedures such as penectomy, orchiectomy, vaginoplasty, clitoroplasty, or
+vulvoplasty for biologically male patients or hysterectomy or ovariectomy for
+biologically female patients;
+               (ii)  Reconstruction
+of the fixed part of the urethra with or without a metoidioplasty; 
+               (iii)  Phalloplasty,
+vaginectomy, scrotoplasty, or implantation of erection or testicular prostheses
+for biologically female patients;
+               (iv)  Surgical
+procedures for biologically male patients, such as augmentation mammoplasty, facial
+feminization surgery, liposuction, lipofilling, voice surgery, thyroid
+cartilage reduction, gluteal augmentation, hair reconstruction, or various
+aesthetic procedures; or
+               (v)  Surgical procedures
+for biologically female patients, such as subcutaneous mastectomy, voice
+surgery, liposuction, lipofilling, pectoral implants, or various aesthetic
+procedures;
+          (e)  "Gender
+transition" means the process in which a person goes from identifying with
+and living as a gender that corresponds to his or her biological sex to
+identifying with and living as a gender different from his or her biological
+sex, and may involve social, legal, or physical changes;
+          (f)  (i)  "Gender
+transition procedures" means any medical or surgical service, including,
+without limitation, physician's services, inpatient and outpatient hospital
+services, or prescribed drugs related to gender transition that seek to:
+                    1.  Alter or remove
+physical or anatomical characteristics or features that are typical for the
+individual's biological sex; or
+                    2.  Instill
+or create physiological or anatomical characteristics that resemble a sex
+different from the individual's biological sex, including, without limitation,
+medical services that provide puberty-blocking drugs, cross-sex hormones, or
+other mechanisms to promote the development of feminizing or masculinizing
+features in the opposite biological sex, or genital or nongenital gender reassignment
+surgery performed for the purpose of assisting an individual with a gender
+transition.
+               (ii)  "Gender
+transition procedures" do not include:
+                    1.  Services
+to persons born with a medically verifiable disorder of sex development, including
+a person with external biological sex characteristics that are irresolvably
+ambiguous, such as those born with forty-six (46) XX chromosomes with
+virilization, forty-six (46) XY chromosomes with undervirilization, or having
+both ovarian and testicular tissue;
+                    2.  Services
+provided when a physician has otherwise diagnosed a disorder of sexual
+development that the physician has determined through genetic or biochemical
+testing that the person does not have normal sex chromosome structure, sex steroid
+hormone production, or sex steroid hormone action;
+                    3.  The
+treatment of any infection, injury, disease, or disorder that has been caused
+by or exacerbated by the performance of gender transition procedures, whether
+or not the gender transition procedure was performed in accordance with state
+and federal law or whether or not the funding for the gender transition
+procedure is permissible under this act; or
+                    4.  Any
+procedure undertaken because the individual suffers from a physical disorder,
+physical injury, or physical illness that would, as certified by a physician,
+place the individual in imminent danger of death or impairment of major bodily
+function unless surgery is performed;
+          (g)  "Health care
+professional" means a person who is licensed, certified, or otherwise
+authorized by the laws of this state to administer health care in the ordinary
+course of the practice of his or her profession;
+          (h)  "Physician"
+means a person who is licensed to practice medicine in this state;
+          (i)  "Puberty-blocking
+drugs" means gonadotropin-releasing hormone analogues or other synthetic
+drugs used in biological males to stop luteinizing hormone secretion and
+therefore testosterone secretion, or synthetic drugs used in biological females
+which stop the production of estrogens and progesterone, when used to delay or suppress
+pubertal development in children for the purpose of assisting an individual
+with a gender transition; and
+          (j)  "Public funds"
+means state, county, or local government monies, in addition to any department,
+agency, or instrumentality authorized or appropriated under state law or
+derived from any fund in which such monies are deposited.
+     SECTION 2.  (1)
+ (a)  No person may administer, supply, consent to, or assist in administering or
+supplying a puberty-blocking drug or cross-sex hormone to a person under the age
+of twenty-one (21) years of age.  
+          (b)  No person shall perform
+or provide, or assist in the performance or provision of gender transition procedures
+or gender reassignment surgery to a person under the age of twenty-one (21) years
+of age. 
+          (c)  A physician or other health care professional shall not
+provide gender transition procedures to any person under twenty-one (21) years
+of age.
+          (d)  A physician, or
+other health care professional shall not refer any person under twenty-one (21)
+years of age to any health care professional for gender transition procedures.
+          (e)  Any person who violates
+the prohibitions described in this section shall be guilty of the felony crime of
+"gender disfigurement" and upon conviction, fined no less than Ten Thousand
+Dollars ($10,000.00), sentenced up to five (5) years in the custody of the Department
+of Corrections, or both. 
+     (2)  A physician who violates
+the prohibition in subsection (1) of this section shall have his or her license
+to practice medicine in the State of Mississippi revoked pursuant to action taken
+by the Mississippi State Board of Medical Licensure.
+     (3)  For any claim accruing on
+or after July 1, 2023, a private cause of action may be brought against a physician,
+osteopath or hospital for injuries arising out of the course of medical, surgical
+or other professional services related to the performance of gender reassignment
+surgery or services.  
+     (4)  For any claim accruing on
+or after July 1, 2023, no claim as provided for in subsection (2) of this section
+may be brought unless it is filed within five (5) years from the date the alleged
+act occurred.
+     (5)  If at the time at which
+the cause of action arose, the person to whom such claim has accrued shall be twenty-one
+(21) years of age or younger, then such minor or the person claiming through
+such minor may, notwithstanding that the period of time limited pursuant to
+subsection (3) of this section shall have expired, commence action on such
+claim at any time within two (2) years next after the time at which the minor shall
+have reached his or her twenty-first birthday, or shall have died, whichever
+shall have first occurred.
+     SECTION 3.  Section
+97-5-39, Mississippi Code of 1972, is amended as follows:
+     97-5-39.  (1)  (a)  Except
+as otherwise provided in this section, any parent, guardian or other person who
+intentionally, knowingly or recklessly commits any act or omits the performance
+of any duty, which act or omission contributes to or tends to contribute to the
+neglect or delinquency of any child or which act or omission results in the
+abuse of any child, as defined in Section 43-21-105(m) of the Youth Court Law,
+or who knowingly aids any child in escaping or absenting himself from the
+guardianship or custody of any person, agency or institution, or knowingly harbors
+or conceals, or aids in harboring or concealing, any child who has absented
+himself without permission from the guardianship or custody of any person,
+agency or institution to which the child shall have been committed by the youth
+court shall be guilty of a misdemeanor, and upon conviction shall be punished
+by a fine not to exceed One Thousand Dollars ($1,000.00), or by imprisonment
+not to exceed one (1) year in jail, or by both such fine and imprisonment.
+          (b)  For the purpose of
+this section, a child is a person who has not reached his eighteenth birthday. 
+A child who has not reached his eighteenth birthday and is on active duty for a
+branch of the armed services, or who is married, is not considered a child for
+the purposes of this statute.
+          (c)  If a child commits
+one (1) of the proscribed acts in subsection (2)(a), (b) or (c) of this section
+upon another child, then original jurisdiction of all such offenses shall be in
+youth court.
+          (d)  If the child's
+deprivation of necessary clothing, shelter, health care or supervision
+appropriate to the child's age results in substantial harm to the child's
+physical, mental or emotional health, the person may be sentenced to imprisonment
+in custody of the Department of Corrections for not more than five (5) years or
+to payment of a fine of not more than Five Thousand Dollars ($5,000.00), or
+both.
+          (e)  A parent, legal
+guardian or other person who knowingly permits the continuing physical or sexual
+abuse of a child is guilty of neglect of a child and may be sentenced to
+imprisonment in the custody of the Department of Corrections for not more than
+ten (10) years or to payment of a fine of not more than Ten Thousand Dollars
+($10,000.00), or both.
+     (2)  Any person shall be
+guilty of felonious child abuse in the following circumstances: 
+          (a)  Whether bodily
+harm results or not, if the person shall intentionally, knowingly or
+recklessly: 
+              (i)  Burn any
+child;
+              (ii)  Physically torture
+any child;
+              (iii)  Strangle,
+choke, smother or in any way interfere with any child's breathing;
+              (iv)  Poison a
+child;
+              (v)  Starve a child
+of nourishments needed to sustain life or growth;
+              (vi)  Use any type
+of deadly weapon upon any child;
+          (b)  If some bodily
+harm to any child actually occurs, and if the person shall intentionally,
+knowingly or recklessly:
+              (i)  Throw, kick,
+bite, or cut any child;
+              (ii)  Strike a
+child under the age of fourteen (14) about the face or head with a closed fist;
+              (iii)  Strike a
+child under the age of five (5) in the face or head;
+              (iv)  Kick, bite,
+cut or strike a child's genitals; circumcision of a male child is not a
+violation under this subparagraph (iv);
+          (c)  If serious bodily
+harm to any child actually occurs, and if the person shall intentionally,
+knowingly or recklessly:
+              (i)  Strike any
+child on the face or head;
+              (ii)  Disfigure or
+scar any child;
+              (iii)  Whip, strike
+or otherwise abuse any child;
+          (d)  If the person violates
+subsection (1) of Section 2 of this act.
+          ( * * *de)  Any person, upon conviction under
+paragraph (a) or (c) of this subsection, shall be sentenced by the court to
+imprisonment in the custody of the Department of Corrections for a term of not
+less than five (5) years and up to life, as determined by the court.  Any person,
+upon conviction under paragraph (b) or (d) of this subsection shall be
+sentenced by the court to imprisonment in the custody of the Department of
+Corrections for a term of not less than two (2) years nor more than ten (10)
+years, as determined by the court.  For any second or subsequent conviction
+under this subsection (2), the person shall be sentenced to imprisonment for
+life.
+          ( * * *ef)  For the purposes of this subsection
+(2), "bodily harm" means any bodily injury to a child and includes,
+but is not limited to, bruising, bleeding, lacerations, soft tissue swelling,
+and external or internal swelling of any body organ.
+          ( * * *fg)  For the purposes of this subsection
+(2), "serious bodily harm" means any serious bodily injury to a child
+and includes, but is not limited to, the fracture of a bone, permanent
+disfigurement, permanent scarring, or any internal bleeding or internal trauma
+to any organ, any brain damage, the removal of genitals from the child's body
+in violation of paragraph (d) of this subsection, or implant of genitals to the
+child's body in violation of paragraph (d) of this subsection, any injury
+to the eye or ear of a child or other vital organ, and impairment of any bodily
+function. 
+          ( * * *gh)  Nothing contained in paragraph (c) of
+this subsection shall preclude a parent or guardian from disciplining a child
+of that parent or guardian, or shall preclude a person in loco parentis to a
+child from disciplining that child, if done in a reasonable manner, and
+reasonable corporal punishment or reasonable discipline as to that parent or
+guardian's child or child to whom a person stands in loco parentis shall be a
+defense to any violation charged under paragraph (c) of this subsection.
+          ( * * *hi)  Reasonable discipline and
+reasonable corporal punishment shall not be a defense to acts described in
+paragraphs (a) and (b) of this subsection or if a child suffers serious bodily
+harm as a result of any act prohibited under paragraph (c) of this subsection.
+     (3)  Nothing contained in
+this section shall prevent proceedings against the parent, guardian or other
+person under any statute of this state or any municipal ordinance defining any
+act as a crime or misdemeanor.  Nothing in the provisions of this section shall
+preclude any person from having a right to trial by jury when charged with
+having violated the provisions of this section.
+     (4)  (a)  A parent, legal
+guardian or caretaker who endangers a child's person or health by knowingly causing
+or permitting the child to be present where any person is selling, manufacturing
+or possessing immediate precursors or chemical substances with intent to
+manufacture, sell or possess a controlled substance as prohibited under Section
+41-29-139 or 41-29-313, is guilty of child endangerment and may be sentenced to
+imprisonment for not more than ten (10) years or to payment of a fine of not
+more than Ten Thousand Dollars ($10,000.00), or both.
+          (b)  If the
+endangerment results in substantial harm to the child's physical, mental or
+emotional health, the person may be sentenced to imprisonment for not more than
+twenty (20) years or to payment of a fine of not more than Twenty Thousand
+Dollars ($20,000.00), or both.
+     (5)  Nothing contained in
+this section shall prevent proceedings against the parent, guardian or other person
+under any statute of this state or any municipal ordinance defining any act as
+a crime or misdemeanor.  Nothing in the provisions of this section shall
+preclude any person from having a right to trial by jury when charged with
+having violated the provisions of this section.
+     (6)  After consultation with
+the Department of Human Services, a regional mental health center or an
+appropriate professional person, a judge may suspend imposition or execution of
+a sentence provided in subsections (1) and (2) of this section and in lieu
+thereof require treatment over a specified period of time at any approved
+public or private treatment facility.  A person may be eligible for treatment
+in lieu of criminal penalties no more than one (1) time.
+     (7)  In any proceeding
+resulting from a report made pursuant to Section 43-21-353 of the Youth Court
+Law, the testimony of the physician making the report regarding the child's
+injuries or condition or cause thereof shall not be excluded on the ground that
+the physician's testimony violates the physician-patient privilege or similar
+privilege or rule against disclosure.  The physician's report shall not be
+considered as evidence unless introduced as an exhibit to his testimony.
+     (8)  Any criminal
+prosecution arising from a violation of this section shall be tried in the
+circuit, county, justice or municipal court having jurisdiction; provided,
+however, that nothing herein shall abridge or dilute the contempt powers of the
+youth court.
+     SECTION 4.  Section
+43-21-105, Mississippi Code of 1972, is amended as follows:
+     43-21-105.  The following
+words and phrases, for purposes of this chapter, shall have the meanings
+ascribed herein unless the context clearly otherwise requires:
+          (a)  "Youth
+court" means the Youth Court Division.
+          (b)  "Judge"
+means the judge of the Youth Court Division.
+          (c) 
+"Designee" means any person that the judge appoints to perform a duty
+which this chapter requires to be done by the judge or his designee.  The judge
+may not appoint a person who is involved in law enforcement or who is an employee
+of the Mississippi Department of Human Services or the Mississippi Department
+of Child Protection Services to be his designee.
+          (d)  "Child"
+and "youth" are synonymous, and each means a person who has not reached
+his eighteenth birthday.  A child who has not reached his eighteenth birthday
+and is on active duty for a branch of the armed services or is married is not
+considered a "child" or "youth" for the purposes of this chapter.
+          (e)  "Parent"
+means the father or mother to whom the child has been born, or the father or
+mother by whom the child has been legally adopted.
+          (f) 
+"Guardian" means a court-appointed guardian of the person of a child.
+          (g)  "Custodian"
+means any person having the present care or custody of a child whether such
+person be a parent or otherwise.
+          (h)  "Legal
+custodian" means a court-appointed custodian of the child.
+          (i)  "Delinquent
+child" means a child who has reached his tenth birthday and who has
+committed a delinquent act.
+          (j)  "Delinquent
+act" is any act, which if committed by an adult, is designated as a crime
+under state or federal law, or municipal or county ordinance other than
+offenses punishable by life imprisonment or death.  A delinquent act includes
+escape from lawful detention and violations of the Uniform Controlled
+Substances Law and violent behavior.
+          (k)  "Child in
+need of supervision" means a child who has reached his seventh birthday
+and is in need of treatment or rehabilitation because the child:
+              (i)  Is habitually
+disobedient of reasonable and lawful commands of his parent, guardian or
+custodian and is ungovernable; or
+              (ii)  While being
+required to attend school, willfully and habitually violates the rules thereof
+or willfully and habitually absents himself therefrom; or
+               (iii)  Runs away
+from home without good cause; or
+              (iv)  Has committed
+a delinquent act or acts.
+          (l)  "Neglected
+child" means a child:
+              (i)  Whose parent,
+guardian or custodian or any person responsible for his care or support,
+neglects or refuses, when able so to do, to provide for him proper and
+necessary care or support, or education as required by law, or medical,
+surgical, or other care necessary for his well-being; however, a parent who
+withholds medical treatment from any child who in good faith is under treatment
+by spiritual means alone through prayer in accordance with the tenets and
+practices of a recognized church or religious denomination by a duly accredited
+practitioner thereof shall not, for that reason alone, be considered to be
+neglectful under any provision of this chapter; or
+              (ii)  Who is
+otherwise without proper care, custody, supervision or support; or
+              (iii)  Who, for any
+reason, lacks the special care made necessary for him by reason of his mental
+condition, whether the mental condition is having mental illness or having an
+intellectual disability; or
+              (iv)  Who, for any
+reason, lacks the care necessary for his health, morals or well-being.
+          (m)  "Abused
+child" means a child whose parent, guardian or custodian or any person
+responsible for his care or support, whether legally obligated to do so or not,
+has caused or allowed to be caused, upon the child, sexual abuse, sexual
+exploitation, commercial sexual exploitation, emotional abuse, mental injury,
+nonaccidental physical injury, the administration, supply, consent to,
+or assistance in administering or supplying a puberty-blocking drug or cross-sex
+hormone, gender transition procedures or gender reassignment surgery or
+other maltreatment.  However, physical discipline, including spanking,
+performed on a child by a parent, guardian or custodian in a reasonable manner
+shall not be deemed abuse under this section.  "Abused child" also
+means a child who is or has been trafficked within the meaning of the Mississippi
+Human Trafficking Act by any person, without regard to the relationship of the
+person to the child.
+          (n)  "Sexual
+abuse" means obscene or pornographic photographing, filming or depiction of
+children for commercial purposes, or the rape, molestation, incest, prostitution
+or other such forms of sexual exploitation of children under circumstances
+which indicate that the child's health or welfare is harmed or threatened.
+          (o)  "A child in
+need of special care" means a child with any mental or physical illness
+that cannot be treated with the dispositional alternatives ordinarily available
+to the youth court.
+          (p)  A "dependent
+child" means any child who is not a child in need of supervision, a
+delinquent child, an abused child or a neglected child, and which child has been
+voluntarily placed in the custody of the Department of Child Protection
+Services by his parent, guardian or custodian.
+          (q)  "Custody"
+means the physical possession of the child by any person.
+          (r)  "Legal custody"
+means the legal status created by a court order which gives the legal custodian
+the responsibilities of physical possession of the child and the duty to
+provide him with food, shelter, education and reasonable medical care, all
+subject to residual rights and responsibilities of the parent or guardian of
+the person.
+          (s) 
+"Detention" means the care of children in physically restrictive
+facilities.
+          (t) 
+"Shelter" means care of children in physically nonrestrictive
+facilities.
+          (u)  "Records
+involving children" means any of the following from which the child can be
+identified:
+              (i)  All youth
+court records as defined in Section 43-21-251;
+              (ii)  All forensic
+interviews conducted by a child advocacy center in abuse and neglect
+investigations;
+              (iii)  All law
+enforcement records as defined in Section 43-21-255;
+              (iv)  All agency
+records as defined in Section 43-21-257; and
+              (v)  All other
+documents maintained by any representative of the state, county, municipality
+or other public agency insofar as they relate to the apprehension, custody,
+adjudication or disposition of a child who is the subject of a youth court
+cause.
+          (v)  "Any person
+responsible for care or support" means the person who is providing for the
+child at a given time.  This term shall include, but is not limited to, stepparents,
+foster parents, relatives, nonlicensed babysitters or other similar persons
+responsible for a child and staff of residential care facilities and group
+homes that are licensed by the Department of Human Services or the Department
+of Child Protection Services.
+          (w)  The singular
+includes the plural, the plural the singular and the masculine the feminine
+when consistent with the intent of this chapter.
+          (x)  "Out-of-home"
+setting means the temporary supervision or care of children by the staff of licensed
+day care centers, the staff of public, private and state schools, the staff of
+juvenile detention facilities, the staff of unlicensed residential care
+facilities and group homes and the staff of, or individuals representing, churches,
+civic or social organizations.
+          (y)  "Durable
+legal custody" means the legal status created by a court order which gives
+the durable legal custodian the responsibilities of physical possession of the
+child and the duty to provide him with care, nurture, welfare, food, shelter,
+education and reasonable medical care.  All these duties as enumerated are
+subject to the residual rights and responsibilities of the natural parent(s) or
+guardian(s) of the child or children.
+          (z)  "Status
+offense" means conduct subject to adjudication by the youth court that
+would not be a crime if committed by an adult.
+          (aa)  "Financially
+able" means a parent or child who is ineligible for a court-appointed
+attorney.
+          (bb) 
+"Assessment" means an individualized examination of a child to determine
+the child's psychosocial needs and problems, including the type and extent of
+any mental health, substance abuse or co-occurring mental health and substance
+abuse disorders and recommendations for treatment.  The term includes, but is
+not limited to, a drug and alcohol, psychological or psychiatric evaluation,
+records review, clinical interview or the administration of a formal test and
+instrument.
+          (cc) 
+"Screening" means a process, with or without the administration of a
+formal instrument, that is designed to identify a child who is at increased
+risk of having mental health, substance abuse or co-occurring mental health and
+substance abuse disorders that warrant immediate attention, intervention or
+more comprehensive assessment.
+          (dd)  "Durable legal
+relative guardianship" means the legal status created by a youth court
+order that conveys the physical and legal custody of a child or children by
+durable legal guardianship to a relative or fictive kin who is licensed as a
+foster or resource parent.
+          (ee) 
+"Relative" means a person related to the child by affinity or
+consanguinity within the third degree.
+          (ff)  "Fictive
+kin" means a person not related to the child legally or biologically but
+who is considered a relative due to a significant, familial-like and ongoing
+relationship with the child and family.
+          (gg)  "Reasonable
+efforts" means the exercise of reasonable care and due diligence by the
+Department of Human Services, the Department of Child Protection Services, or
+any other appropriate entity or person to use appropriate and available
+services to prevent the unnecessary removal of the child from the home or
+provide other services related to meeting the needs of the child and the
+parents.
+          (hh)  "Commercial
+sexual exploitation" means any sexual act or crime of a sexual nature,
+which is committed against a child for financial or economic gain, to obtain a
+thing of value for quid pro quo exchange of property or for any other purpose.
+     SECTION 5.  Section
+97-5-51, Mississippi Code of 1972, is amended as follows:
+     97-5-51.  (1)  Definitions. 
+For the purposes of this section:
+          (a)  "Sex crime
+against a minor" means any offense under at least one (1) of the
+following statutes when committed by an adult against a minor who is under the
+age of sixteen (16):  
+              (i)  Section 97-3-65
+relating to rape; 
+              (ii)  Section 97-3-71
+relating to rape and assault with intent to ravish;
+              (iii)  Section 97-3-95
+relating to sexual battery;
+              (iv)  Section 97-5-23
+relating to the touching of a child, mentally defective or incapacitated person
+or physically helpless person for lustful purposes;
+              (v)  Section 97-5-41
+relating to the carnal knowledge of a stepchild, adopted child or child of a
+cohabiting partner;
+              (vi)  Section 97-5-33
+relating to exploitation of children;
+              (vii)  Section 97-3-54.1(1)(c)
+relating to procuring sexual servitude of a minor;
+              (viii)  Section 43-47-18
+relating to sexual abuse of a vulnerable person;
+               (ix)  Section 97-1-7
+relating to the attempt to commit any of the offenses listed in this subsection;
+
+              (x)  Section 97-29-51
+relating to procuring sexual services of a minor; * * *and
+              (xi)  Section 43-47-18
+and Section 43-47-19 relating to sexual battery abuse of a vulnerable person
+who is a minor * * *.;
+and
+               (xii)  Subsection
+(1) of Section 3 of this act.
+          (b) 
+"Mandatory reporter" means any of the following individuals
+performing their occupational duties:  health care practitioner, clergy member,
+teaching or child care provider, law enforcement officer, or commercial image processor.
+          (c)  "Health care
+practitioner" means any individual who provides health care services,
+including a physician, surgeon, physical therapist, psychiatrist, psychologist,
+medical resident, medical intern, hospital staff member, licensed nurse, midwife
+and emergency medical technician or paramedic.
+          (d)  "Clergy
+member" means any priest, rabbi or duly ordained deacon or minister.
+          (e)  "Teaching or
+child care provider" means anyone who provides training or supervision of
+a minor under the age of sixteen (16), including a teacher, teacher's aide,
+principal or staff member of a public or private school, social worker,
+probation officer, foster home parent, group home or other child care
+institutional staff member, personnel of residential home facilities, a
+licensed or unlicensed day care provider.
+          (f)  "Commercial
+image processor" means any person who, for compensation:  (i) develops
+exposed photographic film into negatives, slides or prints; (ii) makes prints
+from negatives or slides; or (iii) processes or stores
+digital media or images from any digital process, including, but not
+limited to, website applications, photography, live streaming of video,
+posting, creation of power points or any other means of intellectual property
+communication or media including conversion or manipulation of still shots or
+video into a digital show stored on a photography site or a media storage site.
+          (g) 
+"Caretaker" means any person legally obligated to provide or secure
+adequate care for a minor under the age of sixteen (16), including a parent,
+guardian, tutor, legal custodian or foster home parent.
+     (2)  (a)  Mandatory
+reporter requirement.  A mandatory reporter shall make a report if it would
+be reasonable for the mandatory reporter to suspect that a sex crime against a
+minor has occurred.
+          (b)  Failure to file a
+mandatory report shall be punished as provided in this section.
+          (c)  Reports made under
+this section and the identity of the mandatory reporter are confidential except
+when the court determines the testimony of the person reporting to be material
+to a judicial proceeding or when the identity of the reporter is released to
+law enforcement agencies and the appropriate prosecutor.  The identity of the
+reporting party shall not be disclosed to anyone other than law enforcement or
+prosecutors except under court order; violation of this requirement is a
+misdemeanor.  Reports made under this section are for the purpose of criminal
+investigation and prosecution only and information from these reports is not a public
+record.  Disclosure of any information by the prosecutor shall conform to the
+Mississippi Uniform Rules of Circuit and County Court Procedure.
+          (d)  Any mandatory reporter
+who makes a required report under this section or participates in a judicial
+proceeding resulting from a mandatory report shall be presumed to be acting in good
+faith.  Any person or institution reporting in good faith shall be immune from
+any liability, civil or criminal, that might otherwise be incurred or imposed.
+     (3)  (a)  Mandatory
+reporting procedure.  A report required under subsection (2) must be made
+immediately to the law enforcement agency in whose jurisdiction the reporter
+believes the sex crime against the minor occurred.  Except as otherwise
+provided in this subsection (3), a mandatory reporter may not delegate to any
+other person the responsibility to report, but shall make the report
+personally.
+              (i)  The reporting
+requirement under this subsection (3) is satisfied if a mandatory reporter in
+good faith reports a suspected sex crime against a minor to the Department of
+Child Protection Services under Section 43-21-353.
+              (ii)  The reporting
+requirement under this subsection (3) is satisfied if a mandatory reporter
+reports a suspected sex crime against a minor by following a reporting
+procedure that is imposed:
+                   1.  By state
+agency rule as part of licensure of any person or entity holding a state
+license to provide services that include the treatment or education of abused
+or neglected children; or
+                   2.  By statute.
+          (b)  Contents of the
+report.  The report shall identify, to the extent known to the reporter,
+the following:
+              (i)  The name and
+address of the minor victim;
+              (ii)  The name and
+address of the minor's caretaker;
+              (iii)  Any other
+pertinent information known to the reporter.
+     (4)  A law enforcement
+officer who receives a mandated report under this section shall file an
+affidavit against the offender on behalf of the State of Mississippi if there
+is probable cause to believe that the offender has committed a sex crime
+against a minor.
+     (5)  Collection of
+forensic samples.  (a)  (i)  When an abortion is performed on a minor who
+is less than fourteen (14) years of age at the time of the abortion procedure,
+fetal tissue extracted during the abortion shall be collected in accordance
+with rules and regulations adopted pursuant to this section if it would be
+reasonable to suspect that the pregnancy being terminated is the result of a
+sex crime against a minor.
+              (ii)  When a minor
+who is under sixteen (16) years of age gives birth to an infant, umbilical cord
+blood shall be collected, if possible, in accordance with rules and regulations
+adopted pursuant to this section if it would be reasonable to suspect that the
+minor's pregnancy resulted from a sex crime against a minor.
+              (iii)  It shall be
+reasonable to suspect that a sex crime against a minor has occurred if the
+mother of an infant was less than sixteen (16) years of age at the time of
+conception and at least one (1) of the following conditions also applies:
+                   1.  The mother
+of the infant will not identify the father of the infant;
+                   2.  The mother
+of the infant lists the father of the infant as unknown;
+                   3.  The person
+the mother identifies as the father of the infant disputes his fatherhood;
+                   4.  The person
+the mother identifies as the father of the infant is twenty-one (21) years of
+age or older; or
+                   5.  The person
+the mother identifies as the father is deceased.
+          (b)  The State Medical
+Examiner shall adopt rules and regulations consistent with Section 99-49-1 that
+prescribe:
+              (i)  The amount and
+type of fetal tissue or umbilical cord blood to be collected pursuant to
+this section;
+              (ii)  Procedures
+for the proper preservation of the tissue or blood for the purpose of DNA testing
+and examination;
+              (iii)  Procedures
+for documenting the chain of custody of such tissue or blood for use as
+evidence;
+              (iv)  Procedures
+for proper disposal of fetal tissue or umbilical cord blood collected
+pursuant to this section;
+              (v)  A uniform reporting
+instrument mandated to be utilized, which shall include the complete residence
+address and name of the parent or legal guardian of the minor who is the
+subject of the report required under this subsection (5); and
+              (vi)  Procedures
+for communication with law enforcement agencies regarding evidence and
+information obtained pursuant to this section.
+     (6)  Penalties. 
+(a)  A person who is convicted of a first offense under this section shall be
+guilty of a misdemeanor and fined not more than Five Hundred Dollars ($500.00).
+          (b)  A person who is
+convicted of a second offense under this section shall be guilty of a
+misdemeanor and fined not more than One Thousand Dollars ($1,000.00), or
+imprisoned for not more than thirty (30) days, or both.
+          (c)  A person who is
+convicted of a third or subsequent offense under this section shall be guilty
+of a misdemeanor and fined not more than Five Thousand Dollars ($5,000.00), or
+imprisoned for not more than one (1) year, or both.
+     (7)  A health care practitioner
+or health care facility shall be immune from any penalty, civil or
+criminal, for good-faith compliance with any rules and regulations adopted
+pursuant to this section.
+     SECTION 6.  Prohibition
+on use of public funds or tax deduction for gender transition procedures.  (1)
+ Public funds shall not be directly or indirectly used,
+granted, paid, or distributed to any entity, organization, or individual that
+provides gender transition procedures to a person under eighteen (18) years of
+age.
+     (2)  Health
+care services furnished in the following situations shall not include gender
+transition procedures for a person under twenty-one (21) years of age:
+          (a)  By or in a health care
+facility owned by the state or a county or local government; or
+          (b)  By a physician or
+other health care professional employed by the state or a county or local
+government.
+     (3)  Any
+amount paid by an individual or an entity during a taxable year for provision
+of gender transition procedures or as premiums for health care coverage that
+includes coverage for gender transition procedures is not deductible under the state
+income tax laws.
+     SECTION 7.  Enforcement.
+ (1)  Any referral for or provision of gender transition
+procedures to a person under twenty-one (21) years of age by a physician or other
+health care professional is unprofessional conduct and is subject to discipline
+by the appropriate licensing entity for the health care professional.
+     (2)  A person may assert an
+actual or threatened violation of this act as a claim or defense in a judicial or
+administrative proceeding and obtain compensatory damages, injunctive relief,
+declaratory relief, or any other appropriate relief.
+     (3)  (a)  A person must
+bring a claim for a violation of this act no later than two (2) years after the
+day the cause of action accrues.
+          (b)  A person under twenty-one
+(21) years of age may bring an action throughout their minority through a
+parent or next friend, and may bring an action in their own name upon reaching
+majority at any time from that point until twenty (20) years after reaching the
+age of majority.
+     (4)  Notwithstanding any
+other provision of law, an action under this act may be commenced, and relief
+may be granted, in a judicial proceeding without regard to whether the person
+commencing the action has sought or exhausted available administrative remedies.
+     (5)  In any action or
+proceeding to enforce a provision of this act, a prevailing party who
+establishes a violation of this act shall recover reasonable attorney's fees.
+     (6)  (a)  The Attorney General may bring an action to enforce
+compliance with this act.
+          (b)  This act does not
+deny, impair, or otherwise affect any right or authority of the Attorney
+General, the State of Mississippi, or any agency, officer, or employee of the
+state, acting under any law other than this act, to institute or intervene in
+any proceeding.
+     SECTION 8.  Section
+27-7-17, Mississippi Code of 1972, is amended as follows:
+     27-7-17.  In computing taxable
+income, there shall be allowed as deductions:
+     (1)  Business deductions.
+          (a)  Business expenses. 
+All the ordinary and necessary expenses paid or incurred during the taxable year
+in carrying on any trade or business, including a reasonable allowance for salaries
+or other compensation for personal services actually rendered; nonreimbursable traveling
+expenses incident to current employment, including a reasonable amount expended
+for meals and lodging while away from home in the pursuit of a trade or business;
+and rentals or other payments required to be made as a condition of the continued
+use or possession, for purposes of the trade or business of property to which the
+taxpayer has not taken or is not taking title or in which he had no equity.  Expense
+incurred in connection with earning and distributing nontaxable income is not an
+allowable deduction.  Limitations on entertainment expenses shall conform to the
+provisions of the Internal Revenue Code of 1986.  There shall also be allowed a
+deduction for expenses as provided in Section 41-137-51.
+          (b)  Interest.  All
+interest paid or accrued during the taxable year on business indebtedness, except
+interest upon the indebtedness for the purchase of tax-free bonds, or any stocks,
+the dividends from which are nontaxable under the provisions of this article; provided,
+however, in the case of securities dealers, interest payments or accruals on loans,
+the proceeds of which are used to purchase tax-exempt securities, shall be deductible
+if income from otherwise tax-free securities is reported as income.  Investment
+interest expense shall be limited to investment income.  Interest expense incurred
+for the purchase of treasury stock, to pay dividends, or incurred as a result of
+an undercapitalized affiliated corporation may not be deducted unless an ordinary
+and necessary business purpose can be established to the satisfaction of the commissioner. 
+For the purposes of this paragraph, the phrase "interest upon the indebtedness
+for the purchase of tax-free bonds" applies only to the indebtedness incurred
+for the purpose of directly purchasing tax-free bonds and does not apply to any
+other indebtedness incurred in the regular course of the taxpayer's business.  Any
+corporation, association, organization or other entity taxable under Section 27-7-23(c)
+shall allocate interest expense as provided in Section 27-7-23(c)(3)(I).
+          (c)  Taxes.  Taxes
+paid or accrued within the taxable year, except state and federal income taxes,
+excise taxes based on or measured by net income, estate and inheritance taxes, gift
+taxes, cigar and cigarette taxes, gasoline taxes, and sales and use taxes unless
+incurred as an item of expense in a trade or business or in the production of taxable
+income.  In the case of an individual, taxes permitted as an itemized deduction
+under the provisions of subsection (3)(a) of this section are to be claimed thereunder.
+          (d)  Business losses.
+              (i)  Losses sustained
+during the taxable year not compensated for by insurance or otherwise, if incurred
+in trade or business, or nonbusiness transactions entered into for profit.
+              (ii)  Limitations on
+losses from passive activities and rental real estate shall conform to the provisions
+of the Internal Revenue Code of 1986.
+          (e)  Bad debts. 
+Losses from debts ascertained to be worthless and charged off during the taxable
+year, if sustained in the conduct of the regular trade or business of the taxpayer;
+provided, that such losses shall be allowed only when the taxpayer has reported
+as income, on the accrual basis, the amount of such debt or account.
+          (f)  Depreciation. 
+A reasonable allowance for exhaustion, wear and tear of property used in the trade
+or business, or rental property, and depreciation upon buildings based upon their
+reasonable value as of March 16, 1912, if acquired prior thereto, and upon cost
+if acquired subsequent to that date.  In the case of new or used aircraft, equipment,
+engines, or other parts and tools used for aviation, allowance for bonus depreciation
+conforms with the federal bonus depreciation rates and reasonable allowance for
+depreciation under this section is no less than one hundred percent (100%). 
+          (g)  Depletion. 
+In the case of mines, oil and gas wells, other natural deposits and timber, a reasonable
+allowance for depletion and for depreciation of improvements, based upon cost, including
+cost of development, not otherwise deducted, or fair market value as of March 16,
+1912, if acquired prior to that date, such allowance to be made upon regulations
+prescribed by the commissioner, with the approval of the Governor.
+          (h)  Contributions or
+gifts.  Except as otherwise provided in paragraph (p) of this subsection or
+subsection (3)(a) of this section for individuals, contributions or gifts made by
+corporations within the taxable year to corporations, organizations, associations
+or institutions, including Community Chest funds, foundations and trusts created
+solely and exclusively for religious, charitable, scientific or educational purposes,
+or for the prevention of cruelty to children or animals, no part of the net earnings
+of which inure to the benefit of any private stockholder or individual.  This deduction
+shall be allowed in an amount not to exceed twenty percent (20%) of the net income. 
+Such contributions or gifts shall be allowable as deductions only if verified under
+rules and regulations prescribed by the commissioner, with the approval of the Governor. 
+Contributions made in any form other than cash shall be allowed as a deduction,
+subject to the limitations herein provided, in an amount equal to the actual market
+value of the contributions at the time the contribution is actually made and consummated.
+          (i)  Reserve funds -
+insurance companies.  In the case of insurance companies the net additions required
+by law to be made within the taxable year to reserve funds when such reserve funds
+are maintained for the purpose of liquidating policies at maturity.
+          (j)  Annuity income. 
+The sums, other than dividends, paid within the taxpayer year on policy or annuity
+contracts when such income has been included in gross income.
+          (k)  Contributions to
+employee pension plans.  Contributions made by an employer to a plan or a trust
+forming part of a pension plan, stock bonus plan, disability or death-benefit plan,
+or profit-sharing plan of such employer for the exclusive benefit of some or all
+of his, their, or its employees, or their beneficiaries, shall be deductible from
+his, their, or its income only to the extent that, and for the taxable year in which,
+the contribution is deductible for federal income tax purposes under the Internal
+Revenue Code of 1986 and any other provisions of similar purport in the Internal
+Revenue Laws of the United States, and the rules, regulations, rulings and determinations
+promulgated thereunder, provided that:
+              (i)  The plan or trust
+be irrevocable.
+               (ii)  The plan or trust
+constitute a part of a pension plan, stock bonus plan, disability or death-benefit
+plan, or profit-sharing plan for the exclusive benefit of some or all of the employer's
+employees and/or officers, or their beneficiaries, for the purpose of distributing
+the corpus and income of the plan or trust to such employees and/or officers, or
+their beneficiaries.
+              (iii)  No part of the
+corpus or income of the plan or trust can be used for purposes other than for the
+exclusive benefit of employees and/or officers, or their beneficiaries.
+     Contributions to all plans or
+to all trusts of real or personal property (or real and personal property combined)
+or to insured plans created under a retirement plan for which provision has been
+made under the laws of the United States of America, making such contributions deductible
+from income for federal income tax purposes, shall be deductible only to the same
+extent under the Income Tax Laws of the State of Mississippi.
+          (l)  Net operating loss
+carrybacks and carryovers.  A net operating loss for any taxable year ending
+after December 31, 1993, and taxable years thereafter, shall be a net operating
+loss carryback to each of the three (3) taxable years preceding the taxable year
+of the loss.  If the net operating loss for any taxable year is not exhausted by
+carrybacks to the three (3) taxable years preceding the taxable year of the loss,
+then there shall be a net operating loss carryover to each of the fifteen (15) taxable
+years following the taxable year of the loss beginning with any taxable year after
+December 31, 1991.
+     For any taxable year ending after
+December 31, 1997, the period for net operating loss carrybacks and net operating
+loss carryovers shall be the same as those established by the Internal Revenue Code
+and the rules, regulations, rulings and determinations promulgated thereunder as
+in effect at the taxable year end or on December 31, 2000, whichever is earlier.
+     A net operating loss for any
+taxable year ending after December 31, 2001, and taxable years thereafter, shall
+be a net operating loss carryback to each of the two (2) taxable years preceding
+the taxable year of the loss.  If the net operating loss for any taxable year is
+not exhausted by carrybacks to the two (2) taxable years preceding the taxable year
+of the loss, then there shall be a net operating loss carryover to each of the twenty
+(20) taxable years following the taxable year of the loss beginning with any taxable
+year after the taxable year of the loss.
+     The term "net operating
+loss," for the purposes of this paragraph, shall be the excess of the deductions
+allowed over the gross income; provided, however, the following deductions shall
+not be allowed in computing same:
+               (i)  No net operating
+loss deduction shall be allowed.
+              (ii)  No personal exemption
+deduction shall be allowed.
+              (iii)  Allowable deductions
+which are not attributable to taxpayer's trade or business shall be allowed only
+to the extent of the amount of gross income not derived from such trade or business.
+     Any taxpayer entitled to a carryback
+period as provided by this paragraph may elect to relinquish the entire carryback
+period with respect to a net operating loss for any taxable year ending after December
+31, 1991.  The election shall be made in the manner prescribed by the Department
+of Revenue and shall be made by the due date, including extensions of time, for
+filing the taxpayer's return for the taxable year of the net operating loss for
+which the election is to be in effect.  The election, once made for any taxable
+year, shall be irrevocable for that taxable year.
+          (m)  Amortization of
+pollution or environmental control facilities.  Allowance of deduction.  Every
+taxpayer, at his election, shall be entitled to a deduction for pollution or environmental
+control facilities to the same extent as that allowed under the Internal Revenue
+Code and the rules, regulations, rulings and determinations promulgated thereunder.
+          (n)  Dividend distributions
+- real estate investment trusts.  "Real estate investment trust" (hereinafter
+referred to as REIT) shall have the meaning ascribed to such term in Section 856
+of the federal Internal Revenue Code of 1986, as amended.  A REIT is allowed a dividend
+distributed deduction if the dividend distributions meet the requirements of Section
+857 or are otherwise deductible under Section 858 or 860, federal Internal Revenue
+Code of 1986, as amended.  In addition:
+              (i)  A dividend distributed
+deduction shall only be allowed for dividends paid by a publicly traded REIT.  A
+qualified REIT subsidiary shall be allowed a dividend distributed deduction if its
+owner is a publicly traded REIT.
+              (ii)  Income generated
+from real estate contributed or sold to a REIT by a shareholder or related party
+shall not give rise to a dividend distributed deduction, unless the shareholder
+or related party would have received the dividend distributed deduction under this
+chapter.
+              (iii)  A holding corporation
+receiving a dividend from a REIT shall not be allowed the deduction in Section 27-7-15(4)(t).
+              (iv)  Any REIT not allowed
+the dividend distributed deduction in the federal Internal Revenue Code of 1986,
+as amended, shall not be allowed a dividend distributed deduction under this chapter.
+     The commissioner is authorized
+to promulgate rules and regulations consistent with the provisions in Section 269
+of the federal Internal Revenue Code of 1986, as amended, so as to prevent the evasion
+or avoidance of state income tax.
+          (o)  Contributions to
+college savings trust fund accounts.  Contributions or payments to a Mississippi
+Affordable College Savings Program account are deductible as provided under Section
+37-155-113.  Payments made under a prepaid tuition contract entered into under the
+Mississippi Prepaid Affordable College Tuition Program are deductible as provided
+under Section 37-155-17.
+          (p)  Contributions of
+human pharmaceutical products.  To the extent that a "major supplier"
+as defined in Section 27-13-13(2)(d) contributes human pharmaceutical products in
+excess of Two Hundred Fifty Million Dollars ($250,000,000.00) as determined under
+Section 170 of the Internal Revenue Code, the charitable contribution limitation
+associated with those donations shall follow the federal limitation but cannot result
+in the Mississippi net income being reduced below zero.
+          (q)  Contributions to
+ABLE trust fund accounts.  Contributions or payments to a Mississippi Achieving
+a Better Life Experience (ABLE) Program account are deductible as provided under
+Section 43-28-13.
+     (2)  Restrictions on the deductibility
+of certain intangible expenses and interest expenses with a related member.
+          (a)  As used in this subsection
+(2):
+              (i)  "Intangible
+expenses and costs" include:
+                   1.  Expenses, losses
+and costs for, related to, or in connection directly or indirectly with the direct
+or indirect acquisition, use, maintenance or management, ownership, sale, exchange
+or any other disposition of intangible property to the extent such amounts are allowed
+as deductions or costs in determining taxable income under this chapter;
+                   2.  Expenses or
+losses related to or incurred in connection directly or indirectly with factoring
+transactions or discounting transactions;
+                    3.  Royalty, patent,
+technical and copyright fees;
+                   4.  Licensing fees;
+and 
+                   5.  Other similar
+expenses and costs.
+               (ii)  "Intangible
+property" means patents, patent applications, trade names, trademarks, service
+marks, copyrights and similar types of intangible assets.
+              (iii)  "Interest
+expenses and cost" means amounts directly or indirectly allowed as deductions
+for purposes of determining taxable income under this chapter to the extent such
+interest expenses and costs are directly or indirectly for, related to, or in connection
+with the direct or indirect acquisition, maintenance, management, ownership, sale,
+exchange or disposition of intangible property.
+              (iv)  "Related
+member" means an entity or person that, with respect to the taxpayer during
+all or any portion of the taxable year, is a related entity, a component member
+as defined in the Internal Revenue Code, or is an entity or a person to or from
+whom there is attribution of stock ownership in accordance with Section 1563(e)
+of the Internal Revenue Code.
+               (v)  "Related
+entity" means:
+                   1.  A stockholder
+who is an individual or a member of the stockholder's family, as defined in regulations
+prescribed by the commissioner, if the stockholder and the members of the stockholder's
+family own, directly, indirectly, beneficially or constructively, in the aggregate,
+at least fifty percent (50%) of the value of the taxpayer's outstanding stock;
+                   2.  A stockholder,
+or a stockholder's partnership, limited liability company, estate, trust or corporation,
+if the stockholder and the stockholder's partnerships, limited liability companies,
+estates, trusts and corporations own, directly, indirectly, beneficially or constructively,
+in the aggregate, at least fifty percent (50%) of the value of the taxpayer's outstanding
+stock;
+                   3.  A corporation,
+or a party related to the corporation in a manner that would require an attribution
+of stock from the corporation to the party or from the party to the corporation,
+if the taxpayer owns, directly, indirectly, beneficially or constructively, at least
+fifty percent (50%) of the value of the corporation's outstanding stock under regulation
+prescribed by the commissioner;
+                   4.  Any entity
+or person which would be a related member under this section if the taxpayer were
+considered a corporation for purposes of this section.
+          (b)  In computing net income,
+a taxpayer shall add back otherwise deductible interest expenses and costs and intangible
+expenses and costs directly or indirectly paid, accrued to or incurred, in connection
+directly or indirectly with one or more direct or indirect transactions with one
+or more related members.
+          (c)  The adjustments required
+by this subsection shall not apply to such portion of interest expenses and costs
+and intangible expenses and costs that the taxpayer can establish meets one (1)
+of the following:
+              (i)  The related member
+directly or indirectly paid, accrued or incurred such portion to a person during
+the same income year who is not a related member; or
+              (ii)  The transaction
+giving rise to the interest expenses and costs or intangible expenses and costs
+between the taxpayer and related member was done primarily for a valid business
+purpose other than the avoidance of taxes, and the related member is not primarily
+engaged in the acquisition, use, maintenance or management, ownership, sale, exchange
+or any other disposition of intangible property.
+          (d)  Nothing in this subsection
+shall require a taxpayer to add to its net income more than once any amount of interest
+expenses and costs or intangible expenses and costs that the taxpayer pays, accrues
+or incurs to a related member.
+          (e)  The commissioner may
+prescribe such regulations as necessary or appropriate to carry out the purposes
+of this subsection, including, but not limited to, clarifying definitions of terms,
+rules of stock attribution, factoring and discount transactions.
+     (3)  Individual nonbusiness
+deductions.
+          (a)  The amount allowable
+for individual nonbusiness itemized deductions for federal income tax purposes where
+the individual is eligible to elect, for the taxable year, to itemize deductions
+on his federal return except the following:
+              (i)  The deduction for
+state income taxes paid or other taxes allowed for federal purposes in lieu of state
+income taxes paid;
+              (ii)  The deduction
+for gaming losses from gaming establishments;
+              (iii)  The deduction
+for taxes collected by licensed gaming establishments pursuant to Section
+27-7-901;
+              (iv)  The deduction
+for taxes collected by gaming establishments pursuant to Section 27-7-903 * * *.; and
+               (v)  The deduction
+for medical expenses for the provision of puberty-blocking drugs, cross-sex hormones,
+gender transition procedures or gender reassignment surgery as defined in Section
+2 of this act.
+          (b)  In lieu of the individual
+nonbusiness itemized deductions authorized in paragraph (a), for all purposes other
+than ordinary and necessary expenses paid or incurred during the taxable year in
+carrying on any trade or business, an optional standard deduction of:
+              (i)  Three Thousand
+Four Hundred Dollars ($3,400.00) through calendar year 1997, Four Thousand Two Hundred
+Dollars ($4,200.00) for the calendar year 1998 and Four Thousand Six Hundred Dollars
+($4,600.00) for each calendar year thereafter in the case of married individuals
+filing a joint or combined return;
+              (ii)  One Thousand Seven
+Hundred Dollars ($1,700.00) through calendar year 1997, Two Thousand One Hundred
+Dollars ($2,100.00) for the calendar year 1998 and Two Thousand Three Hundred Dollars
+($2,300.00) for each calendar year thereafter in the case of married individuals
+filing separate returns;
+              (iii)  Three Thousand
+Four Hundred Dollars ($3,400.00) in the case of a head of family; or
+               (iv)  Two Thousand
+Three Hundred Dollars ($2,300.00) in the case of an individual who is not married.
+     In the case of a husband and
+wife living together, having separate incomes, and filing combined returns, the
+standard deduction authorized may be divided in any manner they choose.  In the
+case of separate returns by a husband and wife, the standard deduction shall not
+be allowed to either if the taxable income of one of the spouses is determined without
+regard to the standard deduction.
+          (c)  A nonresident individual
+shall be allowed the same individual nonbusiness deductions as are authorized for
+resident individuals in paragraph (a) or (b) of this subsection; however, the nonresident
+individual is entitled only to that proportion of the individual nonbusiness deductions
+as his net income from sources within the State of Mississippi bears to his total
+or entire net income from all sources.
+     (4)  Nothing in this section
+shall permit the same item to be deducted more than once, either in fact or in effect.
+     (5)  Notwithstanding
+any other provision in Title 27, Mississippi Code of 1972, there shall be allowed
+an income tax deduction for otherwise deductible expenses if:
+          (a)  The payment(s) for
+such deductible expenses are made with the grant or loan program of the Paycheck
+Protection Program as authorized under (i) the Coronavirus Aid, Relief, and Economic
+Security (CARES) Act and the Consolidated Appropriations Act of 2021, (ii) the COVID-19
+Economic Injury Disaster Loan Program, (iii) the 2020 COVID-19 Mississippi Business
+Assistance Act, (iv) the Rental Assistance Grant Program, (v) the Shuttered Venue
+Operators Grant Program and Restaurant Revitalization Fund authorized by the Economic
+Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and amended by the
+federal American Rescue Plan Act, and/or (vi) the Mississippi Agriculture Stabilization
+Act; and
+          (b)  Such deductible expenses
+shall be allowed as deductions for federal income tax purposes.
+     SECTION 9.  The
+following shall be codified as Section 43-13-117.7, Mississippi Code of 1972:
+     43-13-117.7.  Notwithstanding
+any other provisions of Section 43-13-117, the division
+shall not reimburse or provide coverage for gender transition procedures for a person
+under twenty-one (21) years of age.  As used in this section, the term "gender
+transition procedures" means the same as defined in Section 3 of this act.
+     SECTION 10.  Section
+73-15-29, Mississippi Code of 1972, is amended as follows:
+     73-15-29.  (1)  The board shall
+have power to revoke, suspend or refuse to renew any license issued by the board,
+or to revoke or suspend any privilege to practice, or to deny an application for
+a license, or to fine, place on probation and/or discipline a licensee, in any manner
+specified in this article, upon proof that such person:
+          (a)  Has committed fraud
+or deceit in securing or attempting to secure such license;
+          (b)  Has been convicted
+of a felony, or a crime involving moral turpitude or has had accepted by a court
+a plea of nolo contendere to a felony or a crime involving moral turpitude (a certified
+copy of the judgment of the court of competent jurisdiction of such conviction or
+pleas shall be prima facie evidence of such conviction);
+          (c)  Has negligently or
+willfully acted in a manner inconsistent with the health or safety of the persons
+under the licensee's care;
+          (d)  Has had a license or
+privilege to practice as a registered nurse or a licensed practical nurse suspended
+or revoked in any jurisdiction, has voluntarily surrendered such license or privilege
+to practice in any jurisdiction, has been placed on probation as a registered nurse
+or licensed practical nurse in any jurisdiction or has been placed under a disciplinary
+order(s) in any manner as a registered nurse or licensed practical nurse in any
+jurisdiction, (a certified copy of the order of suspension, revocation, probation
+or disciplinary action shall be prima facie evidence of such action);
+          (e)  Has negligently or
+willfully practiced nursing in a manner that fails to meet generally accepted standards
+of such nursing practice;
+          (f)  Has negligently or
+willfully violated any order, rule or regulation of the board pertaining to nursing
+practice or licensure;
+          (g)  Has falsified or in
+a repeatedly negligent manner made incorrect entries or failed to make essential
+entries on records;
+          (h)  Is addicted to or dependent
+on alcohol or other habit-forming drugs or is a habitual user of narcotics, barbiturates,
+amphetamines, hallucinogens, or other drugs having similar effect, or has misappropriated
+any medication;
+          (i)  Has a physical, mental
+or emotional condition that renders the licensee unable to perform nursing services
+or duties with reasonable skill and safety;
+          (j)  Has engaged in any
+other conduct, whether of the same or of a different character from that specified
+in this article, that would constitute a crime as defined in Title 97 of the Mississippi
+Code of 1972, as now or hereafter amended, and that relates to such person's employment
+as a registered nurse or licensed practical nurse;
+          (k)  Engages in conduct
+likely to deceive, defraud or harm the public;
+          (l)  Engages in any unprofessional
+conduct as identified by the board in its rules;
+          (m)  Has violated any provision
+of this article; * * *or
+          (n)  Violation(s) of the
+provisions of Sections 41-121-1 through 41-121-9 relating to deceptive advertisement
+by health care practitioners.  This paragraph shall stand repealed on July 1, 2025 * * *.; or
+          (o)  Violation(s) of
+any provision of Sections 1 through 6 of this act.
+     (2)  When the board finds any
+person unqualified because of any of the grounds set forth in subsection (1) of
+this section, it may enter an order imposing one or more of the following penalties:
+          (a)  Denying application
+for a license or other authorization to practice nursing or practical nursing;
+          (b)  Administering a reprimand;
+          (c)  Suspending or restricting
+the license or other authorization to practice as a registered nurse or licensed
+practical nurse for up to two (2) years without review;
+          (d)  Revoking the license
+or other authorization to practice nursing or practical nursing;
+          (e)  Requiring the disciplinee
+to submit to care, counseling or treatment by persons and/or agencies approved or
+designated by the board as a condition for initial, continued or renewed licensure
+or other authorization to practice nursing or practical nursing;
+          (f)  Requiring the disciplinee
+to participate in a program of education prescribed by the board as a condition
+for initial, continued or renewed licensure or other authorization to practice;
+          (g)  Requiring the disciplinee
+to practice under the supervision of a registered nurse for a specified period of
+time; or
+          (h)  Imposing a fine not
+to exceed Five Hundred Dollars ($500.00).
+     (3)  In addition to the grounds
+specified in subsection (1) of this section, the board shall be authorized to suspend
+the license or privilege to practice of any licensee for being out of compliance
+with an order for support, as defined in Section 93-11-153.  The procedure for suspension
+of a license or privilege to practice for being out of compliance with an order
+for support, and the procedure for the reissuance or reinstatement of a license
+or privilege to practice suspended for that purpose, and the payment of any fees
+for the reissuance or reinstatement of a license or privilege to practice suspended
+for that purpose, shall be governed by Section 93-11-157 or 93-11-163, as the case
+may be.  If there is any conflict between any provision of Section 93-11-157 or
+93-11-163 and any provision of this article, the provisions of Section 93-11-157
+or 93-11-163, as the case may be, shall control.
+     (4)  If the public health, safety
+or welfare imperatively requires emergency action and the board incorporates a finding
+to that effect in an order, the board may order summary suspension of a license
+pending proceedings for revocation or other action.  These proceedings shall be
+promptly instituted and determined by the board.
+     (5)  The board may establish
+by rule an alternative to discipline program for licensees who have an impairment
+as a result of substance abuse or a mental health condition, which program shall
+include at least the following components:
+          (a)  Participation in the
+program is voluntary with the licensee, and the licensee must enter the program
+before the board holds a disciplinary action hearing regarding the licensee;
+          (b)  The full cost of participation
+in the program, including the cost of any care, counseling, treatment and/or education
+received by the licensee, shall be borne by the licensee;
+          (c)  All of the procedures
+and records regarding the licensee's participation in the program shall be confidential,
+shall not be disclosed and shall be exempt from the provisions of the Mississippi
+Public Records Act of 1983; and
+          (d)  A licensee may not
+participate in the program more often than one (1) time during any period of five
+(5) years or such longer period as set by the board.
+     (6)  A nurse practitioner who
+provides a written certification as authorized under the Mississippi Medical Cannabis
+Act and in compliance with rules and regulations adopted thereunder shall not be
+subject to any disciplinary action under this section solely due to providing the
+written certification.
+     SECTION 11.  Section
+73-25-29, Mississippi Code of 1972, is amended as follows:
+     73-25-29.  The grounds for the
+nonissuance, suspension, revocation or restriction of a license or the denial of
+reinstatement or renewal of a license are:
+          (1)  Habitual personal use
+of narcotic drugs, or any other drug having addiction-forming or addiction-sustaining
+liability.
+          (2)  Habitual use of intoxicating
+liquors, or any beverage, to an extent which affects professional competency.
+          (3)  Administering, dispensing
+or prescribing any narcotic drug, or any other drug having addiction-forming or
+addiction-sustaining liability otherwise than in the course of legitimate professional
+practice.
+          (4)  Conviction of violation
+of any federal or state law regulating the possession, distribution or use of any
+narcotic drug or any drug considered a controlled substance under state or federal
+law, a certified copy of the conviction order or judgment rendered by the trial
+court being prima facie evidence thereof, notwithstanding the pendency of any appeal.
+          (5)  Procuring, or attempting
+to procure, or aiding in, an abortion that is not medically indicated.
+          (6)  Conviction of a felony
+or misdemeanor involving moral turpitude, a certified copy of the conviction order
+or judgment rendered by the trial court being prima facie evidence thereof, notwithstanding
+the pendency of any appeal.
+          (7)  Obtaining or attempting
+to obtain a license by fraud or deception.
+          (8)  Unprofessional conduct,
+which includes, but is not limited to:
+              (a)  Practicing medicine
+under a false or assumed name or impersonating another practitioner, living or dead.
+              (b)  Knowingly performing
+any act which in any way assists an unlicensed person to practice medicine.
+               (c)  Making or willfully
+causing to be made any flamboyant claims concerning the licensee's professional
+excellence.
+              (d)  Being guilty of
+any dishonorable or unethical conduct likely to deceive, defraud or harm the public.
+              (e)  Obtaining a fee
+as personal compensation or gain from a person on fraudulent representation of a
+disease or injury condition generally considered incurable by competent medical
+authority in the light of current scientific knowledge and practice can be cured
+or offering, undertaking, attempting or agreeing to cure or treat the same by a
+secret method, which he refuses to divulge to the board upon request.
+              (f)  Use of any false,
+fraudulent or forged statement or document, or the use of any fraudulent, deceitful,
+dishonest or immoral practice in connection with any of the licensing requirements,
+including the signing in his professional capacity any certificate that is known
+to be false at the time he makes or signs such certificate.
+              (g)  Failing to identify
+a physician's school of practice in all professional uses of his name by use of
+his earned degree or a description of his school of practice.
+          (9)  The refusal of a licensing
+authority of another state or jurisdiction to issue or renew a license, permit or
+certificate to practice medicine in that jurisdiction or the revocation, suspension
+or other restriction imposed on a license, permit or certificate issued by such
+licensing authority which prevents or restricts practice in that jurisdiction, a
+certified copy of the disciplinary order or action taken by the other state or jurisdiction
+being prima facie evidence thereof, notwithstanding the pendency of any appeal.
+          (10)  Surrender of a license
+or authorization to practice medicine in another state or jurisdiction or surrender
+of membership on any medical staff or in any medical or professional association
+or society while under disciplinary investigation by any of those authorities or
+bodies for acts or conduct similar to acts or conduct which would constitute grounds
+for action as defined in this section.
+          (11)  Final sanctions imposed
+by the United States Department of Health and Human Services, Office of Inspector
+General or any successor federal agency or office, based upon a finding of incompetency,
+gross misconduct or failure to meet professionally recognized standards of health
+care; a certified copy of the notice of final sanction being prima facie evidence
+thereof.  As used in this paragraph, the term "final sanction" means the
+written notice to a physician from the United States Department of Health and Human
+Services, Officer of Inspector General or any successor federal agency or office,
+which implements the exclusion.
+          (12)  Failure to furnish
+the board, its investigators or representatives information legally requested by
+the board.
+          (13)  Violation of any provision(s)
+of the Medical Practice Act or the rules and regulations of the board or of any
+order, stipulation or agreement with the board.
+          (14)  Violation(s) of the
+provisions of Sections 41-121-1 through 41-121-9 relating to deceptive advertisement
+by health care practitioners.
+          (15)  Performing or inducing
+an abortion on a woman in violation of any provision of Sections 41-41-131 through
+41-41-145.
+          (16)  Performing an abortion
+on a pregnant woman after determining that the unborn human individual that the
+pregnant woman is carrying has a detectable fetal heartbeat as provided in Section
+41-41-34.1.
+          (17)  Violation(s) of
+any provision of Sections 1 through 6 of this act.
+     In addition to the grounds specified
+above, the board shall be authorized to suspend the license of any licensee for
+being out of compliance with an order for support, as defined in Section 93-11-153. 
+The procedure for suspension of a license for being out of compliance with an order
+for support, and the procedure for the reissuance or reinstatement of a license
+suspended for that purpose, and the payment of any fees for the reissuance or reinstatement
+of a license suspended for that purpose, shall be governed by Section 93-11-157
+or 93-11-163, as the case may be.  If there is any conflict between any provision
+of Section 93-11-157 or 93-11-163 and any provision of this chapter, the provisions
+of Section 93-11-157 or 93-11-163, as the case may be, shall control. 
+     A physician who provides a written
+certification as authorized under the Mississippi Medical Cannabis Act and in compliance
+with rules and regulations adopted thereunder shall not be subject to any disciplinary
+action under this section solely due to providing the written certification.
+     SECTION 12.  Section
+83-9-22, Mississippi Code of 1972, is amended as follows:
+     83-9-22.  (1)  (a)  Notwithstanding
+any other provision of the law to the contrary, except as otherwise provided in
+subsections (3) and (4) of this section, no health coverage plan shall
+restrict coverage for medically appropriate treatment prescribed by a physician
+and agreed to by a fully informed insured, or if the insured lacks legal capacity
+to consent by a person who has legal authority to consent on his or her behalf,
+based on an insured's diagnosis with a terminal condition.  Refusing to pay for
+treatment rendered to an insured near the end of life that is consistent with best
+practices for treatment of a disease or condition, approved uses of a drug or device,
+or uses supported by peer reviewed medical literature, is a per se violation of
+this section.
+          (b)  Violations of this
+section shall constitute an unfair trade practice and subject the violator to the
+penalties provided by law.
+          (c)  As used in this section
+"terminal condition" means any aggressive malignancy, chronic end-stage
+cardiovascular or cerebral vascular disease, or any other disease, illness or condition
+which a physician diagnoses as terminal.
+          (d)  As used in this section,
+a "health coverage plan" shall mean any hospital, health or medical expense
+insurance policy, hospital or medical service contract, employee welfare benefit
+plan, contract or agreement with a health maintenance organization or a preferred
+provider organization, health and accident insurance policy, or any other insurance
+contract of this type, including a group insurance plan and the State Health and
+Life Insurance Plan.
+     (2)  (a)  Notwithstanding any
+other provision of the law to the contrary, no health benefit paid directly or indirectly
+with state funds, specifically Medicaid, shall restrict coverage for medically appropriate
+treatment prescribed by a physician and agreed to by a fully informed individual,
+or if the individual lacks legal capacity to consent by a person who has legal authority
+to consent on his or her behalf, based on an individual's diagnosis with a terminal
+condition.
+          (b)  Refusing to pay for
+treatment rendered to an individual near the end of life that is consistent with
+best practices for treatment of a disease or condition, approved uses of a drug
+or device, or uses supported by peer reviewed medical literature, is a per se violation
+of this section.
+          (c)  As used in this section
+"terminal condition" means any aggressive malignancy, chronic end-stage
+cardiovascular or cerebral vascular disease, or any other disease, illness or condition
+which a physician diagnoses as terminal. 
+     (3)  This section does not require
+a health coverage plan to cover and pay for the treatment of a person who is a cardholder
+and registered qualifying patient with medical cannabis that is lawful under the
+Mississippi Medical Cannabis Act and in compliance with rules and regulations adopted
+thereunder.
+     (4)  This section does not
+require a health coverage plan to provide coverage for gender transition
+procedures for a person under twenty-one (21) years of age.  As used in this
+section, the term "gender transition procedures" means the same as
+defined in Section 3 of this act.
+     SECTION 13.  The
+following shall be codified as Section 83-9-37, Mississippi Code of 1972:
+     83-9-37.  (1)  As used in this section, the term "gender transition
+procedures" means the same as defined in Section 3 of this act.
+     (2)  A
+health benefit plan under an insurance policy or other plan providing health care
+coverage in this state shall not include reimbursement for gender transition procedures
+for a person under twenty-one (21) years of age.
+     (3)  A health benefit plan
+under an insurance policy or other plan providing health care coverage in this
+state is not required to provide coverage for gender transition procedures for
+a person under twenty-one (21) years of age.
+     SECTION 14.  This act
+shall take effect and be in force from and after July 1, 2023.
+
+
+
+

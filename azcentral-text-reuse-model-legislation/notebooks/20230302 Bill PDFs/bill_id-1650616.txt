@@ -1,0 +1,691 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 410 Page 1 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+STATE OF OKLAHOMA 
+
+ 
+
+1st Session of the 59th Legislature (2023) 
+
+ 
+
+SENATE BILL 250 By: Dahm 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AS INTRODUCED 
+
+ 
+
+An Act relating to public programs; defining terms; 
+
+prohibiting public funding for provider of gender 
+
+transition procedures; allowing ineligible provider 
+
+to reapply for funding under certain conditions; 
+
+requiring Oklahoma Health Care Authority to publish 
+
+certain findings; providing certain construction; 
+
+providing for codification; and declaring an 
+
+emergency. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA: 
+
+SECTION 1.     NEW LAW     A new section of law to be codified 
+
+in the Oklahoma Statutes as Section 1005.11 of Title 56, unless 
+
+there is created a duplication in numbering, reads as follows: 
+
+A.  For purposes of this section: 
+
+1.  “Provider” means a provider of services for compensation; 
+
+2.  “Affiliate” means an entity which licenses the use of a 
+
+trademark or other recognized name to the provider, and which 
+
+exercises control over the use of part or all of the provider’s 
+
+name, or any entity so licensed or controlled; and 
+
+3.   a. “Gender transition procedures” means any medical or 
+
+surgical service, including but not limited to 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 410 Page 2 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+physician’s services, inpatient and outpatient 
+
+hospital services, or prescribed drugs related to 
+
+gender transition that seeks to: 
+
+(1) alter or remove physical or anatomical 
+
+characteristics or features that are typical for 
+
+the individual’s biological sex, or 
+
+(2) instill or create physiological or anatomical 
+
+characteristics that resemble a sex different 
+
+from the individual’s biological sex, including 
+
+but not limited to medical services that provide 
+
+puberty-blocking drugs, cross-sex hormones, or 
+
+other mechanisms to promote the development of 
+
+feminizing or masculinizing features in the 
+
+opposite biological sex, or genital or nongenital 
+
+gender reassignment surgery performed for the 
+
+purpose of assisting an individual with a gender 
+
+transition. 
+
+b. Gender transition procedures do not include: 
+
+(1) services to persons born with a medically 
+
+verifiable disorder of sex development, including 
+
+a person with external biological sex 
+
+characteristics that are irresolvably ambiguous, 
+
+such as those born with 46 XX chromosomes with 
+
+virilization, 46 XY chromosomes with 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 410 Page 3 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+undervirilization, or having both ovarian and 
+
+testicular tissue, 
+
+(2) services provided when a physician has otherwise 
+
+diagnosed a disorder of sexual development that 
+
+the physician has determined through genetic or 
+
+biochemical testing that the person does not have 
+
+normal sex chromosome structure, sex steroid 
+
+hormone production, or sex steroid hormone 
+
+action, 
+
+(3) the treatment of any infection, injury, disease, 
+
+or disorder that has been caused by or 
+
+exacerbated by the performance of gender 
+
+transition procedures, whether or not the gender 
+
+transition procedure was performed in accordance 
+
+with state and federal law, or 
+
+(4) any procedure undertaken because the individual 
+
+suffers from a physical disorder, physical 
+
+injury, or physical illness that would, as 
+
+certified by a physician, place the individual in 
+
+imminent danger of death or impairment of major 
+
+bodily function unless surgery is performed. 
+
+B.  No provider shall be eligible for reimbursement through 
+
+Medicaid or any other federal or state program or any other funding 
+
+from any political subdivision of this state including but not 
+
+
+
+ 
+
+ 
+
+ 
+
+Req. No. 410 Page 4 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+
+ 1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+ 
+limited to cities, towns, municipalities, or counties, directly or 
+
+by subcontract with any other party, if that provider, or any 
+
+affiliate of that provider, performs gender transition procedures. 
+
+C.  Any providers found to be ineligible for reimbursement or 
+
+other funding pursuant to this section shall be able to reapply 
+
+after a period of five (5) years and a showing that they and their 
+
+affiliates no longer participate in gender transition procedures. 
+
+D.  Within sixty (60) calendar days of receipt of a complaint of 
+
+a violation under this section, the Oklahoma Health Care Authority 
+
+shall publish the findings of its investigation of the complaint and 
+
+issue a determination of whether a provider has committed a 
+
+violation of the provisions of this section.  Nothing in this 
+
+section shall preclude other law enforcement entities or a party in 
+
+qui tam litigation from initiating action regarding this section. 
+
+SECTION 2.  It being immediately necessary for the preservation 
+
+of the public peace, health or safety, an emergency is hereby 
+
+declared to exist, by reason whereof this act shall take effect and 
+
+be in full force from and after its passage and approval. 
+
+ 
+
+59-1-410 DC 1/10/2023 12:49:01 PM 
+
+

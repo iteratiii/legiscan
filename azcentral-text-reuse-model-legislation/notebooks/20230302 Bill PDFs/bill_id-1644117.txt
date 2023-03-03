@@ -1,0 +1,576 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Session of 2023
+
+SENATE BILL No. 12
+
+By Senators Thompson and Steffen
+
+1-5
+
+AN ACT concerning gender identity medical care; creating the crime of 
+unlawful  gender  reassignment  service  and  providing  punishment 
+therefor; providing grounds for unprofessional conduct for healing arts 
+licensees; amending K.S.A. 65-2837 and repealing the existing section.
+
+Be it enacted by the Legislature of the State of Kansas:
+New  Section  1. (a) Unlawful  gender  reassignment  service  is 
+
+knowingly performing, or causing to be performed, any of the following 
+upon a person under  21 years  of  age  for  the  purpose  of  attempting to 
+change  or  affirm  the  person's  perception  of  the  person's  sex,  if  that 
+perception is inconsistent with the person's sex:
+
+(1) A surgery that  sterilizes or is intended to result in sterilization, 
+including,  but  not  limited  to,  castration,  vasectomy,  hysterectomy, 
+oophorectomy, orchiectomy and penectomy;
+
+(2) a surgery that artificially constructs tissue with the appearance of 
+genitalia,  including,  but  not  limited to,  metoidioplasty,  phalloplasty and 
+vaginoplasty;
+
+(3) a mastectomy;
+(4) prescribing, dispensing, administering or otherwise supplying the 
+
+following medications:
+(A) Puberty-blocking  medication  to  delay,  hinder,  stop  or  reverse 
+
+normal puberty;
+(B) supraphysiologic doses of testosterone to females; or
+(C) supraphysiologic doses of estrogen to males; or
+(5) removing  any  otherwise  healthy  or  nondiseased  body  part  or 
+
+tissue.
+(b) Unlawful gender reassignment service is a severity level 4, person 
+
+felony.
+(c) The provisions of this section shall not apply if the person was 
+
+born with a medically verifiable disorder of sex development, including, 
+but not limited to:
+
+(1) A person  with  external  biological  sex  characteristics  that  are 
+irresolvably  ambiguous,  such  as  a  person  born  having  46,XX 
+chromosomes  with  virilization,  46,XY  chromosomes  with 
+undervirilization or both ovarian and testicular tissue; or
+
+(2) when a physician has otherwise diagnosed a disorder of sexual 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+
+
+SB 12 2
+
+development, in which the physician has determined through genetic or 
+biochemical  testing  that  the  person  does  not  have  the  normal  sex 
+chromosome  structure,  sex  steroid  hormone  production  or  sex  steroid 
+hormone action for a male or female of the person's age.
+
+(d) As used in this section, "sex" means the biological state of being 
+female or male, based on the individual's sex organs, chromosomes and 
+endogenous hormone profiles.
+
+(e) This  section  shall  be  known  as  the  Kansas  child  mutilation 
+prevention act.
+
+(f) This  section shall  be a  part  of  and supplemental  to the Kansas 
+criminal code. 
+
+Sec.  2. K.S.A. 65-2837 is hereby amended to read as  follows: 65-
+2837. As used in K.S.A. 65-2836, and amendments thereto, and in this 
+section:
+
+(a) "Professional incompetency" means:
+(1) One  or  more  instances  involving  failure  to  adhere  to  the 
+
+applicable standard of care to a degree that constitutes gross negligence, as 
+determined by the board.
+
+(2) Repeated instances involving failure to adhere to the applicable 
+standard  of  care  to  a  degree  that  constitutes  ordinary  negligence,  as 
+determined by the board.
+
+(3) A  pattern  of  practice  or  other  behavior  that  demonstrates  a 
+manifest incapacity or incompetence to practice the healing arts.
+
+(b) "Unprofessional conduct" means:
+(1) Solicitation ofSoliciting professional patronage through the use of 
+
+fraudulent  or  false  advertisements,  or  profiting  by  the  acts  of  those 
+representing themselves to be agents of the licensee.
+
+(2) Representing  to  a  patient  that  a  manifestly  incurable  disease, 
+condition or injury can be permanently cured.
+
+(3) Assisting in the care or treatment of a patient without the consent 
+of the patient, the attending physician or the patient's legal representatives.
+
+(4) The  use  ofUsing any  letters,  words  or  terms  as  an  affix,  on 
+stationery,  in advertisements or otherwise indicating that  such person is 
+entitled to practice a branch of the healing arts for which such person is 
+not licensed.
+
+(5) Performing, procuring or aiding and abetting in the performance 
+or procurement of a criminal abortion.
+
+(6) Willful betrayal ofWillfully betraying confidential information.
+(7) Advertising  professional  superiority  or  the  performance  of 
+
+professional services in a superior manner.
+(8) Advertising to guarantee any professional service or to perform 
+
+any operation painlessly.
+(9) Participating in any action as a staff member of a medical care 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+
+
+SB 12 3
+
+facility that is designed to exclude or that results in the exclusion of any 
+person licensed to practice medicine and surgery from the medical staff of 
+a  nonprofit  medical  care  facility  licensed  in  this  state  because  of  the 
+branch of the healing arts practiced by such person or without just cause.
+
+(10) FailureFailing to effectuate the declaration of a qualified patient 
+as provided in K.S.A. 65-28,107(a), and amendments thereto.
+
+(11) Prescribing,  ordering,  dispensing,  administering,  selling, 
+supplying  or  giving  any  amphetamines  or  sympathomimetic  amines, 
+except as authorized by K.S.A. 65-2837a, and amendments thereto.
+
+(12) Engaging  in  conduct  likely  to  deceive,  defraud  or  harm  the 
+public.
+
+(13) Making a false or misleading statement regarding the licensee's 
+skill or the efficacy or value of the drug, treatment or remedy prescribed 
+by the licensee or at the licensee's direction in the treatment of any disease 
+or other condition of the body or mind.
+
+(14) Aiding  or  abetting  the  practice  of  the  healing  arts  by  an 
+unlicensed, incompetent or impaired person.
+
+(15) Allowing another  person  or  organization  to  use  the  licensee's 
+license to practice the healing arts.
+
+(16) Commission ofCommitting any act of sexual abuse, misconduct 
+or  other  improper  sexual  contact  that  exploits  the  licensee-patient 
+relationship  with  a  patient  or  a  person  responsible  for health  care 
+healthcare decisions concerning such patient.
+
+(17) The use ofUsing any false, fraudulent or deceptive statement in 
+any document connected with the practice of the healing arts, including the 
+intentional  falsifying or fraudulent  altering of a  patient  or medical  care 
+facility record.
+
+(18) Obtaining any fee by fraud, deceit or misrepresentation.
+(19) Directly or indirectly giving or receiving any fee, commission, 
+
+rebate  or  other  compensation for  professional  services  not  actually and 
+personally rendered,  other  than through the legal  functioning of  lawful 
+professional  partnerships,  corporations,  limited  liability  companies  or 
+associations.
+
+(20) FailureFailing to  transfer  patient  records  to  another  licensee 
+when requested to do so by the subject patient or by such patient's legally 
+designated representative.
+
+(21) Performing unnecessary tests, examinations or services that have 
+no legitimate medical purpose.
+
+(22) Charging an excessive fee for services rendered.
+(23) Prescribing,  dispensing,  administering  or  distributing  a 
+
+prescription  drug  or  substance,  including  a  controlled  substance,  in  an 
+improper  or  inappropriate  manner,  or  for  other  than  a  valid  medical 
+purpose, or not in the course of the licensee's professional practice.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+
+
+SB 12 4
+
+(24) Repeated failureFailing repeatedly to practice healing arts with 
+that level of care, skill and treatment that is recognized by a reasonably 
+prudent similar practitioner as being acceptable under similar conditions 
+and circumstances.
+
+(25) FailureFailing to keep written medical  records  that  accurately 
+describe the services rendered to the patient, including patient  histories, 
+pertinent findings, examination results and test results.
+
+(26) Delegating  professional  responsibilities  to  a  person  when  the 
+licensee knows or has reason to know that such person is not qualified by 
+training, experience or licensure to perform them.
+
+(27) Using experimental  forms of therapy without proper  informed 
+patient  consent,  without  conforming  to  generally  accepted  criteria  or 
+standard  protocols,  without  keeping  detailed  legible  records  or  without 
+having periodic analysis of the study and results reviewed by a committee 
+or peers.
+
+(28) Prescribing, dispensing, administering or distributing an anabolic 
+steroid or human growth hormone for other than a valid medical purpose. 
+Bodybuilding, muscle enhancement or increasing muscle bulk or strength 
+through the use of an anabolic steroid or human growth hormone by a 
+person who is in good health is not a valid medical purpose.
+
+(29) Referring a patient to a health care healthcare entity for services 
+if  the  licensee  has  a  significant  investment  interest  in  the health  care 
+healthcare entity, unless the licensee informs the patient in writing of such 
+significant  investment  interest  and  that  the  patient  may  obtain  such 
+services elsewhere.
+
+(30) Failing  to  properly  supervise,  direct  or  delegate  acts  that 
+constitute the healing arts to persons who perform professional  services 
+pursuant  to  such  licensee's  direction,  supervision,  order,  referral, 
+delegation or practice protocols.
+
+(31) Violating K.S.A. 65-6703, and amendments thereto.
+(32) Charging,  billing  or  otherwise  soliciting  payment  from  any 
+
+patient, patient's representative or insurer for anatomic pathology services, 
+if such services are not personally rendered by the licensee or under such 
+licensee's  direct  supervision.  As  used  in  this  subsection,  "anatomic 
+pathology  services"  means  the  gross  or  microscopic  examination  of 
+histologic processing of human organ tissue or the examination of human 
+cells from fluids, aspirates, washings, brushings or smears, including blood 
+banking  services,  and  subcellular  or  molecular  pathology  services, 
+performed by or under the supervision of  a person licensed to practice 
+medicine and surgery or a clinical laboratory. Nothing in this subsection 
+shall be construed to prohibit billing for anatomic pathology services by:
+
+(A) A hospital;
+(B) a  clinical  laboratory  when  samples  are  transferred  between 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+
+
+SB 12 5
+
+clinical laboratories for the provision of anatomic pathology services; or
+(C) a physician providing services to a patient pursuant to a medical 
+
+retainer agreement in compliance with K.S.A. 65-4978, and amendments 
+thereto, when the bill to the patient for such services:
+
+(i) Identifies the laboratory or physician that performed the services;
+(ii) discloses in writing to the patient the actual amount charged by 
+
+the physician or laboratory that performed the service; and
+(iii) is consistent with rules and regulations adopted by the board for 
+
+appropriate billing standards applicable to such services when furnished 
+under these agreements.
+
+(33) Engaging in conduct that violates patient trust and exploits the 
+licensee-patient relationship for personal gain.
+
+(34) Obstructing a board investigation including, but not limited to, 
+engaging in one or more of the following acts:
+
+(A) Falsifying or concealing a material fact;
+(B) knowingly making or causing to be made any false or misleading 
+
+statement or writing; or
+(C) other acts or conduct likely to deceive or defraud the board.
+(35) Violating section 1, and amendments thereto.
+(c) "False  advertisement"  means  any  advertisement  that  is  false, 
+
+misleading or deceptive in a material respect. In determining whether any 
+advertisement  is  misleading,  there shall  be taken into account not  only 
+representations  made  or  suggested  by statement,  word,  design,  device, 
+sound  or  any  combination  thereof,  but  also  the  extent  to  which  the 
+advertisement  fails  to  reveal  facts  material  in  the  light  of  such 
+representations made.
+
+(d) "Advertisement"  means  all  representations  disseminated  in  any 
+manner or by any means for the purpose of inducing, or that are likely to 
+induce, directly or indirectly, the purchase of professional services.
+
+(e) "Licensee" for purposes of this section and K.S.A. 65-2836, and 
+amendments thereto, means all persons issued a license, permit or special 
+permit  pursuant  to  article  28  of  chapter  65  of  the  Kansas  Statutes 
+Annotated, and amendments thereto.
+
+(f) "License" for purposes of this section and K.S.A. 65-2836, and 
+amendments thereto, means any license, permit or special permit granted 
+under  article  28  of  chapter  65  of  the  Kansas  Statutes  Annotated,  and 
+amendments thereto.
+
+(g) "Health  careHealthcare entity"  means  any  corporation,  firm, 
+partnership or other business entity that provides services for diagnosis or 
+treatment of human health conditions and that is owned separately from a 
+referring licensee's principle practice.
+
+(h) "Significant investment interest" means ownership of at least 10% 
+of the value of the firm, partnership or other business entity that owns or 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+
+
+
+SB 12 6
+
+leases the health care healthcare entity, or ownership of at least 10% of the 
+shares  of  stock  of  the  corporation  that  owns  or  leases  the  health  care 
+healthcare entity.
+
+Sec. 3. K.S.A. 65-2837 is hereby repealed.
+Sec. 4. This act shall take effect and be in force from and after its 
+
+publication in the statute book.
+
+1
+2
+3
+4
+5
+6
+
+
